@@ -1,0 +1,164 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="utf-8" />
+    <base href="http://youweb.tw/library/Sewii/System/Debugger/template/" />
+    <link href="debugger.css" rel="stylesheet" />
+    <title>應用程式發生技術性問題</title>
+  </head>
+  <body>
+    <div id="layout">
+      <h1>應用程式發生技術性問題 (1)</h1>
+      <p id="serverInfo">Apache at youweb.tw Port 80</p>
+      <div class="fieldsets">
+        <fieldset>
+          <legend>問題摘要</legend>
+          <p>找不到符合的網站: user</p>
+        </fieldset> 
+
+        <fieldset>
+          <legend>詳細資訊</legend>
+          <ul class="details">
+            <li><label>錯誤類型:</label>Spanel\Module\Component\Controller\Exception\HttpStatusException (404)</li>
+            <li><label>應用程式:</label>modules/components/Controller/ErrorHandler.php</li>
+            <li><label>中斷行數:</label>32</li>
+            <li><label>請求 URI:</label>/sites/user/styles/images/common/icons/favicon.ico</li>
+            <li><label>請求方法:</label>GET HTTP/1.1</li>   
+          </ul>
+        </fieldset>
+
+        <fieldset>
+          <legend>附加資訊</legend>
+          <ul class="details">
+            <li><label>用戶端資訊:</label><span id="userAgent">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36</span></li>
+            <li><label>連線 IP:</label>125.227.205.229</li>
+            <li><label>發生時間:</label>2020-03-02 11:28:16</li> 
+          </ul>
+        </fieldset>   
+
+        <fieldset class="trace"> 
+          <legend>堆疊追蹤</legend>
+          <p>#0 modules/components/Controller/Site/Site.php(167): Spanel\Module\Component\Controller\ErrorHandler::trigger(404, '找不到符合...')
+#1 modules/components/Controller/Site/Site.php(195): Spanel\Module\Component\Controller\Site\Site::factory('user', 'sites', NULL)
+#2 modules/components/Router/Dispatcher.php(40): Spanel\Module\Component\Controller\Site\Site::executeIntent(Object(Spanel\Module\Component\Router\Intent))
+#3 modules/components/Router/Router.php(134): Spanel\Module\Component\Router\Dispatcher-&gt;dispatch(Object(Spanel\Module\Component\Router\Intent))
+#4 modules/components/Router/Router.php(122): Spanel\Module\Component\Router\Router-&gt;onDispatch(Object(Spanel\Module\Component\Router\Intent))
+#5 modules/components/Router/Router.php(105): Spanel\Module\Component\Router\Router-&gt;onMatch(Object(Spanel\Module\Component\Router\SiteRoute))
+#6 modules/components/Router/Router.php(65): Spanel\Module\Component\Router\Router-&gt;listen()
+#7 [internal function]: Spanel\Module\Component\Router\Router-&gt;initialize()
+#8 library/Sewii/System/Singleton.php(96): call_user_func_array(Array, Array)
+#9 modules/components/Router/Router.php(53): Sewii\System\Singleton::getInstance()
+#10 modules/components/Bootstrap.php(235): Spanel\Module\Component\Router\Router::enter()
+#11 modules/components/Bootstrap.php(59): Spanel\Module\Component\Bootstrap-&gt;boot()
+#12 modules/components/Bootstrap.php(42): Spanel\Module\Component\Bootstrap-&gt;initialize()
+#13 index.php(54): Spanel\Module\Component\Bootstrap::run(Array)
+#14 index.php(31): Index-&gt;initialize()
+#15 index.php(68): Index::run()
+#16 {main}</p>
+        </fieldset>
+
+        <fieldset>
+          <legend>發生原因</legend>
+          <ul id="causes">
+            <li>系統維護中</li>
+            <li>伺服器忙錄中</li>
+            <li>網路連線異常</li>  
+            <li>未預期的錯誤</li>
+          </ul>
+        </fieldset>                                                                  
+
+        <fieldset>
+          <legend>解決方法</legend>
+          <ul id="solves">               
+            <li><a href="javascript:history.go(-1)">回到上一頁</a></li>
+            <li><a href="javascript:window.location.reload()">重新整理此頁面</a></li>
+            <li><a href="javascript:void(window.open('http://youweb.tw/library/Sewii/System/Debugger/Debugger.php?report=%2Fhome%2Fyouweb%2Fpublic_html%2Fresources%2Flogs%2Fdebugs%2Fyouweb.tw%2F20200302112816.html', '_blank'))">洽詢系統管理員</a></li>
+          </ul>
+        </fieldset>
+      </div>
+      <address id="copyright">Powered by &copy; 2020 <a href="mailto:report@sewii.com.tw">Sewii Soft</a> All rights reserved</address>
+    </div>
+  </body>
+</html>
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="utf-8" />
+    <base href="http://youweb.tw/library/Sewii/System/Debugger/template/" />
+    <link href="debugger.css" rel="stylesheet" />
+    <title>應用程式發生技術性問題</title>
+  </head>
+  <body>
+    <div id="layout">
+      <h1>應用程式發生技術性問題 (1)</h1>
+      <p id="serverInfo">Apache at youweb.tw Port 80</p>
+      <div class="fieldsets">
+        <fieldset>
+          <legend>問題摘要</legend>
+          <p>找不到符合的網站: user</p>
+        </fieldset> 
+
+        <fieldset>
+          <legend>詳細資訊</legend>
+          <ul class="details">
+            <li><label>錯誤類型:</label>Spanel\Module\Component\Controller\Exception\HttpStatusException (404)</li>
+            <li><label>應用程式:</label>modules/components/Controller/ErrorHandler.php</li>
+            <li><label>中斷行數:</label>32</li>
+            <li><label>請求 URI:</label>/sites/user/styles/images/common/icons/favicon.ico</li>
+            <li><label>請求方法:</label>GET HTTP/1.1</li>   
+          </ul>
+        </fieldset>
+
+        <fieldset>
+          <legend>附加資訊</legend>
+          <ul class="details">
+            <li><label>用戶端資訊:</label><span id="userAgent">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36</span></li>
+            <li><label>連線 IP:</label>125.227.205.229</li>
+            <li><label>發生時間:</label>2020-03-02 11:28:16</li> 
+          </ul>
+        </fieldset>   
+
+        <fieldset class="trace"> 
+          <legend>堆疊追蹤</legend>
+          <p>#0 modules/components/Controller/Site/Site.php(167): Spanel\Module\Component\Controller\ErrorHandler::trigger(404, '找不到符合...')
+#1 modules/components/Controller/Site/Site.php(195): Spanel\Module\Component\Controller\Site\Site::factory('user', 'sites', NULL)
+#2 modules/components/Router/Dispatcher.php(40): Spanel\Module\Component\Controller\Site\Site::executeIntent(Object(Spanel\Module\Component\Router\Intent))
+#3 modules/components/Router/Router.php(134): Spanel\Module\Component\Router\Dispatcher-&gt;dispatch(Object(Spanel\Module\Component\Router\Intent))
+#4 modules/components/Router/Router.php(122): Spanel\Module\Component\Router\Router-&gt;onDispatch(Object(Spanel\Module\Component\Router\Intent))
+#5 modules/components/Router/Router.php(105): Spanel\Module\Component\Router\Router-&gt;onMatch(Object(Spanel\Module\Component\Router\SiteRoute))
+#6 modules/components/Router/Router.php(65): Spanel\Module\Component\Router\Router-&gt;listen()
+#7 [internal function]: Spanel\Module\Component\Router\Router-&gt;initialize()
+#8 library/Sewii/System/Singleton.php(96): call_user_func_array(Array, Array)
+#9 modules/components/Router/Router.php(53): Sewii\System\Singleton::getInstance()
+#10 modules/components/Bootstrap.php(235): Spanel\Module\Component\Router\Router::enter()
+#11 modules/components/Bootstrap.php(59): Spanel\Module\Component\Bootstrap-&gt;boot()
+#12 modules/components/Bootstrap.php(42): Spanel\Module\Component\Bootstrap-&gt;initialize()
+#13 index.php(54): Spanel\Module\Component\Bootstrap::run(Array)
+#14 index.php(31): Index-&gt;initialize()
+#15 index.php(68): Index::run()
+#16 {main}</p>
+        </fieldset>
+
+        <fieldset>
+          <legend>發生原因</legend>
+          <ul id="causes">
+            <li>系統維護中</li>
+            <li>伺服器忙錄中</li>
+            <li>網路連線異常</li>  
+            <li>未預期的錯誤</li>
+          </ul>
+        </fieldset>                                                                  
+
+        <fieldset>
+          <legend>解決方法</legend>
+          <ul id="solves">               
+            <li><a href="javascript:history.go(-1)">回到上一頁</a></li>
+            <li><a href="javascript:window.location.reload()">重新整理此頁面</a></li>
+            <li><a href="javascript:void(window.open('http://youweb.tw/library/Sewii/System/Debugger/Debugger.php?report=%2Fhome%2Fyouweb%2Fpublic_html%2Fresources%2Flogs%2Fdebugs%2Fyouweb.tw%2F20200302112816.html', '_blank'))">洽詢系統管理員</a></li>
+          </ul>
+        </fieldset>
+      </div>
+      <address id="copyright">Powered by &copy; 2020 <a href="mailto:report@sewii.com.tw">Sewii Soft</a> All rights reserved</address>
+    </div>
+  </body>
+</html>

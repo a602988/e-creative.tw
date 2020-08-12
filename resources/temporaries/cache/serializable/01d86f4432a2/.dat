@@ -1,0 +1,2131 @@
+s:171586:"<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-tw" xml:lang="zh-tw">
+<head itemscope="itemscope" itemtype="http://schema.org/WebSite">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="initial-scale=0.65, user-scalable=no" />
+  <meta name="robots" content="index, follow" />
+  <meta name="revisit-after" content="2 days" />
+  <meta name="author" content="Ecreative Co., Ltd." itemprop="author" />
+  <meta name="description" content="英創達網路是一家充滿新鮮創意及設計熱情的網路公司。我們擁有頂尖質量、橫跨多方面領域的設計團隊，我們擅於打造以創新為本的設計作品、專業於多種領域的軟體工程技術及全方位的服務導向整合，我們深信知識與經驗的累積才是打動人心的服務。" />
+  <meta name="keywords" content="網頁設計, 程式設計, 系統開發, 電子商務, 網路行銷" />
+  <title itemprop="name">英創達網路：高端網頁設計公司、電子商務整合與網路行銷專家</title>
+  <link rel="shortcut icon" href="/sites/user/styles/images/common/icons/favicon.ico" itemprop="image" />
+  <link rel="apple-touch-icon" href="/sites/user/styles/images/common/icons/logo.png" itemprop="image" />
+  <link rel="stylesheet" href="styles/main.css" />
+  <script src="/site/common/initializer"></script>
+</head>
+<body>
+  <div id="layout">
+    <header id="header">
+      <a href="../../" class="logo icon" title="Ecreative">
+        <h1 class="title">英創達網路：高端網頁設計公司、電子商務整合與網路行銷專家</h1>
+      </a>
+      <nav class="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+        <h2 class="heading hidden" itemprop="name">導覽選單</h2>
+        <a href="#" class="collapse">COLLAPSE</a>
+        <div class="scrollable touchable">
+          <ul class="items columns">
+            <li itemprop="name"><a href="../../default" data-id="home" title="首頁" itemprop="url">HOME</a></li>
+            <li itemprop="name"><a href="../../about" data-id="about" title="關於英創達" itemprop="url">ABOUT US</a></li>
+            <li itemprop="name"><a href="../../team" data-id="team" title="團隊介紹" itemprop="url">TEAM</a></li>
+            <li itemprop="name"><a href="../../environment" data-id="environment" title="工作環境" itemprop="url">ENVIRONMENT</a></li>
+            <li itemprop="name"><a href="../../works" data-id="works" title="作品賞析" itemprop="url">WORKS</a></li>
+            <li itemprop="name"><a href="../../contact" data-id="contact" title="聯絡我們" itemprop="url">CONTACT</a></li>
+          </ul>
+        </div>
+      </nav>
+    </header>
+    <main id="main">
+      <article id="home" data-unit="default" class="page" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+        <h2 class="heading hidden" itemprop="name">網站首頁</h2>
+        <div class="slideshow">
+          <div class="scrollable">
+            <div class="items" data-default-ecreative="e000332" data-default-minmax="m000100">
+              <section class="item" data-id="e000332" itemscope="itemscope" itemtype="http://schema.org/Painting">
+                <h3 class="hidden" itemprop="headline">最新網站設計作品：阿原肥皂</h3>
+                <a href="../../works/detail/e000332" class="link" itemprop="url">
+                  <figure class="layers">
+                    <figcaption class="layer" data-depth="0.15">
+                      <div class="caption">
+                        <div class="category">
+                          <span class="title" itemprop="description">Latest Work</span>
+                          <span class="type" itemprop="genre">Web Design</span>
+                        </div>
+                        <div class="name" itemprop="name">YUAN</div>
+                      </div>
+                    </figcaption>
+                    <div class="layer" data-depth="0.010">
+                      <div class="product1 scalable masked">
+                        <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/e000332/product1.png" />
+                      </div>
+                    </div>
+                    <div class="layer" data-depth="0.025">
+                      <div class="product2 scalable masked">
+                        <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/e000332/product2.png" />
+                      </div>
+                    </div>
+                    <div class="layer" data-depth="0.015">
+                      <div class="product3 scalable masked">
+                        <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/e000332/product3.png" />
+                      </div>
+                    </div>
+                    <div class="layer" data-depth="0.020">
+                      <div class="product5 scalable masked">
+                        <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/e000332/product5.png" />
+                      </div>
+                    </div>
+                    <div class="layer" data-depth="0.025">
+                      <div class="product6 scalable masked">
+                        <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/e000332/product6.png" />
+                      </div>
+                    </div>
+                    <div class="layer" data-depth="0.020">
+                      <div class="product7 scalable masked">
+                        <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/e000332/product7.png" />
+                      </div>
+                    </div>
+                    <div class="layer" data-depth="0.015">
+                      <div class="product8 scalable masked">
+                        <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/e000332/product8.png" />
+                      </div>
+                    </div>
+                    <div class="layer" data-depth="0.08">
+                      <div class="displayer scalable masked">
+                        <div class="inside">
+                          <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/e000332/displayer-blank.png" />
+                          <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/e000332/displayer-page2.jpg" />
+                          <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/e000332/displayer-page1.jpg" />
+                        </div>
+                        <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/e000332/displayer-frame.png" />
+                      </div>
+                    </div>
+                    <div class="layer" data-depth="0.05">
+                      <div class="background scalable masked">
+                        <img src="styles/images/common/blank.png" alt="英創達網路" itemprop="image" data-src="styles/images/home/cases/e000332/background.jpg" />
+                      </div>
+                    </div>
+                  </figure>
+                </a>
+              </section>
+              <section class="item" data-id="e000364" itemscope="itemscope" itemtype="http://schema.org/Painting">
+                <h3 class="hidden" itemprop="headline">最新網站設計作品：麻葉餐飲集團</h3>
+                <a href="../../works/detail/e000364" class="link" itemprop="url">
+                  <figure class="layers">
+                    <figcaption class="layer" data-depth="0.15">
+                      <div class="caption">
+                        <div class="category">
+                          <span class="title" itemprop="description">Latest Work</span>
+                          <span class="type" itemprop="genre">Web Design</span>
+                        </div>
+                        <div class="name" itemprop="name">Marihuana</div>
+                      </div>
+                    </figcaption>
+                    <div class="layer" data-depth="0.20">
+                      <div class="displayer scalable masked">
+                        <div class="inside">
+                          <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/e000364/displayer-blank.png" />
+                          <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/e000364/displayer-page2.jpg" />
+                          <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/e000364/displayer-page1.jpg" />
+                        </div>
+                        <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/e000364/displayer-frame.png" />
+                      </div>
+                    </div>
+                    <div class="layer" data-depth="0.05">
+                      <div class="background scalable masked">
+                        <img src="styles/images/common/blank.png" alt="英創達網路" itemprop="image" data-src="styles/images/home/cases/e000364/background.jpg" />
+                      </div>
+                    </div>
+                  </figure>
+                </a>
+              </section>
+              <section class="item" data-id="m000160" itemscope="itemscope" itemtype="http://schema.org/Painting">
+                <h3 class="hidden" itemprop="headline">最新網站設計作品：君鴻國際酒店</h3>
+                <a href="../../works/detail/m000160" class="link" itemprop="url">
+                  <figure class="layers">
+                    <figcaption class="layer" data-depth="0.15">
+                      <div class="caption">
+                        <div class="category">
+                          <span class="title" itemprop="description">Latest Work</span>
+                          <span class="type" itemprop="genre">Web Design</span>
+                        </div>
+                      </div>
+                    </figcaption>
+                    <div class="layer" data-depth="0.16">
+                      <div class="subject">
+                        <strong>85 Sky Tower Hotel</strong>
+                        <p>The Landmark of Kaohsiung</p>
+                      </div>
+                    </div>
+                    <div class="layer" data-depth="0.10">
+                      <div class="month scalable masked">
+                        <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000160/month.png" />
+                      </div>
+                    </div>
+                    <div class="layer" data-depth="0.20">
+                      <div class="displayer scalable masked">
+                        <div class="inside">
+                          <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000160/displayer-blank.png" />
+                          <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000160/displayer-page2.jpg" />
+                          <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000160/displayer-page1.jpg" />
+                        </div>
+                        <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000160/displayer-frame.png" />
+                      </div>
+                    </div>
+                    <div class="layer" data-depth="0.05">
+                      <div class="background scalable masked">
+                        <img src="styles/images/common/blank.png" alt="英創達網路" itemprop="image" data-src="styles/images/home/cases/m000160/background.jpg" />
+                      </div>
+                    </div>
+                  </figure>
+                </a>
+              </section>
+              <section class="item" data-id="e000359" itemscope="itemscope" itemtype="http://schema.org/Painting">
+                <h3 class="hidden" itemprop="headline">最新網站設計作品：台中金典酒店</h3>
+                <a href="../../works/detail/e000359" class="link" itemprop="url">
+                  <figure class="layers">
+                    <figcaption class="layer" data-depth="0.25">
+                      <div class="caption">
+                        <div class="category">
+                          <span class="title" itemprop="description">Latest Work</span>
+                          <span class="type" itemprop="genre">Web Design</span>
+                        </div>
+                      </div>
+                    </figcaption>
+                    <div class="layer" data-depth="0.20">
+                      <div class="subject">
+                        <p>Enjoy yours tour without burden</p>
+                        <strong>The Splendor Hotel</strong>
+                      </div>
+                    </div>
+                    <div class="layer" data-depth="0.30">
+                      <div class="displayer scalable masked">
+                        <div class="inside">
+                          <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/e000359/displayer-blank.png" />
+                          <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/e000359/displayer-page2.jpg" />
+                          <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/e000359/displayer-page1.jpg" />
+                        </div>
+                        <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/e000359/displayer-frame.png" />
+                      </div>
+                    </div>
+                    <div class="layer" data-depth="0.05">
+                      <div class="background scalable masked">
+                        <img src="styles/images/common/blank.png" alt="英創達網路" itemprop="image" data-src="styles/images/home/cases/e000359/background.jpg" />
+                      </div>
+                    </div>
+                  </figure>
+                </a>
+              </section>
+              <section class="item" data-id="e000385" itemscope="itemscope" itemtype="http://schema.org/Painting">
+                <h3 class="hidden" itemprop="headline">最新網站設計作品：法藍瓷</h3>
+                <a href="../../works/detail/e000385" class="link" itemprop="url">
+                  <figure class="layers">
+                    <figcaption class="layer" data-depth="0.16">
+                      <div class="caption">
+                        <div class="category">
+                          <span class="title" itemprop="description">Latest Work</span>
+                          <span class="type" itemprop="genre">Web Design</span>
+                        </div>
+                        <div class="name" itemprop="name">Franz Collection</div>
+                      </div>
+                    </figcaption>
+                    <div class="layer" data-depth="0.01">
+                      <div class="bird scalable masked">
+                        <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/e000385/bird.png" />
+                      </div>
+                    </div>
+                    <div class="layer" data-depth="0.03">
+                      <div class="displayer scalable masked">
+                        <div class="inside">
+                          <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/e000385/displayer-blank.png" />
+                          <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/e000385/displayer-page2.jpg" />
+                          <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/e000385/displayer-page1.jpg" />
+                        </div>
+                        <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/e000385/displayer-frame.png" />
+                      </div>
+                    </div>
+                    <div class="layer" data-depth="0.08">
+                      <div class="product masked">
+                        <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/e000385/product.png" />
+                      </div>
+                    </div>
+                    <div class="layer" data-depth="0.05">
+                      <div class="background masked">
+                        <img src="styles/images/common/blank.png" alt="英創達網路" itemprop="image" data-src="styles/images/home/cases/e000385/background.jpg" />
+                      </div>
+                    </div>
+                  </figure>
+                </a>
+              </section>
+              <section class="item" data-id="e000356" itemscope="itemscope" itemtype="http://schema.org/Painting">
+                <h3 class="hidden" itemprop="headline">最新網站設計作品：凱渥</h3>
+                <a href="../../works/detail/e000356" class="link" itemprop="url">
+                  <figure class="layers">
+                    <figcaption class="layer" data-depth="0.04">
+                      <div class="caption">
+                        <div class="category">
+                          <span class="title" itemprop="description">Latest Work</span>
+                          <span class="type" itemprop="genre">Web Design</span>
+                        </div>
+                        <div class="name" itemprop="name">Chance favors the<br /> prepared mind</div>
+                      </div>
+                    </figcaption>
+                    <div class="layer" data-depth="0.20">
+                      <div class="displayer scalable masked">
+                        <div class="inside">
+                          <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/e000356/displayer-blank.png" />
+                          <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/e000356/displayer-page2.jpg" />
+                          <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/e000356/displayer-page1.jpg" />
+                        </div>
+                        <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/e000356/displayer-frame.png" />
+                      </div>
+                    </div>
+                    <div class="layer" data-depth="0.06">
+                      <div class="logo scalable masked">
+                        <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/e000356/logo.png" />
+                      </div>
+                    </div>
+                    <div class="layer" data-depth="0.05">
+                      <div class="background scalable masked">
+                        <img src="styles/images/common/blank.png" alt="英創達網路" itemprop="image" data-src="styles/images/home/cases/e000356/background.jpg" />
+                      </div>
+                    </div>
+                  </figure>
+                </a>
+              </section>
+              <section class="item" data-id="m000168" itemscope="itemscope" itemtype="http://schema.org/Painting">
+                <h3 class="hidden" itemprop="headline">最新網站設計作品：HP 影像解決方案</h3>
+                <a href="../../works/detail/m000168" class="link" itemprop="url">
+                  <figure class="layers">
+                    <figcaption class="layer" data-depth="0.09">
+                      <div class="caption">
+                        <div class="category">
+                          <span class="title" itemprop="description">Latest Work</span>
+                          <span class="type" itemprop="genre">Web Design</span>
+                        </div>
+                        <div class="name" itemprop="name">HP Image Solution</div>
+                      </div>
+                    </figcaption>
+                    <div class="layer" data-depth="0.25">
+                      <div class="displayer scalable masked">
+                        <div class="inside">
+                          <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000168/displayer-blank.png" />
+                          <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000168/displayer-page2.jpg" />
+                          <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000168/displayer-page1.jpg" />
+                        </div>
+                        <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000168/displayer-frame.png" />
+                      </div>
+                    </div>
+                    <div class="layer" data-depth="0.10">
+                      <div class="product2 scalable masked">
+                        <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000168/product2.png" />
+                      </div>
+                    </div>
+                    <div class="layer" data-depth="0.11">
+                      <div class="product1 scalable masked">
+                        <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000168/product1.png" />
+                      </div>
+                    </div>
+                    <div class="layer" data-depth="0.05">
+                      <div class="background scalable masked">
+                        <img src="styles/images/common/blank.png" alt="英創達網路" itemprop="image" data-src="styles/images/home/cases/m000168/background.jpg" />
+                      </div>
+                    </div>
+                  </figure>
+                </a>
+              </section>
+              <section class="item" data-id="e000331" itemscope="itemscope" itemtype="http://schema.org/Painting">
+                <h3 class="hidden" itemprop="headline">最新網站設計作品：嘉儀企業</h3>
+                <a href="../../works/detail/e000331" class="link" itemprop="url">
+                  <figure class="layers">
+                    <figcaption class="layer" data-depth="0.20">
+                      <div class="caption">
+                        <div class="category">
+                          <span class="title" itemprop="description">Latest Work</span>
+                          <span class="type" itemprop="genre">Web Design</span>
+                        </div>
+                        <div class="name" itemprop="name">Stadler Form</div>
+                      </div>
+                    </figcaption>
+                    <div class="layer" data-depth="0.30">
+                      <div class="displayer scalable masked">
+                        <div class="inside">
+                          <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/e000331/displayer-blank.png" />
+                          <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/e000331/displayer-page2.jpg" />
+                          <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/e000331/displayer-page1.jpg" />
+                        </div>
+                        <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/e000331/displayer-frame.png" />
+                      </div>
+                    </div>
+                    <div class="layer" data-depth="0.05">
+                      <div class="background scalable masked">
+                        <img src="styles/images/common/blank.png" alt="英創達網路" itemprop="image" data-src="styles/images/home/cases/e000331/background.jpg" />
+                      </div>
+                    </div>
+                  </figure>
+                </a>
+              </section>
+              <section class="item" data-id="m000187" itemscope="itemscope" itemtype="http://schema.org/Painting">
+                <h3 class="hidden" itemprop="headline">最新網頁設計作品：PABLO 半熟起司塔</h3>
+                <a href="../../works/detail/m000187" class="link" itemprop="url">
+                  <figure class="layers">
+                    <figcaption class="layer" data-depth="0.25">
+                      <div class="caption">
+                        <div class="category">
+                          <span class="title" itemprop="description">Latest Work</span>
+                          <span class="type" itemprop="genre">Web Design</span>
+                        </div>
+                        <div class="name" itemprop="name">PABLO</div>
+                      </div>
+                    </figcaption>
+                    <div class="layer" data-depth="0.10">
+                      <div class="displayer scalable masked">
+                        <div class="inside">
+                          <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000187/displayer-page2.png" />
+                          <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000187/displayer-page1.png" />
+                        </div>
+                        <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000187/displayer-frame.png" />
+                      </div>
+                    </div>
+                    <div class="layer" data-depth="0.05">
+                      <div class="background scalable masked">
+                        <img src="styles/images/common/blank.png" alt="英創達網路" itemprop="image" data-src="styles/images/home/cases/m000187/background.jpg" />
+                      </div>
+                    </div>
+                  </figure>
+                </a>
+              </section>
+              <section class="item" data-id="m000089" itemscope="itemscope" itemtype="http://schema.org/Painting">
+                <h3 class="hidden" itemprop="headline">最新網頁設計作品：春水堂人文茶館</h3>
+                <a href="../../works/detail/m000089" class="link" itemprop="url">
+                  <figure class="layers">
+                    <figcaption class="layer" data-depth="0.25">
+                      <div class="caption">
+                        <div class="category">
+                          <span class="title" itemprop="description">Latest Work</span>
+                          <span class="type" itemprop="genre">Web Design</span>
+                        </div>
+                        <div class="name" itemprop="name">Chun Shui Tang</div>
+                      </div>
+                    </figcaption>
+                    <div class="layer" data-depth="0.10">
+                      <div class="displayer scalable masked">
+                        <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000089/displayer-blank.png" />
+                        <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000089/displayer-page2.png" />
+                        <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000089/displayer-page1.png" />
+                        <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000089/displayer-frame.png" />
+                      </div>
+                    </div>
+                    <div class="layer" data-depth="0.15">
+                      <div class="cup scalable masked">
+                        <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000089/cup.png" />
+                      </div>
+                    </div>
+                    <div class="layer" data-depth="0.05">
+                      <div class="background scalable masked">
+                        <img src="styles/images/common/blank.png" alt="英創達網路" itemprop="image" data-src="styles/images/home/cases/m000089/background.jpg" />
+                      </div>
+                    </div>
+                  </figure>
+                </a>
+              </section>
+              <section class="item" data-id="m000100" itemscope="itemscope" itemtype="http://schema.org/Painting">
+                <h3 class="hidden" itemprop="headline">最新網站設計作品：錦豪工業</h3>
+                <a href="../../works/detail/m000100" class="link" itemprop="url">
+                  <figure class="layers">
+                    <figcaption class="layer" data-depth="0.20">
+                      <div class="caption">
+                        <div class="category">
+                          <span class="title" itemprop="description">Latest Work</span>
+                          <span class="type" itemprop="genre">Web Design</span>
+                        </div>
+                        <div class="name" itemprop="name">PRAISE</div>
+                      </div>
+                    </figcaption>
+                    <div class="layer" data-depth="0.10">
+                      <div class="subject">
+                        <strong>PROFESSIONAL MANUFACTURER</strong>
+                        <p>THE HALLMARK OF QUALITYIN GARDEN TOOLS</p>
+                      </div>
+                    </div>
+                    <div class="layer" data-depth="0.30">
+                      <div class="displayer scalable masked">
+                        <div class="inside">
+                          <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000100/displayer-blank.png" />
+                          <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000100/displayer-page2.jpg" />
+                          <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000100/displayer-page1.jpg" />
+                        </div>
+                        <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000100/displayer-frame.png" />
+                      </div>
+                    </div>
+                    <div class="layer" data-depth="0.05">
+                      <div class="background scalable masked">
+                        <img src="styles/images/common/blank.png" alt="英創達網路" itemprop="image" data-src="styles/images/home/cases/m000100/background.jpg" />
+                      </div>
+                    </div>
+                  </figure>
+                </a>
+              </section>
+              <section class="item" data-id="m000120" itemscope="itemscope" itemtype="http://schema.org/Painting">
+                <h3 class="hidden" itemprop="headline">最新網站建置作品：復興空廚</h3>
+                <a href="../../works/detail/m000120" class="link" itemprop="url">
+                  <figure class="layers">
+                    <figcaption class="layer" data-depth="0.10">
+                      <div class="caption">
+                        <div class="category">
+                          <span class="title" itemprop="description">Latest Work</span>
+                          <span class="type" itemprop="genre">Web Design</span>
+                        </div>
+                        <div class="name" itemprop="name">TACS</div>
+                      </div>
+                    </figcaption>
+                    <div class="layer" data-depth="0.20">
+                      <div class="product1 scalable masked">
+                        <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000120/product1.png" />
+                      </div>
+                    </div>
+                    <div class="layer" data-depth="0.15">
+                      <div class="product2 scalable masked">
+                        <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000120/product2.png" />
+                      </div>
+                    </div>
+                    <div class="layer" data-depth="0.02">
+                      <div class="displayer scalable masked">
+                        <div class="inside">
+                          <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000120/displayer-blank.png" />
+                          <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000120/displayer-page2.jpg" />
+                          <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000120/displayer-page1.jpg" />
+                        </div>
+                        <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000120/displayer-frame.png" />
+                      </div>
+                    </div>
+                    <div class="layer" data-depth="0.10">
+                      <div class="product3 scalable masked">
+                        <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000120/product3.png" />
+                      </div>
+                    </div>
+                    <div class="layer" data-depth="0.05">
+                      <div class="background scalable masked">
+                        <img src="styles/images/common/blank.png" alt="英創達網路" itemprop="image" data-src="styles/images/home/cases/m000120/background.jpg" />
+                      </div>
+                    </div>
+                  </figure>
+                </a>
+              </section>
+              <section class="item" data-id="m000028" itemscope="itemscope" itemtype="http://schema.org/Painting">
+                <h3 class="hidden" itemprop="headline">最新網站製做作品：日月行館</h3>
+                <a href="../../works/detail/m000028" class="link" itemprop="url">
+                  <figure class="layers">
+                    <figcaption class="layer" data-depth="0.25">
+                      <div class="caption">
+                        <div class="category">
+                          <span class="title" itemprop="description">Latest Work</span>
+                          <span class="type" itemprop="genre">Web Design</span>
+                        </div>
+                        <div class="name" itemprop="name">The Wen Wan Resort</div>
+                      </div>
+                    </figcaption>
+                    <div class="layer" data-depth="0.10">
+                      <div class="displayer scalable masked">
+                        <div class="inside">
+                          <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000028/displayer-blank.png" />
+                          <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000028/displayer-page2.jpg" />
+                          <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000028/displayer-page1.jpg" />
+                        </div>
+                        <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000028/displayer-frame.png" />
+                      </div>
+                    </div>
+                    <div class="layer" data-depth="0.05">
+                      <div class="house scalable masked">
+                        <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000028/house.png" />
+                      </div>
+                    </div>
+                    <div class="layer" data-depth="0.03">
+                      <div class="background scalable masked">
+                        <img src="styles/images/common/blank.png" alt="英創達網路" itemprop="image" data-src="styles/images/home/cases/m000028/background.jpg" />
+                      </div>
+                    </div>
+                  </figure>
+                </a>
+              </section>
+              <section class="item" data-id="m000110" data-excludex="ecreative, minmax" itemscope="itemscope" itemtype="http://schema.org/Painting">
+                <h3 class="hidden" itemprop="headline">最新網站開發作品：台中港酒店</h3>
+                <a href="../../works/detail/m000110" class="link" itemprop="url">
+                  <figure class="layers">
+                    <figcaption class="layer" data-depth="0.25">
+                      <div class="caption">
+                        <div class="category">
+                          <span class="title" itemprop="description">Latest Work</span>
+                          <span class="type" itemprop="genre">Web Design</span>
+                        </div>
+                        <div class="name" itemprop="name">Taichung Harbor Hotel</div>
+                      </div>
+                    </figcaption>
+                    <div class="layer" data-depth="0.10">
+                      <div class="displayer scalable masked">
+                        <div class="inside">
+                          <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000110/displayer-blank.png" />
+                          <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000110/displayer-page2.jpg" />
+                          <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000110/displayer-page1.jpg" />
+                        </div>
+                        <img src="styles/images/common/blank.png" alt="英創達網路" data-src="styles/images/home/cases/m000110/displayer-frame.png" />
+                      </div>
+                    </div>
+                    <div class="layer" data-depth="0.04">
+                      <div class="background scalable masked">
+                        <img src="styles/images/common/blank.png" alt="英創達網路" itemprop="image" data-src="styles/images/home/cases/m000110/background.jpg" />
+                      </div>
+                    </div>
+                  </figure>
+                </a>
+              </section>
+            </div>
+          </div>
+          <div class="pager">
+            <ul class="inline columns">
+              <li><a href="../../default/to/e000332" data-id="e000332">瀏覽網頁設計作品：阿原肥皂</a></li>
+              <li><a href="../../default/to/e000364" data-id="e000364">瀏覽網頁設計作品：麻葉餐飲集團</a></li>
+              <li><a href="../../default/to/m000160" data-id="m000160">瀏覽網頁設計作品：君鴻國際酒店</a></li>
+              <li><a href="../../default/to/e000359" data-id="e000359">瀏覽網頁設計作品：台中金典酒店</a></li>
+              <li><a href="../../default/to/e000385" data-id="e000385">瀏覽網頁設計作品：法藍瓷</a></li>
+              <li><a href="../../default/to/e000356" data-id="e000356">瀏覽網頁設計作品：凱渥</a></li>
+              <li><a href="../../default/to/m000168" data-id="m000168">瀏覽網頁設計作品：HP 影像解決方案</a></li>
+              <li><a href="../../default/to/e000331" data-id="e000331">瀏覽網頁設計作品：嘉儀企業</a></li>
+              <li><a href="../../default/to/m000187" data-id="m000187">瀏覽網頁設計作品：PABLO 半熟起司塔</a></li>
+              <li><a href="../../default/to/m000089" data-id="m000089">瀏覽網頁設計作品：春水堂人文茶館</a></li>
+              <li><a href="../../default/to/m000100" data-id="m000100">瀏覽程式設計作品：錦豪工業</a></li>
+              <li><a href="../../default/to/m000120" data-id="m000120">瀏覽系統開發作品：復興空廚</a></li>
+              <li><a href="../../default/to/m000028" data-id="m000028">瀏覽網路行銷作品：日月行館</a></li>
+              <li><a href="../../default/to/m000110" data-id="m000110">瀏覽電子商務作品：台中港酒店</a></li>
+            </ul>
+          </div>
+        </div>
+      </article>
+      <article id="about" data-unit="about" class="page" itemscope="itemscope" itemtype="http://schema.org/AboutPage">
+        <h2 class="heading hidden" itemprop="name">關於我們</h2>
+        <div class="banner">
+          <ul class="items columns">
+            <li class="item masked scalable"><img src="styles/images/common/blank.png" alt="英創達網路" itemprop="image" data-src="styles/images/about/banners/03.jpg" /></li>
+            <li class="item masked scalable"><img src="styles/images/common/blank.png" alt="英創達網路" itemprop="image" data-src="styles/images/about/banners/02.jpg" /></li>
+            <li class="item masked scalable"><img src="styles/images/common/blank.png" alt="英創達網路" itemprop="image" data-src="styles/images/about/banners/01.jpg" /></li>
+          </ul>
+          <div class="description">
+            <div class="caption">Inspire Change</div>
+            <div class="english" itemprop="description">Knowledge, experience and fresh ideas</div>
+            <div class="chinese" itemprop="description">知識、經驗與創新的想法，我們知道你需要甚麼！</div>
+          </div>
+        </div>
+        <div class="info">
+          <div class="brief">
+            <div class="inner">
+              <span data-id="first">What we do ?</span>
+              <span data-id="second">We can do...</span>
+              <span data-id="third" itemprop="keywords">Web Design<br />網頁設計</span>
+              <span data-id="fourth" itemprop="keywords">Programming<br />程式設計</span>
+              <span data-id="fifth" itemprop="keywords">App Development<br />手機開發</span>
+              <span data-id="sixth" itemprop="keywords">System Integration<br />系統整合</span>
+              <span data-id="seventh" itemprop="keywords">E-commerce<br />電子商務</span>
+              <span data-id="eighth" itemprop="keywords">Identity Design<br />品牌形像</span>
+              <span data-id="ninth" itemprop="keywords">Global Marketing<br />網路行銷</span>
+              <span data-id="last">Anything</span>
+            </div>
+          </div>
+          <div class="text">
+            <div class="scrollbox">
+              <div class="viewport">
+                <div class="scrollable" itemprop="text">
+                  <p>
+                    英創達網路最早起萌於 2008 年的盛夏，我們是一家充滿新鮮創意及設計熱情的網路公司。
+                    ＂臻至完美、近乎苛求＂恰如其分的為英創達網路寫實了經營理念，多年以來，我們培育與精鍊出了一群優秀聲譽、
+                    頂尖質量的好手，並且橫跨多方面領域的設計團隊，我們擅於打造以創新為本的設計作品、
+                    專業於多種領域的軟體工程技術及全方位的服務導向整合，英創達網路總是企圖將創意發揮到淋漓盡現，
+                    並且努力使命必達，我們深信知識與經驗的累積才是打動人心的服務。
+                  </p>
+                  <p>
+                    然而在英創達網路，我們對於這裡的所有成員，無論他們所負責的部門職責為何，
+                    都期待大家具備創意思維和解決方案。創新的形式有許多種，
+                    但我們的開發人員總是能在不斷的腦力激盪下創造出無限可期的精彩新意。
+                    對於設計美學的堅持，以及在這裡所面對的每一個專案執行，我們希望將品牌設計理念傳達給消費者，
+                    設計是無形的品味，更是具體的視覺表現，如何賦予創意無限的可能性，
+                    如何從『有形的生產消費』轉變成『無形的生活價值』，才是我們追崇的夢想種子。
+                  </p>
+                  <p>
+                    用心傾聽客戶的需求，以獨一無二的風格，全然不凡的質感，為客戶開創嶄新的品牌價值與尊嚴。
+                    更以不斷突破的網路技術，令人驚艷的領航設計，來為我們的客戶服務。在這個過程中，
+                    我們堅持只保留最完美的部份給我們的客戶，而且我們總是努力不懈的設法超越客戶的期待，
+                    因為我們知道你需要什麼！
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </article>
+      <article id="team" data-unit="team" class="page" itemscope="itemscope" itemtype="http://schema.org/ProfilePage">
+        <h3 class="heading hidden" itemprop="name">團隊介紹</h3>
+        <figure class="structure">
+          <figcaption class="caption">
+            <strong class="title" itemprop="description">We are a creative team of designers</strong>
+            <em class="summary" itemprop="description">developers and strategists that you can trust.</em>
+            <em class="chinese icon" itemprop="description">我們是一個充滿創意的工作團隊，集結所有頂尖設計師、優秀開發人員與專業規劃經理，品質令人值得信賴。</em>
+          </figcaption>
+          <div class="people">
+            <div class="scrollable">
+              <ul class="items inline columns">
+                <li class="item" itemscope="itemscope" itemtype="http://schema.org/Person">
+                  <a href="../../team/name/eric" data-id="eric" class="masked" itemprop="url">
+                    <img src="styles/images/common/blank.png" width="104" alt="Eric Chang" itemprop="image" data-src="styles/images/team/people/eric.gif" />
+                    <span hidden="hidden" itemprop="name">Eric Chang</span>
+                  </a>
+                </li>
+                <li class="item" itemscope="itemscope" itemtype="http://schema.org/Person">
+                  <a href="../../team/name/jean" data-id="jean" class="masked" itemprop="url">
+                    <img src="styles/images/common/blank.png" width="112" alt="Jean Lin" itemprop="image" data-src="styles/images/team/people/jean.gif" />
+                    <span hidden="hidden" itemprop="name">Jean Lin</span>
+                  </a>
+                </li>
+                <li class="item" itemscope="itemscope" itemtype="http://schema.org/Person">
+                  <a href="../../team/name/joe" data-id="joe" class="masked" itemprop="url">
+                    <img src="styles/images/common/blank.png" width="133" alt="Joe Lin" itemprop="image" data-src="styles/images/team/people/joe.gif" />
+                    <span hidden="hidden" itemprop="name">Joe Lin</span>
+                  </a>
+                </li>
+                <li class="item" itemscope="itemscope" itemtype="http://schema.org/Person">
+                  <a href="../../team/name/ava" data-id="ava" class="masked" itemprop="url">
+                    <img src="styles/images/common/blank.png" width="160" alt="Ava Xiao" itemprop="image" data-src="styles/images/team/people/ava.gif" />
+                    <span hidden="hidden" itemprop="name">Ava Xiao</span>
+                  </a>
+                </li>
+                <li class="item" itemscope="itemscope" itemtype="http://schema.org/Person">
+                  <a href="../../team/name/mia" data-id="mia" class="masked" itemprop="url">
+                    <img src="styles/images/common/blank.png" width="99" alt="Mia Liu" data-src="styles/images/team/people/mia.gif" />
+                    <span hidden="hidden" itemprop="name">Mia Liu</span>
+                  </a>
+                </li>
+                <li class="item" itemscope="itemscope" itemtype="http://schema.org/Person">
+                  <a href="../../team/name/nomi" data-id="nomi" class="masked" itemprop="url">
+                    <img src="styles/images/common/blank.png" width="116" alt="Nomi Zhuang" itemprop="image" data-src="styles/images/team/people/nomi.gif" />
+                    <span hidden="hidden" itemprop="name">Nomi Zhuang</span>
+                  </a>
+                </li>
+                <li class="item" itemscope="itemscope" itemtype="http://schema.org/Person">
+                  <a href="../../team/name/tina" data-id="tina" class="masked" itemprop="url">
+                    <img src="styles/images/common/blank.png" width="135" alt="Tina Liou" itemprop="image" data-src="styles/images/team/people/tina.gif" />
+                    <span hidden="hidden" itemprop="name">Tina Liou</span>
+                  </a>
+                </li>
+                <li class="item" itemscope="itemscope" itemtype="http://schema.org/Person">
+                  <a href="../../team/name/mandy" data-id="mandy" class="masked" itemprop="url">
+                    <img src="styles/images/common/blank.png" width="124" alt="Mandy Chen" itemprop="image" data-src="styles/images/team/people/mandy.gif" />
+                    <span hidden="hidden" itemprop="name">Mandy Chen</span>
+                  </a>
+                </li>
+                <li class="item" itemscope="itemscope" itemtype="http://schema.org/Person">
+                  <a href="../../team/name/daniel" data-id="daniel" class="masked" itemprop="url">
+                    <img src="styles/images/common/blank.png" width="126" alt="Daniel Chen" itemprop="image" data-src="styles/images/team/people/daniel.gif" />
+                    <span hidden="hidden" itemprop="name">Daniel Chen</span>
+                  </a>
+                </li>
+                <li class="item" itemscope="itemscope" itemtype="http://schema.org/Person">
+                  <a href="../../team/name/plane" data-id="plane" class="masked" itemprop="url">
+                    <img src="styles/images/common/blank.png" width="178" alt="Plane Zhao" itemprop="image" data-src="styles/images/team/people/plane.gif" />
+                    <span hidden="hidden" itemprop="name">Plane Zhao</span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <a href="#" class="prev icon">Prev</a>
+            <a href="#" class="next icon">Next</a>
+          </div>
+        </figure>
+        <div id="team-person" class="person">
+          <div class="items">
+            <div class="item" data-id="eric" itemscope="itemscope" itemtype="http://schema.org/Person">
+              <div class="inner">
+                <div class="picture">
+                  <div class="masked">
+                    <img src="styles/images/common/blank.png" alt="Eric Chang" itemprop="image" data-src="styles/images/team/person/eric.png" />
+                  </div>
+                </div>
+                <div class="brief">
+                  <small class="title">
+                    <span class="chinese" itemprop="jobTitle">創意總監</span>
+                    <span class="english" itemprop="jobTitle">Creative Director</span>
+                  </small>
+                  <strong class="name" itemprop="name">Eric Chang</strong>
+                  <div class="summary" itemprop="description">
+                    <p>
+                      創意，源自於瞬間的感動，真心的投入就會非常有感覺，用心聆聽客戶的需求，從中捕捉最真實的”感動”。
+                      善於以專業精闢的規劃能力與豐富的網路經驗，打造出企業與品牌嶄新的形象與創意的無限魅力。
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="item" data-id="jean" itemscope="itemscope" itemtype="http://schema.org/Person">
+              <div class="inner">
+                <div class="picture">
+                  <div class="masked">
+                    <img src="styles/images/common/blank.png" alt="Jean Lin" itemprop="image" data-src="styles/images/team/person/jean.png" />
+                  </div>
+                </div>
+                <div class="brief">
+                  <small class="title">
+                    <span class="chinese" itemprop="jobTitle">設計總監</span>
+                    <span class="english" itemprop="jobTitle">Design Director</span>
+                  </small>
+                  <strong class="name" itemprop="name">Jean Lin</strong>
+                  <div class="summary" itemprop="description">
+                    <p>
+                      人類漫長的歷史中，所謂設計美學時刻在經歷著各種衍變和流派的洗禮，我們也很難去評論哪種風格是最優秀的，
+                      事實上這些風格和流派總是因人而異，或許，正因為如此，設計只有經典，而卻無法成為永恒。
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="item" data-id="joe" itemscope="itemscope" itemtype="http://schema.org/Person">
+              <div class="inner">
+                <div class="picture">
+                  <div class="masked">
+                    <img src="styles/images/common/blank.png" alt="Joe Lin" itemprop="image" data-src="styles/images/team/person/joe.png" />
+                  </div>
+                </div>
+                <div class="brief">
+                  <small class="title">
+                    <span class="chinese" itemprop="jobTitle">技術總監</span>
+                    <span class="english" itemprop="jobTitle">Technical Director</span>
+                  </small>
+                  <strong class="name" itemprop="name">Joe Lin</strong>
+                  <div class="summary" itemprop="description">
+                    <p>
+                      面向技術，往往不是只有深度，還需要有足夠的廣度，當面對看似艱澀難懂的複雜問題時，或許只要轉個彎，
+                      就會豁然開朗得找到出口。其實越是簡單越有力量！如何化繁為簡、駕簡馭繁才是智慧的核心價值。
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="item" data-id="ava" itemscope="itemscope" itemtype="http://schema.org/Person">
+              <div class="inner">
+                <div class="picture">
+                  <div class="masked">
+                    <img src="styles/images/common/blank.png" alt="Ava Xiao" itemprop="image" data-src="styles/images/team/person/ava.png" />
+                  </div>
+                </div>
+                <div class="brief">
+                  <small class="title">
+                    <span class="chinese" itemprop="jobTitle">專案經理</span>
+                    <span class="english" itemprop="jobTitle">Project Manager</span>
+                  </small>
+                  <strong class="name" itemprop="name">Ava Xiao</strong>
+                  <div class="summary" itemprop="description">
+                    <p>
+                      憑藉著女性細膩獨到的眼光，專注於探究客戶的產業與市場需求，擬定完整網路商業策略及專案規劃,
+                      曾經協助許多中小企業建立獨樹一格的品牌形象與嶄新風格, 我們始終相信客戶的成功才是我們最大的成功。
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="item" data-id="mia" itemscope="itemscope" itemtype="http://schema.org/Person">
+              <div class="inner">
+                <div class="picture">
+                  <div class="masked">
+                    <img src="styles/images/common/blank.png" alt="Mia Liu" itemprop="image" data-src="styles/images/team/person/mia.png" />
+                  </div>
+                </div>
+                <div class="brief">
+                  <small class="title">
+                    <span class="chinese" itemprop="jobTitle">總設計師</span>
+                    <span class="english" itemprop="jobTitle">Chief Designer</span>
+                  </small>
+                  <strong class="name" itemprop="name">Mia Liu</strong>
+                  <div class="summary" itemprop="description">
+                    <p>
+                      善於以豐富的色彩美學與富有設計感的藝術天份，打破傳統的框架思維，憑著優異的美學見解，
+                      提供給使用者愉悅舒適的瀏覽體驗，擅以將繁複的架構整理出有跡可循的脈絡，以打造出令人愛不釋手的作品。
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="item" data-id="nomi" itemscope="itemscope" itemtype="http://schema.org/Person">
+              <div class="inner">
+                <div class="picture">
+                  <div class="masked">
+                    <img src="styles/images/common/blank.png" alt="Nomi Zhuang" itemprop="image" data-src="styles/images/team/person/nomi.png" />
+                  </div>
+                </div>
+                <div class="brief">
+                  <small class="title">
+                    <span class="chinese" itemprop="jobTitle">資深設計師</span>
+                    <span class="english" itemprop="jobTitle">Senior Designer</span>
+                  </small>
+                  <strong class="name" itemprop="name">Nomi Zhuang</strong>
+                  <div class="summary" itemprop="description">
+                    <p>
+                      設計提供的除了是美學之外還應該提供人性化功能，只要能夠多投入一點心靈上的巧思，設計便得以更深入人心，
+                      才更能值得稱為佳作，喜歡參與團隊間的腦力激盪，在理性的探討之下，讓設計作品琢至完美境界。
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="item" data-id="tina" itemscope="itemscope" itemtype="http://schema.org/Person">
+              <div class="inner">
+                <div class="picture">
+                  <div class="masked">
+                    <img src="styles/images/common/blank.png" alt="Tina Liou" itemprop="image" data-src="styles/images/team/person/tina.png" />
+                  </div>
+                </div>
+                <div class="brief">
+                  <small class="title">
+                    <span class="chinese" itemprop="jobTitle">網頁設計師</span>
+                    <span class="english" itemprop="jobTitle">Web Designer</span>
+                  </small>
+                  <strong class="name" itemprop="name">Tina Liou</strong>
+                  <div class="summary" itemprop="description">
+                    <p>
+                      喜歡運用多元符號，來塑造設計的獨特性，經常涉獵各類型的文化題材與元素，並加以重新詮釋，
+                      來突破單一手法的市場慣性設計。以圖層與透明度營造縱深，自然帶出層次分明的空間感，也讓一切更引人入勝。
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="item" data-id="mandy" itemscope="itemscope" itemtype="http://schema.org/Person">
+              <div class="inner">
+                <div class="picture">
+                  <div class="masked">
+                    <img src="styles/images/common/blank.png" alt="Mandy Chen" itemprop="image" data-src="styles/images/team/person/mandy.png" />
+                  </div>
+                </div>
+                <div class="brief">
+                  <small class="title">
+                    <span class="chinese" itemprop="jobTitle">網頁設計師</span>
+                    <span class="english" itemprop="jobTitle">Web Designer</span>
+                  </small>
+                  <strong class="name" itemprop="name">Mandy Chen</strong>
+                  <div class="summary" itemprop="description">
+                    <p>
+                      源至於對設計與藝術的熱愛，憑藉熱忱與務實的學習態度，逐步累積實力並摸索出獨創之風格。
+                      善於運用明快清晰的現代設計技巧鋪排，以及充滿令人驚喜的創意設計，在美感與商業需求之間的取得完美平衡。
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="item" data-id="daniel" itemscope="itemscope" itemtype="http://schema.org/Person">
+              <div class="inner">
+                <div class="picture">
+                  <div class="masked">
+                    <img src="styles/images/common/blank.png" alt="Daniel Chen" itemprop="image" data-src="styles/images/team/person/daniel.png" />
+                  </div>
+                </div>
+                <div class="brief">
+                  <small class="title">
+                    <span class="chinese" itemprop="jobTitle">總工程師</span>
+                    <span class="english" itemprop="jobTitle">Chief Engineer</span>
+                  </small>
+                  <strong class="name" itemprop="name">Daniel Chen</strong>
+                  <div class="summary" itemprop="description">
+                    <p>
+                      有時候我們會因為害怕而不敢突破，希望能藉著正面的力量，讓我們的團隊能擁有屬於自己表現的空間。
+                      當看見大家的努力與突破，當每個人願意給自己機會去嘗試的時候，那份成長才是我們能真實地感受到的！
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="item" data-id="plane" itemscope="itemscope" itemtype="http://schema.org/Person">
+              <div class="inner">
+                <div class="picture">
+                  <div class="masked">
+                    <img src="styles/images/common/blank.png" alt="Plane Zhao" itemprop="image" data-src="styles/images/team/person/plane.png" />
+                  </div>
+                </div>
+                <div class="brief">
+                  <small class="title">
+                    <span class="chinese" itemprop="jobTitle">網頁工程師</span>
+                    <span class="english" itemprop="jobTitle">Web Engineer</span>
+                  </small>
+                  <strong class="name" itemprop="name">Plane Zhao</strong>
+                  <div class="summary" itemprop="description">
+                    <p>
+                      如何打造出高品質使用者體驗的產品一直以來是團隊共同的目標，身為團隊中的一員除了感到興奮之外，
+                      還讓我學習到協力開發的重要性，因為除了享受設計細節的工作之外，我們還更在意使用者體驗的感覺。
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <a href="#" class="close icon">Close</a>
+          <a href="#" class="prev icon">Prev</a>
+          <a href="#" class="next icon">Next</a>
+        </div>
+      </article>
+      <article id="environment" data-unit="environment" class="page" itemscope="itemscope" itemtype="http://schema.org/ItemPage">
+        <h3 class="heading hidden" itemprop="name">工作環境</h3>
+        <figure class="structure">
+          <figcaption class="caption">
+            <div class="inner">
+              <strong class="title">Environment</strong>
+              <em class="summary" itemprop="description">
+                英創達網路擁有業界資深的設計師和嚴謹要求細節的開發人員，
+                我們的團隊提供了一個專業和值得信賴的品質，
+                並以豐富的經驗和極高的標準，在一個充滿活力熱情的環境中為您服務。
+              </em>
+            </div>
+          </figcaption>
+          <div class="pictures">
+            <div class="inner masked">
+              <div class="scrollable">
+                <ul class="gallery1 items inline columns">
+                  <li class="item" itemscope="itemscope" itemtype="http://schema.org/Photograph">
+                    <a href="../../environment/photo/7" data-id="7" class="scalable masked" itemprop="url">
+                      <img src="styles/images/common/blank.png" alt="餐廳休息區" itemprop="image" data-src="styles/images/environment/pictures/07.jpg" />
+                    </a>
+                  </li>
+                  <li class="item" itemscope="itemscope" itemtype="http://schema.org/Photograph">
+                    <a href="../../environment/photo/2" data-id="2" class="scalable masked" itemprop="url">
+                      <img src="styles/images/common/blank.png" alt="門關一偶" itemprop="image" data-src="styles/images/environment/pictures/02.jpg" />
+                    </a>
+                  </li>
+                  <li class="item" itemscope="itemscope" itemtype="http://schema.org/Photograph">
+                    <a href="../../environment/photo/8" data-id="8" class="scalable masked" itemprop="url">
+                      <img src="styles/images/common/blank.png" alt="玄關氣氛造景" itemprop="image" data-src="styles/images/environment/pictures/08.jpg" />
+                    </a>
+                  </li>
+                  <li class="item" itemscope="itemscope" itemtype="http://schema.org/Photograph">
+                    <a href="../../environment/photo/15" data-id="15" class="scalable masked" itemprop="url">
+                      <img src="styles/images/common/blank.png" alt="寬敞的走廊" itemprop="image" data-src="styles/images/environment/pictures/15.jpg" />
+                    </a>
+                  </li>
+                  <li class="item" itemscope="itemscope" itemtype="http://schema.org/Photograph">
+                    <a href="../../environment/photo/13" data-id="13" class="scalable masked" itemprop="url">
+                      <img src="styles/images/common/blank.png" alt="員工圖書室" itemprop="image" data-src="styles/images/environment/pictures/13.jpg" />
+                    </a>
+                  </li>
+                  <li class="item" itemscope="itemscope" itemtype="http://schema.org/Photograph">
+                    <a href="../../environment/photo/1" data-id="1" class="scalable masked" itemprop="url">
+                      <img src="styles/images/common/blank.png" alt="會議室一覽" itemprop="image" data-src="styles/images/environment/pictures/01.jpg" />
+                    </a>
+                  </li>
+                  <li class="item" itemscope="itemscope" itemtype="http://schema.org/Photograph">
+                    <a href="../../environment/photo/16" data-id="16" class="scalable masked" itemprop="url">
+                      <img src="styles/images/common/blank.png" alt="寧靜的閱讀室" itemprop="image" data-src="styles/images/environment/pictures/16.jpg" />
+                    </a>
+                  </li>
+                  <li class="item" itemscope="itemscope" itemtype="http://schema.org/Photograph">
+                    <a href="../../environment/photo/6" data-id="6" class="scalable masked" itemprop="url">
+                      <img src="styles/images/common/blank.png" alt="貴賓接待區" itemprop="image" data-src="styles/images/environment/pictures/06.jpg" />
+                    </a>
+                  </li>
+                </ul>
+                <ul class="gallery2 items inline columns">
+                  <li class="item" itemscope="itemscope" itemtype="http://schema.org/Photograph">
+                    <a href="../../environment/photo/5" data-id="5" class="scalable masked" itemprop="url">
+                      <img src="styles/images/common/blank.png" alt="創意從這裡發想" itemprop="image" data-src="styles/images/environment/pictures/05.jpg" />
+                    </a>
+                  </li>
+                  <li class="item" itemscope="itemscope" itemtype="http://schema.org/Photograph">
+                    <a href="../../environment/photo/14" data-id="14" class="scalable masked" itemprop="url">
+                      <img src="styles/images/common/blank.png" alt="美麗的設計總監" itemprop="image" data-src="styles/images/environment/pictures/14.jpg" />
+                    </a>
+                  </li>
+                  <li class="item" itemscope="itemscope" itemtype="http://schema.org/Photograph">
+                    <a href="../../environment/photo/9" data-id="9" class="scalable masked" itemprop="url">
+                      <img src="styles/images/common/blank.png" alt="主管辦公室" itemprop="image" data-src="styles/images/environment/pictures/09.jpg" />
+                    </a>
+                  </li>
+                  <li class="item" itemscope="itemscope" itemtype="http://schema.org/Photograph">
+                    <a href="../../environment/photo/11" data-id="11" class="scalable masked" itemprop="url">
+                      <img src="styles/images/common/blank.png" alt="充滿活力的工作環境" itemprop="image" data-src="styles/images/environment/pictures/11.jpg" />
+                    </a>
+                  </li>
+                  <li class="item">
+                    <a href="../../environment/photo/18" data-id="18" class="scalable masked" itemprop="url">
+                      <img src="styles/images/common/blank.png" alt="專注的技術總監" itemprop="image" data-src="styles/images/environment/pictures/18.jpg" />
+                    </a>
+                  </li>
+                  <li class="item" itemscope="itemscope" itemtype="http://schema.org/Photograph">
+                    <a href="../../environment/photo/12" data-id="12" class="scalable masked" itemprop="url">
+                      <img src="styles/images/common/blank.png" alt="乾淨明亮的辦公室" itemprop="image" data-src="styles/images/environment/pictures/12.jpg" />
+                    </a>
+                  </li>
+                  <li class="item" itemscope="itemscope" itemtype="http://schema.org/Photograph">
+                    <a href="../../environment/photo/3" data-id="3" class="scalable masked" itemprop="url">
+                      <img src="styles/images/common/blank.png" alt="會議實況轉播" itemprop="image" data-src="styles/images/environment/pictures/03.jpg" />
+                    </a>
+                  </li>
+                  <li class="item" itemscope="itemscope" itemtype="http://schema.org/Photograph">
+                    <a href="../../environment/photo/10" data-id="10" class="scalable masked" itemprop="url">
+                      <img src="styles/images/common/blank.png" alt="熱情的創意總監" itemprop="image" data-src="styles/images/environment/pictures/10.jpg" />
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </figure>
+        <div class="lightbox">
+          <div class="planes">
+            <div class="plane scalable masked" data-id="7" itemscope="itemscope" itemtype="http://schema.org/Photograph">
+              <img src="styles/images/common/blank.png" alt="餐廳休息區" itemprop="image" data-src="styles/images/environment/pictures/07.jpg" />
+            </div>
+            <div class="plane scalable masked" data-id="2" itemscope="itemscope" itemtype="http://schema.org/Photograph">
+              <img src="styles/images/common/blank.png" alt="門關一偶" itemprop="image" data-src="styles/images/environment/pictures/02.jpg" />
+            </div>
+            <div class="plane scalable masked" data-id="8" itemscope="itemscope" itemtype="http://schema.org/Photograph">
+              <img src="styles/images/common/blank.png" alt="玄關氣氛造景" itemprop="image" data-src="styles/images/environment/pictures/08.jpg" />
+            </div>
+            <div class="plane scalable masked" data-id="15" itemscope="itemscope" itemtype="http://schema.org/Photograph">
+              <img src="styles/images/common/blank.png" alt="寬敞的走廊" itemprop="image" data-src="styles/images/environment/pictures/15.jpg" />
+            </div>
+            <div class="plane scalable masked" data-id="13" itemscope="itemscope" itemtype="http://schema.org/Photograph">
+              <img src="styles/images/common/blank.png" alt="員工圖書室" itemprop="image" data-src="styles/images/environment/pictures/13.jpg" />
+            </div>
+            <div class="plane scalable masked" data-id="1" itemscope="itemscope" itemtype="http://schema.org/Photograph">
+              <img src="styles/images/common/blank.png" alt="會議室一覽" itemprop="image" data-src="styles/images/environment/pictures/01.jpg" />
+            </div>
+            <div class="plane scalable masked" data-id="16" itemscope="itemscope" itemtype="http://schema.org/Photograph">
+              <img src="styles/images/common/blank.png" alt="寧靜的閱讀室" itemprop="image" data-src="styles/images/environment/pictures/16.jpg" />
+            </div>
+            <div class="plane scalable masked" data-id="6" itemscope="itemscope" itemtype="http://schema.org/Photograph">
+              <img src="styles/images/common/blank.png" alt="貴賓接待區" itemprop="image" data-src="styles/images/environment/pictures/06.jpg" />
+            </div>
+            <div class="plane scalable masked" data-id="5" itemscope="itemscope" itemtype="http://schema.org/Photograph">
+              <img src="styles/images/common/blank.png" alt="創意從這裡發想" itemprop="image" data-src="styles/images/environment/pictures/05.jpg" />
+            </div>
+            <div class="plane scalable masked" data-id="14" itemscope="itemscope" itemtype="http://schema.org/Photograph">
+              <img src="styles/images/common/blank.png" alt="美麗的設計總監" itemprop="image" data-src="styles/images/environment/pictures/14.jpg" />
+            </div>
+            <div class="plane scalable masked" data-id="9" itemscope="itemscope" itemtype="http://schema.org/Photograph">
+              <img src="styles/images/common/blank.png" alt="主管辦公室" itemprop="image" data-src="styles/images/environment/pictures/09.jpg" />
+            </div>
+            <div class="plane scalable masked" data-id="11" itemscope="itemscope" itemtype="http://schema.org/Photograph">
+              <img src="styles/images/common/blank.png" alt="充滿活力的工作環境" itemprop="image" data-src="styles/images/environment/pictures/11.jpg" />
+            </div>
+            <div class="plane scalable masked" data-id="18" itemscope="itemscope" itemtype="http://schema.org/Photograph">
+              <img src="styles/images/common/blank.png" alt="專注的技術總監" itemprop="image" data-src="styles/images/environment/pictures/18.jpg" />
+            </div>
+            <div class="plane scalable masked" data-id="12" itemscope="itemscope" itemtype="http://schema.org/Photograph">
+              <img src="styles/images/common/blank.png" alt="乾淨明亮的辦公室" itemprop="image" data-src="styles/images/environment/pictures/12.jpg" />
+            </div>
+            <div class="plane scalable masked" data-id="3" itemscope="itemscope" itemtype="http://schema.org/Photograph">
+              <img src="styles/images/common/blank.png" alt="會議實況轉播" itemprop="image" data-src="styles/images/environment/pictures/03.jpg" />
+            </div>
+            <div class="plane scalable masked" data-id="10" itemscope="itemscope" itemtype="http://schema.org/Photograph">
+              <img src="styles/images/common/blank.png" alt="熱情的創意總監" itemprop="image" data-src="styles/images/environment/pictures/10.jpg" />
+            </div>
+          </div>
+        </div>
+      </article>
+      <article id="works" data-unit="works" class="page" itemscope="itemscope" itemtype="http://schema.org/CollectionPage">
+        <h2 class="heading hidden" itemprop="name">作品賞析</h2>
+        <section class="list columns">
+          <h3 class="heading hidden">清單總覽</h3>
+          <div class="scrollable">
+            <div class="items"><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">工研院－工業技術研究學院</h3>
+                <a href="../../works/detail/e000377/%E5%B7%A5%E7%A0%94%E9%99%A2%EF%BC%8D%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E5%AD%B8%E9%99%A2/%E6%9C%8D%E9%A3%BE%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E9%86%AB%E7%99%82%E7%B3%BB%E7%B5%B1/%E8%B7%A8%E5%B9%B3%E5%8F%B0%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/%E8%A8%82%E5%96%AE%E7%B3%BB%E7%B5%B1/%E6%9C%83%E5%93%A1%E7%B3%BB%E7%B5%B1" class="more" itemprop="url">工研院－工業技術研究學院</a>
+                <a href="../../works/detail/e000377" class="link" itemprop="url" data-id="e000377">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="工研院－工業技術研究學院" itemprop="image" data-src="styles/images/works/cases/e000377/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="工研院－工業技術研究學院" itemprop="image" data-src="styles/images/works/cases/e000377/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">奇美博物館</h3>
+                <a href="../../works/detail/e000347/%E5%A5%87%E7%BE%8E%E5%8D%9A%E7%89%A9%E9%A4%A8/%E5%8F%B0%E4%B8%AD%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/CMS%E7%B3%BB%E7%B5%B1/%E5%8B%95%E7%95%AB%E8%A8%AD%E8%A8%88/%E8%B3%BC%E7%89%A9%E8%BB%8A%E7%B3%BB%E7%B5%B1/%E5%BB%A3%E5%91%8A%E8%A8%AD%E8%A8%88" class="more" itemprop="url">奇美博物館</a>
+                <a href="../../works/detail/e000347" class="link" itemprop="url" data-id="e000347">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="奇美博物館" itemprop="image" data-src="styles/images/works/cases/e000347/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="奇美博物館" itemprop="image" data-src="styles/images/works/cases/e000347/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">HP 影像解決方案</h3>
+                <a href="../../works/detail/m000168/HP+%E5%BD%B1%E5%83%8F%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88/%E4%BC%81%E6%A5%AD%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E7%B7%9A%E4%B8%8A%E9%87%91%E6%B5%81/CRM%E7%B3%BB%E7%B5%B1/%E6%89%8B%E6%A9%9F%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/%E6%9C%83%E5%93%A1%E7%B3%BB%E7%B5%B1" class="more" itemprop="url">HP 影像解決方案</a>
+                <a href="../../works/detail/m000168" class="link" itemprop="url" data-id="m000168">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="HP 影像解決方案" itemprop="image" data-src="styles/images/works/cases/m000168/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="HP 影像解決方案" itemprop="image" data-src="styles/images/works/cases/m000168/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">凱渥 - Catwalk</h3>
+                <a href="../../works/detail/e000356/%E5%87%B1%E6%B8%A5+-+Catwalk/%E7%BE%8E%E5%AE%B9%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E9%9F%BF%E6%87%89%E5%BC%8F%E7%B6%B2%E7%AB%99/%E7%B6%B2%E8%B7%AF%E8%A1%8C%E9%8A%B7%E7%B3%BB%E7%B5%B1/%E5%8F%B0%E5%8D%97%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/%E7%B6%B2%E8%B7%AF%E8%A1%8C%E9%8A%B7" class="more" itemprop="url">凱渥 - Catwalk</a>
+                <a href="../../works/detail/e000356" class="link" itemprop="url" data-id="e000356">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="凱渥 - Catwalk" itemprop="image" data-src="styles/images/works/cases/e000356/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="凱渥 - Catwalk" itemprop="image" data-src="styles/images/works/cases/e000356/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">倫飛電腦－Twinhead</h3>
+                <a href="../../works/detail/m000171/%E5%80%AB%E9%A3%9B%E9%9B%BB%E8%85%A6%EF%BC%8DTwinhead/%E7%BE%8E%E5%AE%B9%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E8%A8%82%E6%88%BF%E7%B3%BB%E7%B5%B1/CRM%E7%B3%BB%E7%B5%B1/%E8%B3%BC%E7%89%A9%E8%BB%8A%E7%B3%BB%E7%B5%B1/%E9%86%AB%E7%99%82%E7%B3%BB%E7%B5%B1" class="more" itemprop="url">倫飛電腦－Twinhead</a>
+                <a href="../../works/detail/m000171" class="link" itemprop="url" data-id="m000171">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="倫飛電腦－Twinhead" itemprop="image" data-src="styles/images/works/cases/m000171/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="倫飛電腦－Twinhead" itemprop="image" data-src="styles/images/works/cases/m000171/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">法藍瓷 FRANZ</h3>
+                <a href="../../works/detail/e000385/%E6%B3%95%E8%97%8D%E7%93%B7+FRANZ/%E9%81%8B%E5%8B%95%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E5%BB%A3%E5%91%8A%E8%A8%AD%E8%A8%88/%E5%8B%95%E7%95%AB%E8%A8%AD%E8%A8%88/%E7%B7%9A%E4%B8%8A%E9%87%91%E6%B5%81/CRM%E7%B3%BB%E7%B5%B1" class="more" itemprop="url">法藍瓷 FRANZ</a>
+                <a href="../../works/detail/e000385" class="link" itemprop="url" data-id="e000385">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="法藍瓷 FRANZ" itemprop="image" data-src="styles/images/works/cases/e000385/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="法藍瓷 FRANZ" itemprop="image" data-src="styles/images/works/cases/e000385/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">春水堂人文茶館</h3>
+                <a href="../../works/detail/m000089/%E6%98%A5%E6%B0%B4%E5%A0%82%E4%BA%BA%E6%96%87%E8%8C%B6%E9%A4%A8/%E8%B3%BC%E7%89%A9%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E8%B7%A8%E5%B9%B3%E5%8F%B0%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/iOS%E7%B3%BB%E7%B5%B1/%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88%E6%8E%A8%E8%96%A6/CRM%E7%B3%BB%E7%B5%B1" class="more" itemprop="url">春水堂人文茶館</a>
+                <a href="../../works/detail/m000089" class="link" itemprop="url" data-id="m000089">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="春水堂人文茶館" itemprop="image" data-src="styles/images/works/cases/m000089/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="春水堂人文茶館" itemprop="image" data-src="styles/images/works/cases/m000089/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">復興空廚</h3>
+                <a href="../../works/detail/m000120/%E5%BE%A9%E8%88%88%E7%A9%BA%E5%BB%9A/%E5%93%81%E7%89%8C%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E8%B7%A8%E5%B9%B3%E5%8F%B0%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/%E8%97%A5%E5%B1%80%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E8%A8%82%E6%88%BF%E7%B3%BB%E7%B5%B1/%E5%85%AC%E5%8F%B8%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88" class="more" itemprop="url">復興空廚</a>
+                <a href="../../works/detail/m000120" class="link" itemprop="url" data-id="m000120">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="復興空廚" itemprop="image" data-src="styles/images/works/cases/m000120/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="復興空廚" itemprop="image" data-src="styles/images/works/cases/m000120/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">台灣林內工業</h3>
+                <a href="../../works/detail/e000325/%E5%8F%B0%E7%81%A3%E6%9E%97%E5%85%A7%E5%B7%A5%E6%A5%AD/B2B%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E5%A4%96%E9%8A%B7%E7%94%A2%E6%A5%AD/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E9%A3%AF%E5%BA%97%E7%B3%BB%E7%B5%B1/%E5%95%8F%E5%8D%B7%E8%AA%BF%E6%9F%A5%E7%B3%BB%E7%B5%B1" class="more" itemprop="url">台灣林內工業</a>
+                <a href="../../works/detail/e000325" class="link" itemprop="url" data-id="e000325">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="台灣林內工業" itemprop="image" data-src="styles/images/works/cases/e000325/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="台灣林內工業" itemprop="image" data-src="styles/images/works/cases/e000325/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">奇美 MODEX</h3>
+                <a href="../../works/detail/e000327/%E5%A5%87%E7%BE%8E+MODEX/%E7%B7%9A%E4%B8%8A%E8%B3%BC%E7%89%A9%E7%B3%BB%E7%B5%B1/%E8%B3%BC%E7%89%A9%E7%B6%B2%E7%AB%99/LOGO%E8%A8%AD%E8%A8%88/iOS%E7%B3%BB%E7%B5%B1/%E4%BC%81%E6%A5%AD%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88" class="more" itemprop="url">奇美 MODEX</a>
+                <a href="../../works/detail/e000327" class="link" itemprop="url" data-id="e000327">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="奇美 MODEX" itemprop="image" data-src="styles/images/works/cases/e000327/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="奇美 MODEX" itemprop="image" data-src="styles/images/works/cases/e000327/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">奇美員工購物網站</h3>
+                <a href="../../works/detail/e000276/%E5%A5%87%E7%BE%8E%E5%93%A1%E5%B7%A5%E8%B3%BC%E7%89%A9%E7%B6%B2%E7%AB%99/%E8%B3%BC%E7%89%A9%E7%B6%B2%E7%AB%99/CF%E5%BD%B1%E7%89%87%E6%8B%8D%E6%94%9D/%E7%BE%8E%E9%A3%9F%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E5%BD%A2%E5%83%8F%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E8%AB%96%E5%A3%87%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88" class="more" itemprop="url">奇美員工購物網站</a>
+                <a href="../../works/detail/e000276" class="link" itemprop="url" data-id="e000276">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="奇美員工購物網站" itemprop="image" data-src="styles/images/works/cases/e000276/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="奇美員工購物網站" itemprop="image" data-src="styles/images/works/cases/e000276/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">澄清醫院</h3>
+                <a href="../../works/detail/e000315/%E6%BE%84%E6%B8%85%E9%86%AB%E9%99%A2/%E7%B7%9A%E4%B8%8A%E5%88%B7%E5%8D%A1/%E9%86%AB%E7%99%82%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/%E6%97%85%E9%81%8A%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E5%93%81%E7%89%8C%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88" class="more" itemprop="url">澄清醫院</a>
+                <a href="../../works/detail/e000315" class="link" itemprop="url" data-id="e000315">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="澄清醫院" itemprop="image" data-src="styles/images/works/cases/e000315/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="澄清醫院" itemprop="image" data-src="styles/images/works/cases/e000315/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">摩特動力工業</h3>
+                <a href="../../works/detail/m000040/%E6%91%A9%E7%89%B9%E5%8B%95%E5%8A%9B%E5%B7%A5%E6%A5%AD/%E5%85%AC%E5%8F%B8%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/CF%E5%BD%B1%E7%89%87%E6%8B%8D%E6%94%9D/%E9%86%AB%E7%99%82%E7%B3%BB%E7%B5%B1/%E9%87%91%E6%B5%81%E6%9C%8D%E5%8B%99/iOS%E7%B3%BB%E7%B5%B1" class="more" itemprop="url">摩特動力工業</a>
+                <a href="../../works/detail/m000040" class="link" itemprop="url" data-id="m000040">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="摩特動力工業" itemprop="image" data-src="styles/images/works/cases/m000040/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="摩特動力工業" itemprop="image" data-src="styles/images/works/cases/m000040/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">大樹連鎖藥局</h3>
+                <a href="../../works/detail/e000305/%E5%A4%A7%E6%A8%B9%E9%80%A3%E9%8E%96%E8%97%A5%E5%B1%80/%E5%8F%B0%E5%8C%97%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/%E7%B6%B2%E7%AB%99%E5%84%AA%E5%8C%96/%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/%E8%B3%BC%E7%89%A9%E7%B3%BB%E7%B5%B1/%E7%B7%9A%E4%B8%8A%E8%B3%BC%E7%89%A9" class="more" itemprop="url">大樹連鎖藥局</a>
+                <a href="../../works/detail/e000305" class="link" itemprop="url" data-id="e000305">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="大樹連鎖藥局" itemprop="image" data-src="styles/images/works/cases/e000305/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="大樹連鎖藥局" itemprop="image" data-src="styles/images/works/cases/e000305/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">麻葉餐飲集團</h3>
+                <a href="../../works/detail/e000364/%E9%BA%BB%E8%91%89%E9%A4%90%E9%A3%B2%E9%9B%86%E5%9C%98/ERP%E7%B3%BB%E7%B5%B1/%E4%BC%81%E6%A5%AD%E5%BD%A2%E5%83%8F%E7%B6%B2%E7%AB%99/%E9%81%8B%E5%8B%95%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E5%8F%B0%E4%B8%AD%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/%E6%9C%83%E5%93%A1%E7%B3%BB%E7%B5%B1" class="more" itemprop="url">麻葉餐飲集團</a>
+                <a href="../../works/detail/e000364" class="link" itemprop="url" data-id="e000364">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="麻葉餐飲集團" itemprop="image" data-src="styles/images/works/cases/e000364/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="麻葉餐飲集團" itemprop="image" data-src="styles/images/works/cases/e000364/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">裕珍馨食品</h3>
+                <a href="../../works/detail/m000104/%E8%A3%95%E7%8F%8D%E9%A6%A8%E9%A3%9F%E5%93%81/%E9%85%92%E5%BA%97%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E7%BE%8E%E9%A3%9F%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/iPad%E7%B6%B2%E7%AB%99/%E9%A3%AF%E5%BA%97%E7%B3%BB%E7%B5%B1/API%E4%B8%B2%E6%8E%A5%E6%95%B4%E5%90%88" class="more" itemprop="url">裕珍馨食品</a>
+                <a href="../../works/detail/m000104" class="link" itemprop="url" data-id="m000104">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="裕珍馨食品" itemprop="image" data-src="styles/images/works/cases/m000104/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="裕珍馨食品" itemprop="image" data-src="styles/images/works/cases/m000104/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">茶湯會</h3>
+                <a href="../../works/detail/m000055/%E8%8C%B6%E6%B9%AF%E6%9C%83/%E8%BB%9F%E9%AB%94%E8%A8%AD%E8%A8%88/%E5%8F%B0%E5%8C%97%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/%E7%BE%8E%E9%A3%9F%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E4%BC%81%E6%A5%AD%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88" class="more" itemprop="url">茶湯會</a>
+                <a href="../../works/detail/m000055" class="link" itemprop="url" data-id="m000055">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="茶湯會" itemprop="image" data-src="styles/images/works/cases/m000055/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="茶湯會" itemprop="image" data-src="styles/images/works/cases/m000055/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">添好運點心專門店</h3>
+                <a href="../../works/detail/m000145/%E6%B7%BB%E5%A5%BD%E9%81%8B%E9%BB%9E%E5%BF%83%E5%B0%88%E9%96%80%E5%BA%97/%E7%B6%B2%E8%B7%AF%E9%96%8B%E5%BA%97/%E5%A4%96%E9%8A%B7%E7%94%A2%E6%A5%AD/%E6%88%BF%E5%9C%B0%E7%94%A2%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E5%B9%B3%E9%9D%A2%E8%A8%AD%E8%A8%88/%E7%B6%B2%E8%B7%AF%E5%95%86%E5%9F%8E" class="more" itemprop="url">添好運點心專門店</a>
+                <a href="../../works/detail/m000145" class="link" itemprop="url" data-id="m000145">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="添好運點心專門店" itemprop="image" data-src="styles/images/works/cases/m000145/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="添好運點心專門店" itemprop="image" data-src="styles/images/works/cases/m000145/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">朝日調理器工業</h3>
+                <a href="../../works/detail/e000316/%E6%9C%9D%E6%97%A5%E8%AA%BF%E7%90%86%E5%99%A8%E5%B7%A5%E6%A5%AD/%E7%BE%8E%E9%A3%9F%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E8%B7%A8%E5%B9%B3%E5%8F%B0%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/%E4%BC%81%E6%A5%AD%E5%BD%A2%E5%83%8F%E7%B6%B2%E7%AB%99/%E6%89%8B%E6%A9%9F%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/ERP%E7%B3%BB%E7%B5%B1%E6%95%B4%E5%90%88" class="more" itemprop="url">朝日調理器工業</a>
+                <a href="../../works/detail/e000316" class="link" itemprop="url" data-id="e000316">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="朝日調理器工業" itemprop="image" data-src="styles/images/works/cases/e000316/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="朝日調理器工業" itemprop="image" data-src="styles/images/works/cases/e000316/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">台北喜來登大飯店</h3>
+                <a href="../../works/detail/m000109/%E5%8F%B0%E5%8C%97%E5%96%9C%E4%BE%86%E7%99%BB%E5%A4%A7%E9%A3%AF%E5%BA%97/%E4%BC%81%E6%A5%AD%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E7%B7%9A%E4%B8%8A%E8%B3%BC%E7%89%A9%E7%B3%BB%E7%B5%B1/%E5%95%86%E6%A5%AD%E6%94%9D%E5%BD%B1/%E5%95%8F%E5%8D%B7%E8%AA%BF%E6%9F%A5%E7%B3%BB%E7%B5%B1/%E7%B6%B2%E7%AB%99%E5%84%AA%E5%8C%96" class="more" itemprop="url">台北喜來登大飯店</a>
+                <a href="../../works/detail/m000109" class="link" itemprop="url" data-id="m000109">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="台北喜來登大飯店" itemprop="image" data-src="styles/images/works/cases/m000109/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="台北喜來登大飯店" itemprop="image" data-src="styles/images/works/cases/m000109/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">圓山飯店</h3>
+                <a href="../../works/detail/e000330/%E5%9C%93%E5%B1%B1%E9%A3%AF%E5%BA%97/%E8%A8%82%E5%96%AE%E7%B3%BB%E7%B5%B1/SEO%E5%84%AA%E5%8C%96/CMS%E7%B3%BB%E7%B5%B1/iPad%E7%B6%B2%E7%AB%99/%E9%9B%BB%E5%AD%90%E5%95%86%E5%8B%99" class="more" itemprop="url">圓山飯店</a>
+                <a href="../../works/detail/e000330" class="link" itemprop="url" data-id="e000330">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="圓山飯店" itemprop="image" data-src="styles/images/works/cases/e000330/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="圓山飯店" itemprop="image" data-src="styles/images/works/cases/e000330/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">日月行館</h3>
+                <a href="../../works/detail/m000028/%E6%97%A5%E6%9C%88%E8%A1%8C%E9%A4%A8/%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88%E5%A4%96%E5%8C%85/ERP%E7%B3%BB%E7%B5%B1%E6%95%B4%E5%90%88/%E7%B7%9A%E4%B8%8A%E8%B3%BC%E7%89%A9/%E6%9C%83%E5%93%A1%E7%B3%BB%E7%B5%B1/%E7%B7%9A%E4%B8%8A%E9%87%91%E6%B5%81" class="more" itemprop="url">日月行館</a>
+                <a href="../../works/detail/m000028" class="link" itemprop="url" data-id="m000028">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="日月行館" itemprop="image" data-src="styles/images/works/cases/m000028/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="日月行館" itemprop="image" data-src="styles/images/works/cases/m000028/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">台中金典酒店</h3>
+                <a href="../../works/detail/e000359/%E5%8F%B0%E4%B8%AD%E9%87%91%E5%85%B8%E9%85%92%E5%BA%97/%E5%85%AC%E5%8F%B8%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/%E6%B4%BB%E5%8B%95%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/LOGO%E8%A8%AD%E8%A8%88/CMS%E7%B3%BB%E7%B5%B1/CF%E5%BD%B1%E7%89%87%E6%8B%8D%E6%94%9D" class="more" itemprop="url">台中金典酒店</a>
+                <a href="../../works/detail/e000359" class="link" itemprop="url" data-id="e000359">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="台中金典酒店" itemprop="image" data-src="styles/images/works/cases/e000359/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="台中金典酒店" itemprop="image" data-src="styles/images/works/cases/e000359/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">君鴻國際酒店</h3>
+                <a href="../../works/detail/m000160/%E5%90%9B%E9%B4%BB%E5%9C%8B%E9%9A%9B%E9%85%92%E5%BA%97/Android%E7%B3%BB%E7%B5%B1/%E6%89%8B%E6%A9%9F%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/%E9%A3%AF%E5%BA%97%E7%B3%BB%E7%B5%B1/%E6%97%85%E9%81%8A%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E9%85%92%E5%BA%97%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88" class="more" itemprop="url">君鴻國際酒店</a>
+                <a href="../../works/detail/m000160" class="link" itemprop="url" data-id="m000160">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="君鴻國際酒店" itemprop="image" data-src="styles/images/works/cases/m000160/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="君鴻國際酒店" itemprop="image" data-src="styles/images/works/cases/m000160/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">新竹美麗信酒店</h3>
+                <a href="../../works/detail/e000290/%E6%96%B0%E7%AB%B9%E7%BE%8E%E9%BA%97%E4%BF%A1%E9%85%92%E5%BA%97/%E7%BE%8E%E9%A3%9F%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E5%93%81%E7%89%8C%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/APP%E8%A8%AD%E8%A8%88/LOGO%E8%A8%AD%E8%A8%88/%E9%9F%BF%E6%87%89%E5%BC%8F%E7%B6%B2%E7%AB%99" class="more" itemprop="url">新竹美麗信酒店</a>
+                <a href="../../works/detail/e000290" class="link" itemprop="url" data-id="e000290">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="新竹美麗信酒店" itemprop="image" data-src="styles/images/works/cases/e000290/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="新竹美麗信酒店" itemprop="image" data-src="styles/images/works/cases/e000290/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">台中港酒店</h3>
+                <a href="../../works/detail/m000110/%E5%8F%B0%E4%B8%AD%E6%B8%AF%E9%85%92%E5%BA%97/SEO%E6%9C%80%E4%BD%B3%E5%8C%96/%E9%86%AB%E7%BE%8E%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88%E5%85%AC%E5%8F%B8/B2B%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E7%B7%9A%E4%B8%8A%E8%B3%BC%E7%89%A9%E7%B3%BB%E7%B5%B1" class="more" itemprop="url">台中港酒店</a>
+                <a href="../../works/detail/m000110" class="link" itemprop="url" data-id="m000110">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="台中港酒店" itemprop="image" data-src="styles/images/works/cases/m000110/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="台中港酒店" itemprop="image" data-src="styles/images/works/cases/m000110/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">北投麗禧溫泉酒店</h3>
+                <a href="../../works/detail/e000326/%E5%8C%97%E6%8A%95%E9%BA%97%E7%A6%A7%E6%BA%AB%E6%B3%89%E9%85%92%E5%BA%97/CRM%E7%B3%BB%E7%B5%B1/%E9%A3%AF%E5%BA%97%E7%B3%BB%E7%B5%B1/%E8%BB%9F%E9%AB%94%E8%A8%AD%E8%A8%88/%E6%B4%BB%E5%8B%95%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E9%97%9C%E9%8D%B5%E5%AD%97%E6%8E%92%E5%90%8D" class="more" itemprop="url">北投麗禧溫泉酒店</a>
+                <a href="../../works/detail/e000326" class="link" itemprop="url" data-id="e000326">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="北投麗禧溫泉酒店" itemprop="image" data-src="styles/images/works/cases/e000326/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="北投麗禧溫泉酒店" itemprop="image" data-src="styles/images/works/cases/e000326/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">大地奇岩溫泉酒店</h3>
+                <a href="../../works/detail/m000138/%E5%A4%A7%E5%9C%B0%E5%A5%87%E5%B2%A9%E6%BA%AB%E6%B3%89%E9%85%92%E5%BA%97/%E7%BE%8E%E9%A3%9F%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E6%97%85%E9%81%8A%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E6%B4%BB%E5%8B%95%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E4%BC%81%E6%A5%AD%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88%E5%A4%96%E5%8C%85" class="more" itemprop="url">大地奇岩溫泉酒店</a>
+                <a href="../../works/detail/m000138" class="link" itemprop="url" data-id="m000138">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="大地奇岩溫泉酒店" itemprop="image" data-src="styles/images/works/cases/m000138/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="大地奇岩溫泉酒店" itemprop="image" data-src="styles/images/works/cases/m000138/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">心驛商旅 - 台中商務汽車旅館</h3>
+                <a href="../../works/detail/m000076/%E5%BF%83%E9%A9%9B%E5%95%86%E6%97%85+-+%E5%8F%B0%E4%B8%AD%E5%95%86%E5%8B%99%E6%B1%BD%E8%BB%8A%E6%97%85%E9%A4%A8/%E6%B0%91%E5%AE%BF%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/POS%E7%B3%BB%E7%B5%B1/iOS%E7%B3%BB%E7%B5%B1/%E5%95%86%E6%A5%AD%E6%94%9D%E5%BD%B1/POS%E7%B3%BB%E7%B5%B1%E6%95%B4%E5%90%88" class="more" itemprop="url">心驛商旅 - 台中商務汽車旅館</a>
+                <a href="../../works/detail/m000076" class="link" itemprop="url" data-id="m000076">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="心驛商旅 - 台中商務汽車旅館" itemprop="image" data-src="styles/images/works/cases/m000076/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="心驛商旅 - 台中商務汽車旅館" itemprop="image" data-src="styles/images/works/cases/m000076/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">龍巖寶山紀念墓園</h3>
+                <a href="../../works/detail/e000312/%E9%BE%8D%E5%B7%96%E5%AF%B6%E5%B1%B1%E7%B4%80%E5%BF%B5%E5%A2%93%E5%9C%92/API%E4%B8%B2%E6%8E%A5%E6%95%B4%E5%90%88/%E7%B6%B2%E8%B7%AF%E8%A1%8C%E9%8A%B7%E7%B3%BB%E7%B5%B1/%E8%B3%BC%E7%89%A9%E7%B6%B2%E7%AB%99/%E6%9C%8D%E9%A3%BE%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88%E6%8E%A8%E8%96%A6" class="more" itemprop="url">龍巖寶山紀念墓園</a>
+                <a href="../../works/detail/e000312" class="link" itemprop="url" data-id="e000312">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="龍巖寶山紀念墓園" itemprop="image" data-src="styles/images/works/cases/e000312/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="龍巖寶山紀念墓園" itemprop="image" data-src="styles/images/works/cases/e000312/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">台灣新日化</h3>
+                <a href="../../works/detail/e000319/%E5%8F%B0%E7%81%A3%E6%96%B0%E6%97%A5%E5%8C%96/%E6%A1%83%E5%9C%92%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/%E9%81%8B%E5%8B%95%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E9%85%92%E5%BA%97%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/POS%E7%B3%BB%E7%B5%B1/%E5%BB%A3%E5%91%8A%E8%A8%AD%E8%A8%88" class="more" itemprop="url">台灣新日化</a>
+                <a href="../../works/detail/e000319" class="link" itemprop="url" data-id="e000319">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="台灣新日化" itemprop="image" data-src="styles/images/works/cases/e000319/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="台灣新日化" itemprop="image" data-src="styles/images/works/cases/e000319/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">SOHO 甦活創意管理顧問</h3>
+                <a href="../../works/detail/m000125/SOHO+%E7%94%A6%E6%B4%BB%E5%89%B5%E6%84%8F%E7%AE%A1%E7%90%86%E9%A1%A7%E5%95%8F/%E5%A4%96%E9%8A%B7%E7%94%A2%E6%A5%AD/B2B%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E5%8F%B0%E5%8C%97%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/%E7%B7%9A%E4%B8%8A%E5%88%B7%E5%8D%A1/%E5%95%8F%E5%8D%B7%E8%AA%BF%E6%9F%A5%E7%B3%BB%E7%B5%B1" class="more" itemprop="url">SOHO 甦活創意管理顧問</a>
+                <a href="../../works/detail/m000125" class="link" itemprop="url" data-id="m000125">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="SOHO 甦活創意管理顧問" itemprop="image" data-src="styles/images/works/cases/m000125/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="SOHO 甦活創意管理顧問" itemprop="image" data-src="styles/images/works/cases/m000125/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">PABLO 起司專賣店</h3>
+                <a href="../../works/detail/m000187/PABLO+%E8%B5%B7%E5%8F%B8%E5%B0%88%E8%B3%A3%E5%BA%97/CF%E5%BD%B1%E7%89%87%E6%8B%8D%E6%94%9D/%E8%99%9B%E6%93%AC%E4%B8%BB%E6%A9%9F/%E5%93%81%E7%89%8C%E8%A1%8C%E9%8A%B7/%E8%BB%9F%E9%AB%94%E8%A8%AD%E8%A8%88/%E7%B6%B2%E7%AB%99%E5%84%AA%E5%8C%96" class="more" itemprop="url">PABLO 起司專賣店</a>
+                <a href="../../works/detail/m000187" class="link" itemprop="url" data-id="m000187">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="PABLO 起司專賣店" itemprop="image" data-src="styles/images/works/cases/m000187/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="PABLO 起司專賣店" itemprop="image" data-src="styles/images/works/cases/m000187/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">樂麵屋</h3>
+                <a href="../../works/detail/e000291/%E6%A8%82%E9%BA%B5%E5%B1%8B/%E7%B7%9A%E4%B8%8A%E8%B3%BC%E7%89%A9/B2B%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E5%BB%A3%E5%91%8A%E8%A8%AD%E8%A8%88/CSI%E8%A8%AD%E8%A8%88/%E7%B6%B2%E7%AB%99%E5%84%AA%E5%8C%96" class="more" itemprop="url">樂麵屋</a>
+                <a href="../../works/detail/e000291" class="link" itemprop="url" data-id="e000291">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="樂麵屋" itemprop="image" data-src="styles/images/works/cases/e000291/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="樂麵屋" itemprop="image" data-src="styles/images/works/cases/e000291/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">Mark's house 馬克屋</h3>
+                <a href="../../works/detail/m000141/Mark%27s+house+%E9%A6%AC%E5%85%8B%E5%B1%8B/iOS%E7%B3%BB%E7%B5%B1/%E7%B7%9A%E4%B8%8A%E5%88%B7%E5%8D%A1/%E5%8B%95%E7%95%AB%E8%A8%AD%E8%A8%88/%E8%B3%87%E6%96%99%E5%BA%AB%E8%A8%AD%E8%A8%88/iPhone%E7%B6%B2%E7%AB%99" class="more" itemprop="url">Mark's house 馬克屋</a>
+                <a href="../../works/detail/m000141" class="link" itemprop="url" data-id="m000141">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="Mark's house 馬克屋" itemprop="image" data-src="styles/images/works/cases/m000141/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="Mark's house 馬克屋" itemprop="image" data-src="styles/images/works/cases/m000141/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">青青時尚花園會館</h3>
+                <a href="../../works/detail/e000303/%E9%9D%92%E9%9D%92%E6%99%82%E5%B0%9A%E8%8A%B1%E5%9C%92%E6%9C%83%E9%A4%A8//%E6%B4%BB%E5%8B%95%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E6%9C%8D%E9%A3%BE%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E5%BD%A2%E5%83%8F%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC" class="more" itemprop="url">青青時尚花園會館</a>
+                <a href="../../works/detail/e000303" class="link" itemprop="url" data-id="e000303">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="青青時尚花園會館" itemprop="image" data-src="styles/images/works/cases/e000303/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="青青時尚花園會館" itemprop="image" data-src="styles/images/works/cases/e000303/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">DH WEDDING 雙囍婚禮顧問</h3>
+                <a href="../../works/detail/e000302/DH+WEDDING+%E9%9B%99%E5%9B%8D%E5%A9%9A%E7%A6%AE%E9%A1%A7%E5%95%8F/%E9%9B%BB%E5%AD%90%E5%95%86%E5%8B%99/%E6%9C%83%E5%93%A1%E7%B3%BB%E7%B5%B1/%E5%93%81%E7%89%8C%E8%A1%8C%E9%8A%B7/%E5%8F%B0%E5%8D%97%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/SEO%E5%84%AA%E5%8C%96" class="more" itemprop="url">DH WEDDING 雙囍婚禮顧問</a>
+                <a href="../../works/detail/e000302" class="link" itemprop="url" data-id="e000302">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="DH WEDDING 雙囍婚禮顧問" itemprop="image" data-src="styles/images/works/cases/e000302/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="DH WEDDING 雙囍婚禮顧問" itemprop="image" data-src="styles/images/works/cases/e000302/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">VERA 精品婚紗</h3>
+                <a href="../../works/detail/m000165/VERA+%E7%B2%BE%E5%93%81%E5%A9%9A%E7%B4%97/SEO%E5%84%AA%E5%8C%96/%E5%BB%A3%E5%91%8A%E8%A8%AD%E8%A8%88/%E7%B6%B2%E7%AB%99%E5%BB%BA%E7%BD%AE/%E8%B3%BC%E7%89%A9%E8%BB%8A%E7%B3%BB%E7%B5%B1/%E7%B6%B2%E8%B7%AF%E8%A1%8C%E9%8A%B7" class="more" itemprop="url">VERA 精品婚紗</a>
+                <a href="../../works/detail/m000165" class="link" itemprop="url" data-id="m000165">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="VERA 精品婚紗" itemprop="image" data-src="styles/images/works/cases/m000165/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="VERA 精品婚紗" itemprop="image" data-src="styles/images/works/cases/m000165/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">典華喜宴</h3>
+                <a href="../../works/detail/m000158/%E5%85%B8%E8%8F%AF%E5%96%9C%E5%AE%B4/%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88%E6%8E%A8%E8%96%A6/%E6%88%BF%E5%9C%B0%E7%94%A2%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E8%B3%87%E6%96%99%E5%BA%AB%E8%A8%AD%E8%A8%88/%E7%BE%8E%E9%A3%9F%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/B2B%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88" class="more" itemprop="url">典華喜宴</a>
+                <a href="../../works/detail/m000158" class="link" itemprop="url" data-id="m000158">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="典華喜宴" itemprop="image" data-src="styles/images/works/cases/m000158/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="典華喜宴" itemprop="image" data-src="styles/images/works/cases/m000158/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">法蝶婚紗會館</h3>
+                <a href="../../works/detail/e000372/%E6%B3%95%E8%9D%B6%E5%A9%9A%E7%B4%97%E6%9C%83%E9%A4%A8/%E8%B7%A8%E5%B9%B3%E5%8F%B0%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/%E5%B9%B3%E9%9D%A2%E8%A8%AD%E8%A8%88/%E6%96%B0%E7%AB%B9%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/%E6%89%8B%E6%A9%9F%E7%89%88%E7%B6%B2%E9%A0%81/%E9%86%AB%E7%99%82%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88" class="more" itemprop="url">法蝶婚紗會館</a>
+                <a href="../../works/detail/e000372" class="link" itemprop="url" data-id="e000372">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="法蝶婚紗會館" itemprop="image" data-src="styles/images/works/cases/e000372/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="法蝶婚紗會館" itemprop="image" data-src="styles/images/works/cases/e000372/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">JOJO 婚紗攝影</h3>
+                <a href="../../works/detail/m000140/JOJO+%E5%A9%9A%E7%B4%97%E6%94%9D%E5%BD%B1/%E7%B6%B2%E8%B7%AF%E8%A1%8C%E9%8A%B7/%E4%BC%81%E6%A5%AD%E5%BD%A2%E5%83%8F%E7%B6%B2%E7%AB%99/%E9%86%AB%E7%99%82%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E9%AB%98%E9%9B%84%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/%E5%8F%B0%E4%B8%AD%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88" class="more" itemprop="url">JOJO 婚紗攝影</a>
+                <a href="../../works/detail/m000140" class="link" itemprop="url" data-id="m000140">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="JOJO 婚紗攝影" itemprop="image" data-src="styles/images/works/cases/m000140/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="JOJO 婚紗攝影" itemprop="image" data-src="styles/images/works/cases/m000140/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">Cycling Express 單車快遞</h3>
+                <a href="../../works/detail/e000301/Cycling+Express+%E5%96%AE%E8%BB%8A%E5%BF%AB%E9%81%9E/B2B%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E9%81%8B%E5%8B%95%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/%E8%B3%87%E6%96%99%E5%BA%AB%E8%A8%AD%E8%A8%88/%E9%AB%98%E9%9B%84%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88" class="more" itemprop="url">Cycling Express 單車快遞</a>
+                <a href="../../works/detail/e000301" class="link" itemprop="url" data-id="e000301">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="Cycling Express 單車快遞" itemprop="image" data-src="styles/images/works/cases/e000301/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="Cycling Express 單車快遞" itemprop="image" data-src="styles/images/works/cases/e000301/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">CITYBUG 城市巴克</h3>
+                <a href="../../works/detail/m000077/CITYBUG+%E5%9F%8E%E5%B8%82%E5%B7%B4%E5%85%8B/CMS%E7%B3%BB%E7%B5%B1/%E5%8B%95%E7%95%AB%E8%A8%AD%E8%A8%88/%E6%B4%BB%E5%8B%95%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E9%87%91%E6%B5%81%E6%9C%8D%E5%8B%99/%E5%A4%96%E9%8A%B7%E7%94%A2%E6%A5%AD" class="more" itemprop="url">CITYBUG 城市巴克</a>
+                <a href="../../works/detail/m000077" class="link" itemprop="url" data-id="m000077">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="CITYBUG 城市巴克" itemprop="image" data-src="styles/images/works/cases/m000077/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="CITYBUG 城市巴克" itemprop="image" data-src="styles/images/works/cases/m000077/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">台灣福曼莎</h3>
+                <a href="../../works/detail/m000090/%E5%8F%B0%E7%81%A3%E7%A6%8F%E6%9B%BC%E8%8E%8E/%E6%97%85%E9%81%8A%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/CSI%E8%A8%AD%E8%A8%88/%E9%A3%AF%E5%BA%97%E7%B3%BB%E7%B5%B1/%E7%B7%9A%E4%B8%8A%E5%88%B7%E5%8D%A1/%E6%A1%83%E5%9C%92%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88" class="more" itemprop="url">台灣福曼莎</a>
+                <a href="../../works/detail/m000090" class="link" itemprop="url" data-id="m000090">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="台灣福曼莎" itemprop="image" data-src="styles/images/works/cases/m000090/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="台灣福曼莎" itemprop="image" data-src="styles/images/works/cases/m000090/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">Stadler Form</h3>
+                <a href="../../works/detail/e000331/Stadler+Form/%E5%AD%B8%E6%A0%A1%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E9%9F%BF%E6%87%89%E5%BC%8F%E7%B6%B2%E7%AB%99/%E6%9C%8D%E9%A3%BE%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E6%96%B0%E7%AB%B9%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/%E6%B4%BB%E5%8B%95%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88" class="more" itemprop="url">Stadler Form</a>
+                <a href="../../works/detail/e000331" class="link" itemprop="url" data-id="e000331">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="Stadler Form" itemprop="image" data-src="styles/images/works/cases/e000331/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="Stadler Form" itemprop="image" data-src="styles/images/works/cases/e000331/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">花果椿妝</h3>
+                <a href="../../works/detail/e000343/%E8%8A%B1%E6%9E%9C%E6%A4%BF%E5%A6%9D/%E9%86%AB%E7%BE%8E%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88%E5%85%AC%E5%8F%B8/%E9%87%91%E6%B5%81%E6%9C%8D%E5%8B%99/%E5%82%B3%E7%B5%B1%E7%94%A2%E6%A5%AD%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88" class="more" itemprop="url">花果椿妝</a>
+                <a href="../../works/detail/e000343" class="link" itemprop="url" data-id="e000343">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="花果椿妝" itemprop="image" data-src="styles/images/works/cases/e000343/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="花果椿妝" itemprop="image" data-src="styles/images/works/cases/e000343/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">阿原肥皂</h3>
+                <a href="../../works/detail/e000332/%E9%98%BF%E5%8E%9F%E8%82%A5%E7%9A%82/%E9%A3%AF%E5%BA%97%E7%B3%BB%E7%B5%B1/%E6%97%85%E9%81%8A%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E9%A3%AF%E5%BA%97%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/CMS%E7%B3%BB%E7%B5%B1/%E8%B3%BC%E7%89%A9%E7%B6%B2%E7%AB%99" class="more" itemprop="url">阿原肥皂</a>
+                <a href="../../works/detail/e000332" class="link" itemprop="url" data-id="e000332">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="阿原肥皂" itemprop="image" data-src="styles/images/works/cases/e000332/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="阿原肥皂" itemprop="image" data-src="styles/images/works/cases/e000332/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">TAS 踏實皮飾</h3>
+                <a href="../../works/detail/e000320/TAS+%E8%B8%8F%E5%AF%A6%E7%9A%AE%E9%A3%BE/%E5%AD%B8%E6%A0%A1%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E7%B6%B2%E8%B7%AF%E5%95%86%E5%9F%8E/%E7%B7%9A%E4%B8%8A%E5%88%B7%E5%8D%A1/%E8%B3%87%E6%96%99%E5%BA%AB%E8%A8%AD%E8%A8%88/%E9%A3%AF%E5%BA%97%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88" class="more" itemprop="url">TAS 踏實皮飾</a>
+                <a href="../../works/detail/e000320" class="link" itemprop="url" data-id="e000320">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="TAS 踏實皮飾" itemprop="image" data-src="styles/images/works/cases/e000320/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="TAS 踏實皮飾" itemprop="image" data-src="styles/images/works/cases/e000320/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">雅喬生化科技</h3>
+                <a href="../../works/detail/m000131/%E9%9B%85%E5%96%AC%E7%94%9F%E5%8C%96%E7%A7%91%E6%8A%80/%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/%E8%BB%9F%E9%AB%94%E8%A8%AD%E8%A8%88/iOS%E7%B3%BB%E7%B5%B1/%E5%93%81%E7%89%8C%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E9%87%91%E6%B5%81%E6%9C%8D%E5%8B%99" class="more" itemprop="url">雅喬生化科技</a>
+                <a href="../../works/detail/m000131" class="link" itemprop="url" data-id="m000131">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="雅喬生化科技" itemprop="image" data-src="styles/images/works/cases/m000131/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="雅喬生化科技" itemprop="image" data-src="styles/images/works/cases/m000131/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">環球化粧品廠</h3>
+                <a href="../../works/detail/m000046/%E7%92%B0%E7%90%83%E5%8C%96%E7%B2%A7%E5%93%81%E5%BB%A0/%E8%BB%9F%E9%AB%94%E8%A8%AD%E8%A8%88/%E8%AB%96%E5%A3%87%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E8%99%9B%E6%93%AC%E4%B8%BB%E6%A9%9F/%E9%9F%BF%E6%87%89%E5%BC%8F%E7%B6%B2%E7%AB%99/APP%E8%A8%AD%E8%A8%88" class="more" itemprop="url">環球化粧品廠</a>
+                <a href="../../works/detail/m000046" class="link" itemprop="url" data-id="m000046">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="環球化粧品廠" itemprop="image" data-src="styles/images/works/cases/m000046/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="環球化粧品廠" itemprop="image" data-src="styles/images/works/cases/m000046/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">Cinema Secrets 鈞宜彩妝</h3>
+                <a href="../../works/detail/m000045/Cinema+Secrets+%E9%88%9E%E5%AE%9C%E5%BD%A9%E5%A6%9D/%E9%A3%AF%E5%BA%97%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/SEO%E5%84%AA%E5%8C%96/%E6%88%BF%E5%9C%B0%E7%94%A2%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E6%89%8B%E6%A9%9F%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/%E5%8B%95%E7%95%AB%E8%A8%AD%E8%A8%88" class="more" itemprop="url">Cinema Secrets 鈞宜彩妝</a>
+                <a href="../../works/detail/m000045" class="link" itemprop="url" data-id="m000045">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="Cinema Secrets 鈞宜彩妝" itemprop="image" data-src="styles/images/works/cases/m000045/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="Cinema Secrets 鈞宜彩妝" itemprop="image" data-src="styles/images/works/cases/m000045/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">夢時代購物中心</h3>
+                <a href="../../works/detail/m000129/%E5%A4%A2%E6%99%82%E4%BB%A3%E8%B3%BC%E7%89%A9%E4%B8%AD%E5%BF%83/%E5%A4%96%E9%8A%B7%E7%94%A2%E6%A5%AD/API%E4%B8%B2%E6%8E%A5%E6%95%B4%E5%90%88/%E6%A1%83%E5%9C%92%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/%E5%82%B3%E7%B5%B1%E7%94%A2%E6%A5%AD%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88%E5%B8%AB" class="more" itemprop="url">夢時代購物中心</a>
+                <a href="../../works/detail/m000129" class="link" itemprop="url" data-id="m000129">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="夢時代購物中心" itemprop="image" data-src="styles/images/works/cases/m000129/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="夢時代購物中心" itemprop="image" data-src="styles/images/works/cases/m000129/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">EZDIVE 易潛網精品潛水雜誌</h3>
+                <a href="../../works/detail/m000091/EZDIVE+%E6%98%93%E6%BD%9B%E7%B6%B2%E7%B2%BE%E5%93%81%E6%BD%9B%E6%B0%B4%E9%9B%9C%E8%AA%8C/%E7%BE%8E%E5%AE%B9%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E9%AB%98%E9%9B%84%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/POS%E7%B3%BB%E7%B5%B1/%E9%86%AB%E7%99%82%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E5%BD%A2%E5%83%8F%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88" class="more" itemprop="url">EZDIVE 易潛網精品潛水雜誌</a>
+                <a href="../../works/detail/m000091" class="link" itemprop="url" data-id="m000091">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="EZDIVE 易潛網精品潛水雜誌" itemprop="image" data-src="styles/images/works/cases/m000091/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="EZDIVE 易潛網精品潛水雜誌" itemprop="image" data-src="styles/images/works/cases/m000091/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">霖宏科技</h3>
+                <a href="../../works/detail/m000106/%E9%9C%96%E5%AE%8F%E7%A7%91%E6%8A%80/APP%E8%A8%AD%E8%A8%88//iOS%E7%B3%BB%E7%B5%B1/%E8%BB%9F%E9%AB%94%E8%A8%AD%E8%A8%88/%E5%8F%B0%E5%8D%97%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88" class="more" itemprop="url">霖宏科技</a>
+                <a href="../../works/detail/m000106" class="link" itemprop="url" data-id="m000106">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="霖宏科技" itemprop="image" data-src="styles/images/works/cases/m000106/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="霖宏科技" itemprop="image" data-src="styles/images/works/cases/m000106/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">錦豪工業</h3>
+                <a href="../../works/detail/m000100/%E9%8C%A6%E8%B1%AA%E5%B7%A5%E6%A5%AD/%E9%87%91%E6%B5%81%E6%9C%8D%E5%8B%99/%E9%86%AB%E7%BE%8E%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/B2B%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/POS%E7%B3%BB%E7%B5%B1/%E8%B3%87%E6%96%99%E5%BA%AB%E8%A8%AD%E8%A8%88" class="more" itemprop="url">錦豪工業</a>
+                <a href="../../works/detail/m000100" class="link" itemprop="url" data-id="m000100">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="錦豪工業" itemprop="image" data-src="styles/images/works/cases/m000100/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="錦豪工業" itemprop="image" data-src="styles/images/works/cases/m000100/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">國嘉製藥工業</h3>
+                <a href="../../works/detail/e000314/%E5%9C%8B%E5%98%89%E8%A3%BD%E8%97%A5%E5%B7%A5%E6%A5%AD/API%E4%B8%B2%E6%8E%A5%E6%95%B4%E5%90%88/CMS%E7%B3%BB%E7%B5%B1/iOS%E7%B3%BB%E7%B5%B1/%E9%86%AB%E7%BE%8E%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E6%B0%91%E5%AE%BF%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88" class="more" itemprop="url">國嘉製藥工業</a>
+                <a href="../../works/detail/e000314" class="link" itemprop="url" data-id="e000314">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="國嘉製藥工業" itemprop="image" data-src="styles/images/works/cases/e000314/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="國嘉製藥工業" itemprop="image" data-src="styles/images/works/cases/e000314/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">守恆健康事業集團</h3>
+                <a href="../../works/detail/e000370/%E5%AE%88%E6%81%86%E5%81%A5%E5%BA%B7%E4%BA%8B%E6%A5%AD%E9%9B%86%E5%9C%98/%E5%BB%A3%E5%91%8A%E8%A8%AD%E8%A8%88/%E4%BC%81%E6%A5%AD%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E6%A1%83%E5%9C%92%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/APP%E8%A8%AD%E8%A8%88/%E7%B6%B2%E8%B7%AF%E9%96%8B%E5%BA%97" class="more" itemprop="url">守恆健康事業集團</a>
+                <a href="../../works/detail/e000370" class="link" itemprop="url" data-id="e000370">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="守恆健康事業集團" itemprop="image" data-src="styles/images/works/cases/e000370/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="守恆健康事業集團" itemprop="image" data-src="styles/images/works/cases/e000370/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">荷茂生醫科技</h3>
+                <a href="../../works/detail/e000328/%E8%8D%B7%E8%8C%82%E7%94%9F%E9%86%AB%E7%A7%91%E6%8A%80/%E9%AB%98%E9%9B%84%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/%E5%95%86%E6%A5%AD%E6%94%9D%E5%BD%B1/iPad%E7%B6%B2%E7%AB%99/%E5%BB%A3%E5%91%8A%E8%A8%AD%E8%A8%88/%E7%B6%B2%E8%B7%AF%E9%96%8B%E5%BA%97" class="more" itemprop="url">荷茂生醫科技</a>
+                <a href="../../works/detail/e000328" class="link" itemprop="url" data-id="e000328">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="荷茂生醫科技" itemprop="image" data-src="styles/images/works/cases/e000328/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="荷茂生醫科技" itemprop="image" data-src="styles/images/works/cases/e000328/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">倉佑實業</h3>
+                <a href="../../works/detail/e000318/%E5%80%89%E4%BD%91%E5%AF%A6%E6%A5%AD/APP%E9%96%8B%E7%99%BC/%E5%8F%B0%E5%8C%97%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/%E7%BE%8E%E5%AE%B9%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/CF%E5%BD%B1%E7%89%87%E6%8B%8D%E6%94%9D/%E9%A3%AF%E5%BA%97%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88" class="more" itemprop="url">倉佑實業</a>
+                <a href="../../works/detail/e000318" class="link" itemprop="url" data-id="e000318">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="倉佑實業" itemprop="image" data-src="styles/images/works/cases/e000318/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="倉佑實業" itemprop="image" data-src="styles/images/works/cases/e000318/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">協鴻工業</h3>
+                <a href="../../works/detail/m000093/%E5%8D%94%E9%B4%BB%E5%B7%A5%E6%A5%AD/%E6%A1%83%E5%9C%92%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/%E5%AD%B8%E6%A0%A1%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E8%97%A5%E5%B1%80%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E5%BD%A2%E5%83%8F%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88%E5%A4%96%E5%8C%85" class="more" itemprop="url">協鴻工業</a>
+                <a href="../../works/detail/m000093" class="link" itemprop="url" data-id="m000093">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="協鴻工業" itemprop="image" data-src="styles/images/works/cases/m000093/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="協鴻工業" itemprop="image" data-src="styles/images/works/cases/m000093/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">安良電氣</h3>
+                <a href="../../works/detail/e000310/%E5%AE%89%E8%89%AF%E9%9B%BB%E6%B0%A3/%E5%93%81%E7%89%8C%E8%A1%8C%E9%8A%B7/%E7%BE%8E%E5%AE%B9%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E7%B3%BB%E7%B5%B1%E9%96%8B%E7%99%BC/CRM%E7%B3%BB%E7%B5%B1/%E8%99%9B%E6%93%AC%E4%B8%BB%E6%A9%9F" class="more" itemprop="url">安良電氣</a>
+                <a href="../../works/detail/e000310" class="link" itemprop="url" data-id="e000310">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="安良電氣" itemprop="image" data-src="styles/images/works/cases/e000310/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="安良電氣" itemprop="image" data-src="styles/images/works/cases/e000310/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">龍熒企業</h3>
+                <a href="../../works/detail/m000020/%E9%BE%8D%E7%86%92%E4%BC%81%E6%A5%AD/%E6%A1%83%E5%9C%92%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/%E5%8F%B0%E5%8C%97%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/ERP%E7%B3%BB%E7%B5%B1/iPad%E7%B6%B2%E7%AB%99/%E8%99%9B%E6%93%AC%E4%B8%BB%E6%A9%9F" class="more" itemprop="url">龍熒企業</a>
+                <a href="../../works/detail/m000020" class="link" itemprop="url" data-id="m000020">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="龍熒企業" itemprop="image" data-src="styles/images/works/cases/m000020/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="龍熒企業" itemprop="image" data-src="styles/images/works/cases/m000020/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">楹裕電子</h3>
+                <a href="../../works/detail/m000097/%E6%A5%B9%E8%A3%95%E9%9B%BB%E5%AD%90/%E7%B6%B2%E8%B7%AF%E9%96%8B%E5%BA%97/Android%E7%B3%BB%E7%B5%B1/APP%E9%96%8B%E7%99%BC/%E9%81%8B%E5%8B%95%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/APP%E8%A8%AD%E8%A8%88" class="more" itemprop="url">楹裕電子</a>
+                <a href="../../works/detail/m000097" class="link" itemprop="url" data-id="m000097">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="楹裕電子" itemprop="image" data-src="styles/images/works/cases/m000097/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="楹裕電子" itemprop="image" data-src="styles/images/works/cases/m000097/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">旭春股份有限公司</h3>
+                <a href="../../works/detail/m000081/%E6%97%AD%E6%98%A5%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/POS%E7%B3%BB%E7%B5%B1%E6%95%B4%E5%90%88/%E5%85%AC%E5%8F%B8%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/%E6%97%85%E9%81%8A%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88%E6%8E%A8%E8%96%A6/%E7%BE%8E%E5%AE%B9%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88" class="more" itemprop="url">旭春股份有限公司</a>
+                <a href="../../works/detail/m000081" class="link" itemprop="url" data-id="m000081">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="旭春股份有限公司" itemprop="image" data-src="styles/images/works/cases/m000081/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="旭春股份有限公司" itemprop="image" data-src="styles/images/works/cases/m000081/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section><section class="item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+                <h3 class="heading hidden" itemprop="name">良啟五金鐵網</h3>
+                <a href="../../works/detail/m000035/%E8%89%AF%E5%95%9F%E4%BA%94%E9%87%91%E9%90%B5%E7%B6%B2/SEO%E5%84%AA%E5%8C%96/%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88%E5%A4%96%E5%8C%85/%E5%BB%A3%E5%91%8A%E8%A8%AD%E8%A8%88/%E9%A3%AF%E5%BA%97%E7%B3%BB%E7%B5%B1/%E7%B3%BB%E7%B5%B1%E9%96%8B%E7%99%BC" class="more" itemprop="url">良啟五金鐵網</a>
+                <a href="../../works/detail/m000035" class="link" itemprop="url" data-id="m000035">
+                  <img class="thumb" src="styles/images/common/blank.png" alt="良啟五金鐵網" itemprop="image" data-src="styles/images/works/cases/m000035/thumb.jpg" />
+                  <div class="label">
+                    <figure class="inner">
+                      <img class="logo" src="styles/images/common/blank.png" alt="良啟五金鐵網" itemprop="image" data-src="styles/images/works/cases/m000035/logo.png" />
+                      <figcaption class="category" itemprop="genre">WEB DESIGN</figcaption>
+                    </figure>
+                  </div>
+                </a>
+              </section></div>
+          </div>
+        </section>
+        <section class="detail" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+          <h3 class="heading hidden" itemprop="headline">詳細介紹</h3>
+          <div class="info">
+            <div class="inner">
+              <div class="slidable">
+                <div class="header">
+                  <small class="category" itemprop="genre">
+                    <em class="title">OUR WORK</em>
+                    <em class="type"></em>
+                  </small>
+                  <span class="links">
+                    <a class="like" itemprop="discussionUrl">讚</a>
+                    <a class="demo" itemprop="url">DEMO</a>
+                  </span>
+                  <strong class="name" itemprop="name"></strong>
+                </div>
+                <div class="scrollbox">
+                  <div class="viewport">
+                    <div class="scrollable">
+                      <div class="description" itemprop="description"></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="view">
+            <div class="inner">
+              <img src="styles/images/common/blank.png" alt="英創達網路" itemprop="image" data-src="styles/images/common/blank.png" />
+            </div>
+            <a href="#" class="skip">SKIP</a>
+          </div>
+        </section>
+      </article>
+      <article id="contact" data-unit="contact" class="page" itemscope="itemscope" itemtype="http://schema.org/ContactPage">
+        <h2 class="heading hidden" itemprop="name">聯絡我們</h2>
+        <ul class="navigation rows">
+          <li><a href="../../contact/us/mail" data-id="mail">CONTACT US<em>留下訊息</em></a></li>
+          <li><a href="../../contact/us/route" data-id="route">HOW TO GO<em>路線導航</em></a></li>
+          <li><a href="../../contact/us/street" data-id="street">STREET VIEW<em>附近街景</em></a></li>
+        </ul>
+        <section class="box orange" data-id="mail" itemscope="itemscope" itemtype="http://schema.org/QAPage">
+          <h3 class="heading hidden" itemprop="name">留下訊息</h3>
+          <strong class="caption">CONTACT US</strong>
+          <a href="#" class="close">CLOSE</a>
+          <form method="post">
+            <fieldset class="rows">
+              <dl class="input">
+                <dt>NAME</dt>
+                <dd><input type="text" name="name" placeholder="NAME" /></dd>
+              </dl>
+              <dl class="input">
+                <dt>E-MAIL</dt>
+                <dd><input type="text" name="email" placeholder="E-MAIL" /></dd>
+              </dl>
+            </fieldset>
+            <fieldset class="rows">
+              <dl class="input">
+                <dt>SUBJECT</dt>
+                <dd><input type="text" name="subject" placeholder="SUBJECT" /></dd>
+              </dl>
+              <dl class="input">
+                <dt>PHONE</dt>
+                <dd><input type="text" name="phone" placeholder="PHONE" /></dd>
+              </dl>
+            </fieldset>
+            <fieldset class="rows">
+              <dl class="input">
+                <dt>MESSAGE</dt>
+                <dd><textarea name="message" placeholder="MESSAGE"></textarea></dd>
+              </dl>
+            </fieldset>
+            <fieldset class="rows">
+              <address>
+                <dl class="phone columns">
+                  <dt>PHONE：</dt>
+                  <dd>04-2435-0749</dd>
+                </dl>
+                <dl class="email columns">
+                  <dt>E-MAIL：</dt>
+                  <dd><a href="#">service(at)ecreative.tw</a></dd>
+                </dl>
+              </address>
+              <button type="button" class="submit">SUBMIT</button>
+            </fieldset>
+            <p class="success message">訊息已成功送出，我們將會盡快與您聯繫，謝謝。</p>
+            <p class="error message">發生不明錯誤，請洽詢系統管理員或稍候再試。</p>
+          </form>
+        </section>
+        <section class="box green" data-id="route" itemscope="itemscope" itemtype="http://schema.org/Map">
+          <h3 class="heading hidden" itemprop="name">路線導航</h3>
+          <strong class="caption">HOW TO GO</strong>
+          <a href="#" class="close">CLOSE</a>
+          <div class="ways">
+            <div class="way">
+              <strong class="name">Option A</strong>
+              <p class="tip">請輸入您目前的所在位置：</p>
+              <p class="inputs">
+                <select name="city">
+                  <option selected="selected">縣市</option>
+                </select>
+                <select name="region">
+                  <option selected="selected">區域</option>
+                </select>
+                <input type="text" name="address" placeholder="街道或地址" />
+              </p>
+              <button type="button" class="geocode">開始路線導航</button>
+            </div>
+            <div class="way" title="本功能依據全球網路定位服務系統提供定址查詢，定位結果可能與您的實際位置有所出入。">
+              <strong class="name">Option B</strong>
+              <p class="tip">或是透過全球網路定位服務系統自動偵測：</p>
+              <button type="button" class="geolocation">開始定位追蹤</button>
+            </div>
+            <p class="place error message">無法規劃此位置的路線導航結果</p>
+            <p class="failed error message">全球定位服務系統目前無法追蹤您的所在位置。</p>
+            <p class="support error message">此功能不支援您正在使用的瀏覽器或版本。</p>
+          </div>
+          <div class="routes">
+            <div class="list">
+              <div class="scrollbox">
+                <div class="viewport">
+                  <div class="scrollable"></div>
+                </div>
+              </div>
+              <div class="failed">路線規劃結果無法完成，請重新再試。</div>
+            </div>
+            <button type="button" class="restart">重新導航路線</button>
+          </div>
+        </section>
+        <section class="box blue" data-id="street" itemscope="itemscope" itemtype="http://schema.org/Map">
+          <h3 class="heading hidden" itemprop="name">附近街景</h3>
+          <strong class="caption">STREET VIEW</strong>
+          <a href="#" class="close">CLOSE</a>
+          <div class="view"></div>
+        </section>
+        <section class="map" itemscope="itemscope" itemtype="http://schema.org/Map">
+          <h2 class="heading hidden" itemprop="name">地圖導覽</h2>
+          <div class="inner">
+            <div class="watermarker">英創達網路 / Ecreative</div>
+            <div class="canvas">
+              <img class="bg2img marker marker-user" src="styles/images/common/blank.png" alt="目前位置" data-src="styles/images/common/blank.png" />
+              <img class="bg2img marker building marker-orange" src="styles/images/common/blank.png" alt="英創達網路總部" data-src="styles/images/common/blank.png" />
+              <img class="bg2img marker building marker-green" src="styles/images/common/blank.png" alt="英創達網路總部" data-src="styles/images/common/blank.png" />
+              <img class="bg2img marker building marker-blue" src="styles/images/common/blank.png" alt="英創達網路總部" data-src="styles/images/common/blank.png" />
+              <img class="bg2img marker circle circle-orange" src="styles/images/common/blank.png" alt="Circle" data-src="styles/images/common/blank.png" />
+              <img class="bg2img marker circle circle-green" src="styles/images/common/blank.png" alt="Circle" data-src="styles/images/common/blank.png" />
+              <img class="bg2img marker circle circle-blue" src="styles/images/common/blank.png" alt="Circle" data-src="styles/images/common/blank.png" />
+            </div>
+          </div>
+        </section>
+      </article>
+    </main>
+    <footer id="footer">
+      <a href="http://google.com/+EcreativeTwProfile" class="google icon" title="Google+ 專頁" target="_blank" rel="publisher">英創達網路 on Google+</a>
+      <a href="http://google.com/+EcreativeTwProfile" class="google icon" title="Google+ 專頁" target="_blank" rel="author">英創達網路 on Google+</a>
+      <a href="http://facebook.com/ecreative.tw" class="facebook icon" title="Facebook 專頁" target="_blank" rel="me">英創達網路 on Facebook</a>
+      <nav class="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+        <h2 class="heading hidden" itemprop="name">輔助選單</h2>
+        <ul class="items inline columns">
+          <li itemprop="name"><a href="../../default" data-id="home" title="HOME" itemprop="url">首頁</a></li>
+          <li itemprop="name"><a href="../../about" data-id="about" title="ABOUT US" itemprop="url">關於英創達</a></li>
+          <li itemprop="name"><a href="../../team" data-id="team" title="TEAM" itemprop="url">團隊介紹</a></li>
+          <li itemprop="name"><a href="../../environment" data-id="environment" title="ENVIRONMENT" itemprop="url">工作環境</a></li>
+          <li itemprop="name"><a href="../../works" data-id="works" title="WORKS" itemprop="url">作品賞析</a></li>
+          <li itemprop="name"><a href="../../contact" data-id="contact" title="CONTACT" itemprop="url">聯絡我們</a></li>
+          <li itemprop="name"><a href="https://www.104.com.tw/jobbank/custjob/index.php?r=cust&amp;j=4070432838363f6940583a1d1d1d1d5f2443a363189j48" target="_blank" title="JOBS" itemprop="url">人才招募</a></li>
+        </ul>
+      </nav>
+      <address class="info" itemscope="itemscope" itemtype="http://schema.org/Organization">
+        <div class="author">
+          <span class="copyright">COPYRTIGHT &copy; <i class="year">2016</i></span>
+          <span class="name" title="Ecreative" itemprop="name">英創達網路有限公司</span>
+        </div>
+        <dl class="contact columns">
+          <dt class="phone">TEL：</dt>
+          <dd class="value" itemprop="telephone">04-2435-0749</dd>
+          <dt class="fax">FAX：</dt>
+          <dd class="value" itemprop="faxNumber">04-2435-0745</dd>
+          <dt class="email">E-MAIL：</dt>
+          <dd class="value" itemprop="email">service(at)ecreative.tw</dd>
+          <dt class="address">&nbsp;</dt>
+          <dd class="value" itemprop="address" itemscope="itemscope" itemtype="http://schema.org/PostalAddress">
+            <span itemprop="postalCode">406</span>
+            <span itemprop="addressRegion">台中市</span>
+            <span itemprop="addressLocality">北屯區</span>
+            <span itemprop="streetAddress">東山路一段 147 巷 49 號</span>
+          </dd>
+        </dl>
+      </address>
+      <div class="links">
+        <a href="../../contact" class="ask">服務諮詢</a>
+      </div>
+    </footer>
+    <aside id="loading" hidden="hidden">
+      <h2 class="heading hidden">載入畫面</h2>
+      <div class="structure">
+        <div class="inner">
+          <div class="wrap masked">
+            <div class="initial">PLEASE WAIT...</div>
+            <div class="context">
+              <div class="filler">0%</div>
+              <div class="progressed">0%</div>
+              <img class="without bg2img default logo" src="styles/images/common/blank.png" alt="英創達網路" />
+              <img class="without bg2img inside logo" src="styles/images/common/blank.png" alt="Ecreative" />
+              <img class="without blank" src="styles/images/common/blank.png" alt="Blank" />
+            </div>
+          </div>
+        </div>
+      </div>
+    </aside>
+    <a href="http://www.awwwards.com/joeyouwebtw/" target="_blank" class="awwwards icon">awwwards</a>
+  </div>
+<input type="hidden" id="namespace" value="ecreative" />
+<input type="hidden" id="facebook" value="257011817840557" />
+<input type="hidden" id="google-analytics" value="UA-8983287-1" />
+</body>
+</html>
+
+";

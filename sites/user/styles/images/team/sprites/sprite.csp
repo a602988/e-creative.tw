@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<cyotek.spriter.project version="1.0.0.0" generator="Cyotek Spriter 1.0.7.1" edition="" timestamp="2014-06-22 06:59:32Z">
+  <canvas w="115" h="57" />
+  <maximumSpriteSize w="35" h="57" />
+  <folders />
+  <export exportCss="true" cssFileName="" exportSpriteSheet="true" exportSprites="false" imageFileName="" imageFormat="Png" exportHtml="false" htmlFileName="" createBackups="false" backupHistorySize="0" />
+  <sprite packingMethod="1" orientation="1" maximumSize="1024" backgroundColor="Transparent" forcePowerOfTwo="false" sort="false">
+    <minimumSize w="0" h="0" />
+  </sprite>
+  <css overwriteMode="0" prefix="" suffix="" classPrefix="" classSuffix="" classQualifier="." invertPositions="true" />
+  <images>
+    <image id="b5a08e5297f542cdb4e857b12a208621" className="left" fileName="files\left.png" x="0" y="0" width="20" height="57" excluded="false" locked="false" excludeDerivedImages="false" />
+    <image id="a1319ffbff9b4f78a774afaa0dc9c6d2" className="right" fileName="files\right.png" x="20" y="0" width="20" height="57" excluded="false" locked="false" excludeDerivedImages="false" />
+    <image id="59f9a1ceb8684bbaa62e699d66b57a6f" className="next" fileName="files\next.png" x="40" y="0" width="20" height="57" excluded="false" locked="false" excludeDerivedImages="false" />
+    <image id="c5e7f2fb6f3d4e6396196a0dd87a28af" className="prev" fileName="files\prev.png" x="60" y="0" width="20" height="57" excluded="false" locked="false" excludeDerivedImages="false" />
+    <image id="3f3074a84dcd4eccbcec23fa91a01b00" className="close" fileName="files\close.png" x="80" y="0" width="35" height="33" excluded="false" locked="false" excludeDerivedImages="false" />
+  </images>
+  <effects />
+  <addinSettings>
+    <settings name="OptiPNG" />
+  </addinSettings>
+</cyotek.spriter.project>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<site>
+
+  <setting>
+    <id>Minmax</id>
+    <namespace>minmax</namespace>
+    <name>雲端數位科技</name>
+    <nickname>雲端數位</nickname>
+    <company>雲端數位科技有限公司</company>
+    <title>雲端數位科技：頂級網站設計公司、企業雲端化系統建置與整合專家</title>
+    <description>雲端數位科技是一家充滿新鮮創意及設計熱情的網路公司。我們擁有頂尖質量、橫跨多方面領域的設計團隊，我們擅於打造以創新為本的設計作品、專業於多種領域的軟體工程技術及全方位的服務導向整合，我們深信知識與經驗的累積才是打動人心的服務。</description>
+    <theme>styles/themes/minmax/style.css</theme>
+    <favicon>/sites/user/styles/themes/minmax/images/common/icons/favicon.ico</favicon>
+    <appicon>/sites/user/styles/themes/minmax/images/common/icons/logo.png</appicon>
+    <contact>
+      <name>雲端數位科技有限公司</name>
+      <from>service@minmax.tw</from>
+    </contact>
+    <google>
+      <analytics>UA-78692538-1</analytics>
+      <url>https://plus.google.com/109936571462518961757</url>
+    </google>
+    <facebook>
+      <id>134099617007393</id>
+      <url>https://www.facebook.com/minmaxeric</url>
+    </facebook>
+  </setting>
+
+</site>

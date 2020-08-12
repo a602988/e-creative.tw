@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b0177161-ea99-4c40-85cd-487b81f66c07" name="minmax.biz" url="http://minmax.biz">
+        <fileTransfer rootFolder="/public_html" host="minmax.biz" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="60f09765-108a-402b-8886-8f9611a04ba0" name="e-creative.tw" url="http://e-creative.tw">
+        <fileTransfer rootFolder="/public_html" host="e-creative.tw" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

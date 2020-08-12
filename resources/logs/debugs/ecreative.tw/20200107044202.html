@@ -1,0 +1,302 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="utf-8" />
+    <base href="https://www.ecreative.tw:443/library/Sewii/System/Debugger/template/" />
+    <link href="debugger.css" rel="stylesheet" />
+    <title>應用程式發生技術性問題</title>
+  </head>
+  <body>
+    <div id="layout">
+      <h1>應用程式發生技術性問題 (1)</h1>
+      <p id="serverInfo">Apache at www.ecreative.tw Port 443</p>
+      <div class="fieldsets">
+        <fieldset>
+          <legend>問題摘要</legend>
+          <p>preg_match(): Unknown modifier '2'</p>
+        </fieldset> 
+
+        <fieldset>
+          <legend>詳細資訊</legend>
+          <ul class="details">
+            <li><label>錯誤類型:</label>Warning</li>
+            <li><label>應用程式:</label>library/Sewii/Text/Regex.php</li>
+            <li><label>中斷行數:</label>53</li>
+            <li><label>請求 URI:</label>/%22</li>
+            <li><label>請求方法:</label>GET HTTP/1.1</li>   
+          </ul>
+        </fieldset>
+
+        <fieldset>
+          <legend>附加資訊</legend>
+          <ul class="details">
+            <li><label>用戶端資訊:</label><span id="userAgent">Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</span></li>
+            <li><label>連線 IP:</label>66.249.79.48</li>
+            <li><label>發生時間:</label>2020-01-07 04:42:02</li> 
+          </ul>
+        </fieldset>   
+
+        <fieldset class="trace"> 
+          <legend>堆疊追蹤</legend>
+          <p>#0 library/Sewii/Text/Regex.php(53): preg_match('%/%22(\-[\w\-]+...', '//&quot;/', Array, 0, 0)
+#1 library/Sewii/Text/Regex.php(38): Sewii\Text\Regex::match('%/%22(\-[\w\-]+...', '//&quot;/')
+#2 modules/components/Router/AbstractRoute.php(283): Sewii\Text\Regex::isMatch('%/%22(\-[\w\-]+...', '//&quot;/')
+#3 modules/components/Router/SiteRoute.php(386): Spanel\Module\Component\Router\AbstractRoute::inUrl('%22', '%22', NULL)
+#4 modules/components/Router/Router.php(199): Spanel\Module\Component\Router\SiteRoute::inUrl('unit', '%22')
+#5 modules/components/Router/Router.php(163): Spanel\Module\Component\Router\Router-&gt;getParamAsQueryString()
+#6 [internal function]: Spanel\Module\Component\Router\Router-&gt;onRewriteRequestUri(Object(Sewii\Event\EventObject))
+#7 library/Sewii/Event/Event.php(104): call_user_func_array(Array, Array)
+#8 library/Sewii/Uri/Http.php(668): Sewii\Event\Event::trigger('uri.http.get.na...', NULL)
+#9 library/Sewii/Uri/Http.php(600): Sewii\Uri\Http::getNativeRequestUri()
+#10 library/Sewii/Uri/Http.php(146): Sewii\Uri\Http::detectCurrentUrl()
+#11 modules/controllers/Site/User/Unit/Index.php(223): Sewii\Uri\Http::factory()
+#12 modules/controllers/Site/User/Unit/Index.php(197): Spanel\Module\Controller\Site\User\Unit\UnitIndex-&gt;renderPage()
+#13 modules/controllers/Site/User/Unit/Index.php(57): Spanel\Module\Controller\Site\User\Unit\UnitIndex-&gt;renders()
+#14 [internal function]: Spanel\Module\Controller\Site\User\Unit\UnitIndex-&gt;onLoadLayout()
+#15 modules/components/Controller/Site/Unit.php(96): call_user_func(Array)
+#16 modules/components/Controller/Site/Unit.php(81): Spanel\Module\Component\Controller\Site\Unit-&gt;toListen()
+#17 modules/components/Controller/Site/Site.php(620): Spanel\Module\Component\Controller\Site\Unit-&gt;__construct(Object(Spanel\Module\Controller\Site\User\User))
+#18 modules/components/Controller/Site/Site.php(633): Spanel\Module\Component\Controller\Site\Site-&gt;Spanel\Module\Component\Controller\Site\{closure}(Object(Sewii\Data\Hashtable))
+#19 modules/components/Controller/Site/Site.php(206): Spanel\Module\Component\Controller\Site\Site-&gt;loadUnit()
+#20 modules/components/Controller/Site/Site.php(195): Spanel\Module\Component\Controller\Site\Site-&gt;run()
+#21 modules/components/Router/Dispatcher.php(40): Spanel\Module\Component\Controller\Site\Site::executeIntent(Object(Spanel\Module\Component\Router\Intent))
+#22 modules/components/Router/Router.php(134): Spanel\Module\Component\Router\Dispatcher-&gt;dispatch(Object(Spanel\Module\Component\Router\Intent))
+#23 modules/components/Router/Router.php(122): Spanel\Module\Component\Router\Router-&gt;onDispatch(Object(Spanel\Module\Component\Router\Intent))
+#24 modules/components/Router/Router.php(105): Spanel\Module\Component\Router\Router-&gt;onMatch(Object(Spanel\Module\Component\Router\SiteRoute))
+#25 modules/components/Router/Router.php(65): Spanel\Module\Component\Router\Router-&gt;listen()
+#26 [internal function]: Spanel\Module\Component\Router\Router-&gt;initialize()
+#27 library/Sewii/System/Singleton.php(96): call_user_func_array(Array, Array)
+#28 modules/components/Router/Router.php(53): Sewii\System\Singleton::getInstance()
+#29 modules/components/Bootstrap.php(235): Spanel\Module\Component\Router\Router::enter()
+#30 modules/components/Bootstrap.php(59): Spanel\Module\Component\Bootstrap-&gt;boot()
+#31 modules/components/Bootstrap.php(42): Spanel\Module\Component\Bootstrap-&gt;initialize()
+#32 index.php(54): Spanel\Module\Component\Bootstrap::run(Array)
+#33 index.php(31): Index-&gt;initialize()
+#34 index.php(68): Index::run()
+#35 {main}</p>
+        </fieldset>
+
+        <fieldset>
+          <legend>發生原因</legend>
+          <ul id="causes">
+            <li>系統維護中</li>
+            <li>伺服器忙錄中</li>
+            <li>網路連線異常</li>  
+            <li>未預期的錯誤</li>
+          </ul>
+        </fieldset>                                                                  
+
+        <fieldset>
+          <legend>解決方法</legend>
+          <ul id="solves">               
+            <li><a href="javascript:history.go(-1)">回到上一頁</a></li>
+            <li><a href="javascript:window.location.reload()">重新整理此頁面</a></li>
+            <li><a href="javascript:void(window.open('https://www.ecreative.tw:443/library/Sewii/System/Debugger/Debugger.php?report=%2Fhome%2Fyouweb%2Fpublic_html%2Fresources%2Flogs%2Fdebugs%2Fecreative.tw%2F20200107044202.html', '_blank'))">洽詢系統管理員</a></li>
+          </ul>
+        </fieldset>
+      </div>
+      <address id="copyright">Powered by &copy; 2020 <a href="mailto:report@sewii.com.tw">Sewii Soft</a> All rights reserved</address>
+    </div>
+  </body>
+</html>
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="utf-8" />
+    <base href="https://www.ecreative.tw:443/library/Sewii/System/Debugger/template/" />
+    <link href="debugger.css" rel="stylesheet" />
+    <title>應用程式發生技術性問題</title>
+  </head>
+  <body>
+    <div id="layout">
+      <h1>應用程式發生技術性問題 (2)</h1>
+      <p id="serverInfo">Apache at www.ecreative.tw Port 443</p>
+      <div class="fieldsets">
+        <fieldset>
+          <legend>問題摘要</legend>
+          <p>preg_match(): Unknown modifier '2'</p>
+        </fieldset> 
+
+        <fieldset>
+          <legend>詳細資訊</legend>
+          <ul class="details">
+            <li><label>錯誤類型:</label>Warning</li>
+            <li><label>應用程式:</label>library/Sewii/Text/Regex.php</li>
+            <li><label>中斷行數:</label>53</li>
+            <li><label>請求 URI:</label>/%22</li>
+            <li><label>請求方法:</label>GET HTTP/1.1</li>   
+          </ul>
+        </fieldset>
+
+        <fieldset>
+          <legend>附加資訊</legend>
+          <ul class="details">
+            <li><label>用戶端資訊:</label><span id="userAgent">Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</span></li>
+            <li><label>連線 IP:</label>66.249.79.48</li>
+            <li><label>發生時間:</label>2020-01-07 04:42:02</li> 
+          </ul>
+        </fieldset>   
+
+        <fieldset class="trace"> 
+          <legend>堆疊追蹤</legend>
+          <p>#0 library/Sewii/Text/Regex.php(53): preg_match('%/%22(\-[\w\-]+...', '//&quot;/', Array, 0, 0)
+#1 library/Sewii/Text/Regex.php(38): Sewii\Text\Regex::match('%/%22(\-[\w\-]+...', '//&quot;/')
+#2 modules/components/Router/AbstractRoute.php(283): Sewii\Text\Regex::isMatch('%/%22(\-[\w\-]+...', '//&quot;/')
+#3 modules/components/Router/SiteRoute.php(386): Spanel\Module\Component\Router\AbstractRoute::inUrl('%22', '%22', NULL)
+#4 modules/components/Router/Router.php(199): Spanel\Module\Component\Router\SiteRoute::inUrl('unit', '%22')
+#5 modules/components/Router/Router.php(177): Spanel\Module\Component\Router\Router-&gt;getParamAsQueryString()
+#6 [internal function]: Spanel\Module\Component\Router\Router-&gt;onRewriteQuery(Object(Sewii\Event\EventObject))
+#7 library/Sewii/Event/Event.php(104): call_user_func_array(Array, Array)
+#8 library/Sewii/Uri/Http/Query.php(304): Sewii\Event\Event::trigger('uri.http.query....', NULL)
+#9 library/Sewii/Uri/Http.php(612): Sewii\Uri\Http\Query::getNativeQuery()
+#10 library/Sewii/Uri/Http.php(146): Sewii\Uri\Http::detectCurrentUrl()
+#11 modules/controllers/Site/User/Unit/Index.php(223): Sewii\Uri\Http::factory()
+#12 modules/controllers/Site/User/Unit/Index.php(197): Spanel\Module\Controller\Site\User\Unit\UnitIndex-&gt;renderPage()
+#13 modules/controllers/Site/User/Unit/Index.php(57): Spanel\Module\Controller\Site\User\Unit\UnitIndex-&gt;renders()
+#14 [internal function]: Spanel\Module\Controller\Site\User\Unit\UnitIndex-&gt;onLoadLayout()
+#15 modules/components/Controller/Site/Unit.php(96): call_user_func(Array)
+#16 modules/components/Controller/Site/Unit.php(81): Spanel\Module\Component\Controller\Site\Unit-&gt;toListen()
+#17 modules/components/Controller/Site/Site.php(620): Spanel\Module\Component\Controller\Site\Unit-&gt;__construct(Object(Spanel\Module\Controller\Site\User\User))
+#18 modules/components/Controller/Site/Site.php(633): Spanel\Module\Component\Controller\Site\Site-&gt;Spanel\Module\Component\Controller\Site\{closure}(Object(Sewii\Data\Hashtable))
+#19 modules/components/Controller/Site/Site.php(206): Spanel\Module\Component\Controller\Site\Site-&gt;loadUnit()
+#20 modules/components/Controller/Site/Site.php(195): Spanel\Module\Component\Controller\Site\Site-&gt;run()
+#21 modules/components/Router/Dispatcher.php(40): Spanel\Module\Component\Controller\Site\Site::executeIntent(Object(Spanel\Module\Component\Router\Intent))
+#22 modules/components/Router/Router.php(134): Spanel\Module\Component\Router\Dispatcher-&gt;dispatch(Object(Spanel\Module\Component\Router\Intent))
+#23 modules/components/Router/Router.php(122): Spanel\Module\Component\Router\Router-&gt;onDispatch(Object(Spanel\Module\Component\Router\Intent))
+#24 modules/components/Router/Router.php(105): Spanel\Module\Component\Router\Router-&gt;onMatch(Object(Spanel\Module\Component\Router\SiteRoute))
+#25 modules/components/Router/Router.php(65): Spanel\Module\Component\Router\Router-&gt;listen()
+#26 [internal function]: Spanel\Module\Component\Router\Router-&gt;initialize()
+#27 library/Sewii/System/Singleton.php(96): call_user_func_array(Array, Array)
+#28 modules/components/Router/Router.php(53): Sewii\System\Singleton::getInstance()
+#29 modules/components/Bootstrap.php(235): Spanel\Module\Component\Router\Router::enter()
+#30 modules/components/Bootstrap.php(59): Spanel\Module\Component\Bootstrap-&gt;boot()
+#31 modules/components/Bootstrap.php(42): Spanel\Module\Component\Bootstrap-&gt;initialize()
+#32 index.php(54): Spanel\Module\Component\Bootstrap::run(Array)
+#33 index.php(31): Index-&gt;initialize()
+#34 index.php(68): Index::run()
+#35 {main}</p>
+        </fieldset>
+
+        <fieldset>
+          <legend>發生原因</legend>
+          <ul id="causes">
+            <li>系統維護中</li>
+            <li>伺服器忙錄中</li>
+            <li>網路連線異常</li>  
+            <li>未預期的錯誤</li>
+          </ul>
+        </fieldset>                                                                  
+
+        <fieldset>
+          <legend>解決方法</legend>
+          <ul id="solves">               
+            <li><a href="javascript:history.go(-1)">回到上一頁</a></li>
+            <li><a href="javascript:window.location.reload()">重新整理此頁面</a></li>
+            <li><a href="javascript:void(window.open('https://www.ecreative.tw:443/library/Sewii/System/Debugger/Debugger.php?report=%2Fhome%2Fyouweb%2Fpublic_html%2Fresources%2Flogs%2Fdebugs%2Fecreative.tw%2F20200107044202.html', '_blank'))">洽詢系統管理員</a></li>
+          </ul>
+        </fieldset>
+      </div>
+      <address id="copyright">Powered by &copy; 2020 <a href="mailto:report@sewii.com.tw">Sewii Soft</a> All rights reserved</address>
+    </div>
+  </body>
+</html>
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="utf-8" />
+    <base href="https://www.ecreative.tw:443/library/Sewii/System/Debugger/template/" />
+    <link href="debugger.css" rel="stylesheet" />
+    <title>應用程式發生技術性問題</title>
+  </head>
+  <body>
+    <div id="layout">
+      <h1>應用程式發生技術性問題 (3)</h1>
+      <p id="serverInfo">Apache at www.ecreative.tw Port 443</p>
+      <div class="fieldsets">
+        <fieldset>
+          <legend>問題摘要</legend>
+          <p>preg_match(): Unknown modifier '2'</p>
+        </fieldset> 
+
+        <fieldset>
+          <legend>詳細資訊</legend>
+          <ul class="details">
+            <li><label>錯誤類型:</label>Warning</li>
+            <li><label>應用程式:</label>library/Sewii/Text/Regex.php</li>
+            <li><label>中斷行數:</label>53</li>
+            <li><label>請求 URI:</label>/%22</li>
+            <li><label>請求方法:</label>GET HTTP/1.1</li>   
+          </ul>
+        </fieldset>
+
+        <fieldset>
+          <legend>附加資訊</legend>
+          <ul class="details">
+            <li><label>用戶端資訊:</label><span id="userAgent">Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</span></li>
+            <li><label>連線 IP:</label>66.249.79.48</li>
+            <li><label>發生時間:</label>2020-01-07 04:42:02</li> 
+          </ul>
+        </fieldset>   
+
+        <fieldset class="trace"> 
+          <legend>堆疊追蹤</legend>
+          <p>#0 library/Sewii/Text/Regex.php(53): preg_match('%/%22(\-[\w\-]+...', '//', Array, 0, 0)
+#1 library/Sewii/Text/Regex.php(38): Sewii\Text\Regex::match('%/%22(\-[\w\-]+...', '//')
+#2 modules/components/Router/AbstractRoute.php(283): Sewii\Text\Regex::isMatch('%/%22(\-[\w\-]+...', '//')
+#3 modules/components/Router/SiteRoute.php(386): Spanel\Module\Component\Router\AbstractRoute::inUrl('%22', '%22', Array)
+#4 modules/components/Router/SiteRoute.php(145): Spanel\Module\Component\Router\SiteRoute::inUrl('unit', '%22', Array)
+#5 modules/components/Router/RouteConvert.php(29): Spanel\Module\Component\Router\SiteRoute::toStatic('unit=%2522')
+#6 modules/components/Router/Router.php(148): Spanel\Module\Component\Router\RouteConvert::toStatic('unit=%2522')
+#7 [internal function]: Spanel\Module\Component\Router\Router-&gt;onRewriteUri(Object(Sewii\Event\EventObject))
+#8 library/Sewii/Event/Event.php(104): call_user_func_array(Array, Array)
+#9 library/Sewii/Uri/Http.php(181): Sewii\Event\Event::trigger('uri.http.to.str...', Object(Sewii\Uri\Http))
+#10 modules/controllers/Site/User/Unit/Index.php(223): Sewii\Uri\Http-&gt;getUri(96)
+#11 modules/controllers/Site/User/Unit/Index.php(197): Spanel\Module\Controller\Site\User\Unit\UnitIndex-&gt;renderPage()
+#12 modules/controllers/Site/User/Unit/Index.php(57): Spanel\Module\Controller\Site\User\Unit\UnitIndex-&gt;renders()
+#13 [internal function]: Spanel\Module\Controller\Site\User\Unit\UnitIndex-&gt;onLoadLayout()
+#14 modules/components/Controller/Site/Unit.php(96): call_user_func(Array)
+#15 modules/components/Controller/Site/Unit.php(81): Spanel\Module\Component\Controller\Site\Unit-&gt;toListen()
+#16 modules/components/Controller/Site/Site.php(620): Spanel\Module\Component\Controller\Site\Unit-&gt;__construct(Object(Spanel\Module\Controller\Site\User\User))
+#17 modules/components/Controller/Site/Site.php(633): Spanel\Module\Component\Controller\Site\Site-&gt;Spanel\Module\Component\Controller\Site\{closure}(Object(Sewii\Data\Hashtable))
+#18 modules/components/Controller/Site/Site.php(206): Spanel\Module\Component\Controller\Site\Site-&gt;loadUnit()
+#19 modules/components/Controller/Site/Site.php(195): Spanel\Module\Component\Controller\Site\Site-&gt;run()
+#20 modules/components/Router/Dispatcher.php(40): Spanel\Module\Component\Controller\Site\Site::executeIntent(Object(Spanel\Module\Component\Router\Intent))
+#21 modules/components/Router/Router.php(134): Spanel\Module\Component\Router\Dispatcher-&gt;dispatch(Object(Spanel\Module\Component\Router\Intent))
+#22 modules/components/Router/Router.php(122): Spanel\Module\Component\Router\Router-&gt;onDispatch(Object(Spanel\Module\Component\Router\Intent))
+#23 modules/components/Router/Router.php(105): Spanel\Module\Component\Router\Router-&gt;onMatch(Object(Spanel\Module\Component\Router\SiteRoute))
+#24 modules/components/Router/Router.php(65): Spanel\Module\Component\Router\Router-&gt;listen()
+#25 [internal function]: Spanel\Module\Component\Router\Router-&gt;initialize()
+#26 library/Sewii/System/Singleton.php(96): call_user_func_array(Array, Array)
+#27 modules/components/Router/Router.php(53): Sewii\System\Singleton::getInstance()
+#28 modules/components/Bootstrap.php(235): Spanel\Module\Component\Router\Router::enter()
+#29 modules/components/Bootstrap.php(59): Spanel\Module\Component\Bootstrap-&gt;boot()
+#30 modules/components/Bootstrap.php(42): Spanel\Module\Component\Bootstrap-&gt;initialize()
+#31 index.php(54): Spanel\Module\Component\Bootstrap::run(Array)
+#32 index.php(31): Index-&gt;initialize()
+#33 index.php(68): Index::run()
+#34 {main}</p>
+        </fieldset>
+
+        <fieldset>
+          <legend>發生原因</legend>
+          <ul id="causes">
+            <li>系統維護中</li>
+            <li>伺服器忙錄中</li>
+            <li>網路連線異常</li>  
+            <li>未預期的錯誤</li>
+          </ul>
+        </fieldset>                                                                  
+
+        <fieldset>
+          <legend>解決方法</legend>
+          <ul id="solves">               
+            <li><a href="javascript:history.go(-1)">回到上一頁</a></li>
+            <li><a href="javascript:window.location.reload()">重新整理此頁面</a></li>
+            <li><a href="javascript:void(window.open('https://www.ecreative.tw:443/library/Sewii/System/Debugger/Debugger.php?report=%2Fhome%2Fyouweb%2Fpublic_html%2Fresources%2Flogs%2Fdebugs%2Fecreative.tw%2F20200107044202.html', '_blank'))">洽詢系統管理員</a></li>
+          </ul>
+        </fieldset>
+      </div>
+      <address id="copyright">Powered by &copy; 2020 <a href="mailto:report@sewii.com.tw">Sewii Soft</a> All rights reserved</address>
+    </div>
+  </body>
+</html>

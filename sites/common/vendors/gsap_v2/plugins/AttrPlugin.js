@@ -1,0 +1,3 @@
+(window._gsQueue||(window._gsQueue=[])).push(function(){"use strict";window._gsDefine.plugin({propName:"attr",API:2,version:"0.2.0",init:function(target,value,tween){var p;if(typeof(target.setAttribute)!=="function"){return false;}
+this._target=target;this._proxy={};for(p in value){if(this._addTween(this._proxy,p,parseFloat(target.getAttribute(p)),value[p],p)){this._overwriteProps.push(p);}}
+return true;},set:function(ratio){this._super.setRatio.call(this,ratio);var props=this._overwriteProps,i=props.length,p;while(--i>-1){p=props[i];this._target.setAttribute(p,this._proxy[p]+"");}}});});if(window._gsDefine){window._gsQueue.pop()();}

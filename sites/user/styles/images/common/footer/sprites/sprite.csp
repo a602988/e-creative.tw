@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<cyotek.spriter.project version="1.0.0.0" generator="Cyotek Spriter 1.0.7.1" edition="" timestamp="2014-07-10 13:42:29Z">
+  <canvas w="36" h="16" />
+  <maximumSpriteSize w="20" h="16" />
+  <folders />
+  <export exportCss="true" cssFileName="" exportSpriteSheet="true" exportSprites="false" imageFileName="" imageFormat="Png" exportHtml="false" htmlFileName="" createBackups="false" backupHistorySize="0" />
+  <sprite packingMethod="1" orientation="1" maximumSize="1024" backgroundColor="Transparent" forcePowerOfTwo="false" sort="false">
+    <minimumSize w="0" h="0" />
+  </sprite>
+  <css overwriteMode="0" prefix="" suffix="" classPrefix="" classSuffix="" classQualifier="." invertPositions="true" />
+  <images>
+    <image id="57e993abb0004d7aa67b24e98afe35b5" className="logo" fileName="files\logo.png" x="0" y="0" width="20" height="16" excluded="false" locked="false" excludeDerivedImages="false" />
+    <image id="44c653aba19a43ffb4b35d22149aa920" className="mail" fileName="files\mail.png" x="20" y="0" width="16" height="16" excluded="false" locked="false" excludeDerivedImages="false" />
+  </images>
+  <effects />
+  <addinSettings>
+    <settings name="OptiPNG" />
+  </addinSettings>
+</cyotek.spriter.project>

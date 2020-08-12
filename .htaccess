@@ -1,0 +1,142 @@
+#############################################################################################################
+# 【Hypertext access file】
+# 
+# @version 1.9.0 2016/06/14 14:55
+# @author JOE (joe@e-creative.tw)
+# @copyright (c) 2016 e-creative
+# @link http://www.minmax.biz/
+
+#############################################################################################################
+
+<IfModule rewrite_module>
+
+    RewriteEngine On
+    RewriteBase /
+    
+    # For baidu
+    RewriteCond %{HTTP_REFERER} (baidu)\.com
+    RewriteRule ^.*$ - [F,L]
+    
+    # For zh-cn
+    RewriteCond %{HTTP:Accept-Language} ^zh-cn [NC]
+    RewriteRule ^.*$ - [F,L]
+
+    # For Private
+    RewriteCond %{HTTP_USER_AGENT} disabled
+    RewriteCond %{HTTP_USER_AGENT} (iPhone|Android)
+    RewriteCond %{HTTP_HOST}   ^(ecreative|minmax)\.[^\.]+\.[^\.]+$ [NC]
+    RewriteCond %{REMOTE_ADDR} !127.0.0.1$
+    RewriteCond %{REMOTE_ADDR} !220.132.54.141$
+    RewriteCond %{REMOTE_ADDR} !125.227.205.229$
+    RewriteCond %{REMOTE_ADDR} !125.227.205.230$
+    RewriteCond %{REMOTE_ADDR} !125.227.205.231$
+    RewriteCond %{REMOTE_ADDR} !125.227.205.232$
+    RewriteCond %{REMOTE_ADDR} !125.227.205.233$
+    RewriteCond %{REMOTE_ADDR} !125.227.205.234$
+    RewriteRule ^.*$ - [F]
+	
+  
+	
+    # For SSL
+    RewriteCond %{HTTPS} !=on
+    RewriteCond %{HTTP_HOST} ^(.+\.)?(ecreative\.tw|minmax\.tw)$
+    RewriteRule ^(.*)$ https://%1%2/$1 [QSA,R=301,L]
+
+    # For Resource
+    RewriteCond %{REQUEST_URI}  ^/resources/(.*)$
+    RewriteCond %{REQUEST_URI} !^/resources/uploads/(.*)$
+    RewriteCond %{REQUEST_URI} !^/resources/documents/(.*)$
+    RewriteRule ^.*$ - [F]
+    
+    # For Sites
+    RewriteCond %{REQUEST_URI}  ^/sites/user/(.+\.html?)?$
+    RewriteRule ^.*$ - [F]
+    
+    # For Static
+    RewriteRule ^sitemap\.(xml|txt)$ ?unit=sitemap [L]
+    RewriteRule ^robots\.txt$ ?unit=robots [L]
+    RewriteRule ^BingSiteAuth\.xml /resources/documents/BingSiteAuth.xml [L]
+    RewriteRule ^google(\w+)\.html /resources/documents/google$1.html [L]
+    
+    # For All
+    RewriteCond %{REQUEST_URI} !\.(css|js|swf|flv|gif|jpe?g|png)$
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^.*$ index.php [QSA,L]
+
+</IfModule>
+
+#############################################################################################################
+
+ErrorDocument 400 default
+ErrorDocument 401 default
+ErrorDocument 402 default
+ErrorDocument 403 default
+ErrorDocument 404 default
+ErrorDocument 405 default
+ErrorDocument 406 default
+ErrorDocument 407 default
+ErrorDocument 408 default
+ErrorDocument 409 default
+ErrorDocument 410 default
+ErrorDocument 411 default
+ErrorDocument 412 default
+ErrorDocument 413 default
+ErrorDocument 414 default
+ErrorDocument 415 default
+ErrorDocument 416 default
+ErrorDocument 417 default
+ErrorDocument 422 default
+ErrorDocument 423 default
+ErrorDocument 424 default
+ErrorDocument 500 default
+ErrorDocument 501 default
+ErrorDocument 502 default
+ErrorDocument 503 default
+ErrorDocument 504 default
+ErrorDocument 505 default
+ErrorDocument 506 default
+ErrorDocument 507 default
+ErrorDocument 510 default
+
+#############################################################################################################
+
+Options -Indexes
+
+#############################################################################################################
+
+<IfModule deflate_module>
+    # Apache 2.4
+    <IfModule authz_core_module>
+        <IfModule filter_module>
+          AddOutputFilterByType DEFLATE text/html
+          AddOutputFilterByType DEFLATE text/xml
+          AddOutputFilterByType DEFLATE text/css
+          AddOutputFilterByType DEFLATE text/plain
+          AddOutputFilterByType DEFLATE application/javascript
+          AddOutputFilterByType DEFLATE application/json
+          AddOutputFilterByType DEFLATE image/jpeg
+          AddOutputFilterByType DEFLATE image/png
+          AddOutputFilterByType DEFLATE image/gif
+        </IfModule>
+    </IfModule>
+    # Apache 2.2
+    <IfModule !authz_core_module>
+          AddOutputFilterByType DEFLATE text/html
+          AddOutputFilterByType DEFLATE text/xml
+          AddOutputFilterByType DEFLATE text/css
+          AddOutputFilterByType DEFLATE text/plain
+          AddOutputFilterByType DEFLATE application/javascript
+          AddOutputFilterByType DEFLATE application/json
+          AddOutputFilterByType DEFLATE image/jpeg
+          AddOutputFilterByType DEFLATE image/png
+          AddOutputFilterByType DEFLATE image/gif
+    </IfModule>
+</IfModule>
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php56” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php56 .php .php5 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit

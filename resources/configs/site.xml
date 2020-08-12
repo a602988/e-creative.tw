@@ -1,0 +1,1402 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<site>
+
+  <setting>
+    <id>Ecreative</id>
+    <namespace>ecreative</namespace>
+    <name>雲端數位科技</name>
+    <nickname>雲端數位</nickname>
+    <company>雲端數位科技有限公司</company>
+    <title>雲端數位科技：頂級網站設計公司、企業雲端化系統建置與整合專家</title>
+    <keywords>網頁設計, 程式設計, 系統開發, 電子商務, 網路行銷</keywords>
+    <description>雲端數位科技是一家充滿新鮮創意及設計熱情的網路公司。我們擁有頂尖質量、橫跨多方面領域的設計團隊，我們擅於打造以創新為本的設計作品、專業於多種領域的軟體工程技術及全方位的服務導向整合，我們深信知識與經驗的累積才是打動人心的服務。</description>
+    <properties>
+      API串接整合, APP設計, APP開發, Android系統, B2B網站設計, CF影片拍攝, CMS系統,
+      CRM系統, CSI設計, ERP系統, ERP系統整合, LOGO設計, POS系統, POS系統整合, SEO優化, SEO最佳化, iOS系統,
+      iPad網站, iPhone網站, 企業形像網站, 企業網站設計, 傳統產業網站設計, 公司網頁設計, 動畫設計, 台中網頁設計,
+      台北網頁設計, 台南網頁設計, 品牌網站設計, 品牌行銷, 商業攝影, 問卷調查系統, 外銷產業, 學校網站設計,
+      平面設計, 廣告設計, 形像網站設計, 房地產網站設計, 手機版網頁, 手機網頁設計, 新竹網頁設計, 旅遊網站設計,
+      會員系統, 服飾網站設計, 桃園網頁設計, 民宿網站設計, 活動網站設計, 程式設計, 系統開發, 網站優化, 網站建置,
+      網路商城, 網路行銷, 網路行銷系統, 網路開店, 網頁設計, 網頁設計公司, 網頁設計外包, 網頁設計師, 網頁設計推薦,
+      線上刷卡, 線上購物, 線上購物系統, 線上金流, 美容網站設計, 美食網站設計, 自適應網頁設計, 藥局網站設計,
+      虛擬主機, 訂單系統, 訂房系統, 詢問函開發, 論壇網站設計, 資料庫設計, 購物系統, 購物網站, 購物網站設計,
+      購物車系統, 跨平台網頁設計, 軟體設計, 軟體開發, 運動網站設計, 酒店網站設計, 醫療系統, 醫療網站設計,
+      醫美網站設計, 金流服務, 關鍵字排名, 電子商務, 響應式網站, 飯店系統, 飯店網站設計, 高雄網頁設計,
+    </properties>
+    <contact>
+      <name>雲端數位科技有限公司</name>
+      <from>service@minmax.tw</from>
+      <cc>info@minmax.biz</cc>
+      <tel>04-3609-8898</tel>
+      <fax></fax>
+      <location>
+        <country>台灣</country>
+        <city>台中市</city>
+        <zipcode>北屯區</zipcode>
+        <address>崇德路二段 46 號 10 樓</address>
+        <zipcode>406</zipcode>
+      </location>
+      <sms>
+        <enabled>true</enabled>
+        <to>0987000588, 0932011348, 0988206362</to>
+        <username>joeyouwebtw</username>
+        <password>kotsms123</password>
+        <api>http://202.39.48.216/kotsmsapi-1.php</api>
+      </sms>
+    </contact>
+    <works>
+      <path>styles/images/works/cases</path>
+    </works>
+    <google>
+      <analytics>UA-8983287-1</analytics>
+      <url>http://google.com/+EcreativeTwProfile</url>
+    </google>
+    <facebook>
+      <id>134099617007393</id>
+      <url>https://www.facebook.com/minmaxeric</url>
+    </facebook>
+  </setting>
+
+  <work>
+    <id>e000377</id>
+    <name>工研院－工業技術研究學院</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags></tags>
+    <color>
+      <box>#1f1f1f</box>
+      <text>auto</text>
+      <reverse>#eeee00</reverse>
+      <button>auto</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>e000347</id>
+    <name>奇美博物館</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags></tags>
+    <color>
+      <box>#7a573b</box>
+      <text>auto</text>
+      <reverse>#eeee00</reverse>
+      <button>#bbb</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000168</id>
+    <name>HP 影像解決方案</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link>http://m000168.showcase.youweb.tw</link>
+    <tags></tags>
+    <color>
+      <box>#057fb3</box>
+      <text>auto</text>
+      <reverse>#eeee00</reverse>
+      <button>#aaa</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>e000356</id>
+    <name>凱渥 - Catwalk</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags></tags>
+    <color>
+      <box>#633372</box>
+      <text>auto</text>
+      <reverse>#eeee00</reverse>
+      <button>auto</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000171</id>
+    <name>倫飛電腦－Twinhead</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags></tags>
+    <color>
+      <box>#3f4035</box>
+      <text>auto</text>
+      <reverse>#eeee00</reverse>
+      <button>#aaa</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>e000385</id>
+    <name>法藍瓷 FRANZ</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags></tags>
+    <color>
+      <box>#5d5a3b</box>
+      <text>auto</text>
+      <reverse>#ffe8c5</reverse>
+      <button>#bbb</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000089</id>
+    <name>春水堂人文茶館</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags>美食, 知名企業</tags>
+    <color>
+      <box>auto</box>
+      <text>auto</text>
+      <reverse>auto</reverse>
+      <button>auto</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000120</id>
+    <name>復興空廚</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags>美食, 購物, 知名企業</tags>
+    <color>
+      <box>#630b6c</box>
+      <text>auto</text>
+      <reverse>#ffff00</reverse>
+      <button>#828282</button>
+      <scrollbar>#ccc</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>e000325</id>
+    <name>台灣林內工業</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags>家具, 知名企業</tags>
+    <color>
+      <box>#1f1e19</box>
+      <text>#eee</text>
+      <reverse>#ff0000</reverse>
+      <button>#aaa</button>
+      <scrollbar>#888</scrollbar>
+      <draggable>#aaa</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>e000327</id>
+    <name>奇美 MODEX</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags>企業形象, 知名企業, 上市</tags>
+    <color>
+      <box>#2a2a2a</box>
+      <text>auto</text>
+      <reverse>auto</reverse>
+      <button>auto</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>#aaa</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>e000276</id>
+    <name>奇美員工購物網站</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link>https://shopping.chimei.com.tw</link>
+    <tags>購物, 上市, 知名企業</tags>
+    <color>
+      <box>#eb5c9e</box>
+      <text>#fff</text>
+      <reverse>#ffd822</reverse>
+      <button>#bbb</button>
+      <scrollbar>#ccc</scrollbar>
+      <draggable>#999</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>e000315</id>
+    <name>澄清醫院</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags>醫藥, 知名企業</tags>
+    <color>
+      <box>#2171b0</box>
+      <text>#fff</text>
+      <reverse>#fff695</reverse>
+      <button>#d4ecff</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000040</id>
+    <name>摩特動力工業</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags>外銷, 知名企業</tags>
+    <color>
+      <box>#b8152a</box>
+      <text>#fff</text>
+      <reverse>#ffd822</reverse>
+      <button>#bbb</button>
+      <scrollbar>#ccc</scrollbar>
+      <draggable>#999</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>e000305</id>
+    <name>大樹連鎖藥局</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags>醫藥</tags>
+    <color>
+      <box>#007030</box>
+      <text>#eee</text>
+      <reverse>#b2ff94</reverse>
+      <button>#aaa</button>
+      <scrollbar>#888</scrollbar>
+      <draggable>#aaa</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>e000364</id>
+    <name>麻葉餐飲集團</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags></tags>
+    <color>
+      <box>#3f2016</box>
+      <text>auto</text>
+      <reverse>#eeee00</reverse>
+      <button>auto</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000104</id>
+    <name>裕珍馨食品</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags>購物</tags>
+    <color>
+      <box>#a62116</box>
+      <text>#eee</text>
+      <reverse>#ffff00</reverse>
+      <button>auto</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000055</id>
+    <name>茶湯會</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags>美食, 知名企業</tags>
+    <color>
+      <box>auto</box>
+      <text>auto</text>
+      <reverse>auto</reverse>
+      <button>auto</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000145</id>
+    <name>添好運點心專門店</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags>美食</tags>
+    <color>
+      <box>#14573c</box>
+      <text>auto</text>
+      <reverse>#d7aa01</reverse>
+      <button>auto</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>e000316</id>
+    <name>朝日調理器工業</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags>購物</tags>
+    <color>
+      <box>#a81305</box>
+      <text>#eee</text>
+      <reverse>#ffff00</reverse>
+      <button>#ffc5c5</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000109</id>
+    <name>台北喜來登大飯店</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags>飯店, 知名企業</tags>
+    <color>
+      <box>#1d0a06</box>
+      <text>#eee</text>
+      <reverse>#e2b266</reverse>
+      <button>auto</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>e000330</id>
+    <name>圓山飯店</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags>飯店, 知名企業</tags>
+    <color>
+      <box>#522415</box>
+      <text>auto</text>
+      <reverse>#ffff00</reverse>
+      <button>#e7e0c4</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000028</id>
+    <name>日月行館</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags>飯店, 知名企業</tags>
+    <color>
+      <box>#111</box>
+      <text>auto</text>
+      <reverse>#ba972e</reverse>
+      <button>auto</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>e000359</id>
+    <name>台中金典酒店</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags></tags>
+    <color>
+      <box>#a67c2a</box>
+      <text>auto</text>
+      <reverse>#eeee00</reverse>
+      <button>#ccc</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000160</id>
+    <name>君鴻國際酒店</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags></tags>
+    <color>
+      <box>#3f3128</box>
+      <text>auto</text>
+      <reverse>#eeee00</reverse>
+      <button>auto</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>e000290</id>
+    <name>新竹美麗信酒店</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags>飯店, 知名企業</tags>
+    <color>
+      <box>#000</box>
+      <text>#ddd</text>
+      <reverse>#ca972e</reverse>
+      <button>auto</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000110</id>
+    <name>台中港酒店</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags>飯店</tags>
+    <color>
+      <box>auto</box>
+      <text>auto</text>
+      <reverse>auto</reverse>
+      <button>auto</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>e000326</id>
+    <name>北投麗禧溫泉酒店</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link>http://e000326.showcase.youweb.tw</link>
+    <tags>飯店, 知名企業</tags>
+    <color>
+      <box>#5e2a04</box>
+      <text>#ddd</text>
+      <reverse>#ca972e</reverse>
+      <button>auto</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000138</id>
+    <name>大地奇岩溫泉酒店</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link>http://m000138.showcase.youweb.tw</link>
+    <tags>飯店</tags>
+    <color>
+      <box>#a27640</box>
+      <text>auto</text>
+      <reverse>#fcdfbb</reverse>
+      <button>#fff4d6</button>
+      <scrollbar>#ccc</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000076</id>
+    <name>心驛商旅 - 台中商務汽車旅館</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags>飯店</tags>
+    <color>
+      <box>#111</box>
+      <text>auto</text>
+      <reverse>#ee0000</reverse>
+      <button>auto</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>e000312</id>
+    <name>龍巖寶山紀念墓園</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags>企業形象</tags>
+    <color>
+      <box>#6c161b</box>
+      <text>#eee</text>
+      <reverse>#ffff00</reverse>
+      <button>#ffc5c5</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>e000319</id>
+    <name>台灣新日化</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags>外銷, 知名企業</tags>
+    <color>
+      <box>#6da330</box>
+      <text>#fff</text>
+      <reverse>#164a35</reverse>
+      <button>#daffef</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000125</id>
+    <name>SOHO 甦活創意管理顧問</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link>http://m000125.showcase.youweb.tw</link>
+    <tags>企業形象</tags>
+    <color>
+      <box>#ad0131</box>
+      <text>auto</text>
+      <reverse>#f8e404</reverse>
+      <button>#ffd9e4</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000187</id>
+    <name>PABLO 起司專賣店</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags></tags>
+    <color>
+      <box>#d37c00</box>
+      <text>auto</text>
+      <reverse>#64ea01</reverse>
+      <button>#ccc</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>e000291</id>
+    <name>樂麵屋</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags>美食</tags>
+    <color>
+      <box>#ed7601</box>
+      <text>#ffffff</text>
+      <reverse>#fff720</reverse>
+      <button>#bbb</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000141</id>
+    <name>Mark's house 馬克屋</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <tags>美食</tags>
+    <color>
+      <box>#552415</box>
+      <text>auto</text>
+      <reverse>#d7aa01</reverse>
+      <button>auto</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>e000303</id>
+    <name>青青時尚花園會館</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <tags>婚紗, 飯店</tags>
+    <color>
+      <box>#481431</box>
+      <text>#eee</text>
+      <reverse>#bbd987</reverse>
+      <button>auto</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>e000302</id>
+    <name>DH WEDDING 雙囍婚禮顧問</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags>婚紗, 飯店</tags>
+    <color>
+      <box>#0d5243</box>
+      <text>auto</text>
+      <reverse>#eeee00</reverse>
+      <button>auto</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000165</id>
+    <name>VERA 精品婚紗</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags></tags>
+    <color>
+      <box>#a7336c</box>
+      <text>auto</text>
+      <reverse>#eeee00</reverse>
+      <button>#aaa</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000158</id>
+    <name>典華喜宴</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags></tags>
+    <color>
+      <box>#d77f97</box>
+      <text>auto</text>
+      <reverse>#eeee00</reverse>
+      <button>#ccc</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>e000372</id>
+    <name>法蝶婚紗會館</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags></tags>
+    <color>
+      <box>#5d6940</box>
+      <text>#fff</text>
+      <reverse>#eeee00</reverse>
+      <button>#bbb</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000140</id>
+    <name>JOJO 婚紗攝影</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link>http://m000140.showcase.youweb.tw</link>
+    <tags>婚紗</tags>
+    <color>
+      <box>#0a151b</box>
+      <text>#cccccc</text>
+      <reverse>#ff0000</reverse>
+      <button>auto</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>e000301</id>
+    <name>Cycling Express 單車快遞</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags>購物</tags>
+    <color>
+      <box>#4a780f</box>
+      <text>#eee</text>
+      <reverse>#ffff00</reverse>
+      <button>#bbb</button>
+      <scrollbar>#ccc</scrollbar>
+      <draggable>#999</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000077</id>
+    <name>CITYBUG 城市巴克</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags>外銷</tags>
+    <color>
+      <box>#111</box>
+      <text>#eee</text>
+      <reverse>#ffff00</reverse>
+      <button>auto</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000090</id>
+    <name>台灣福曼莎</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <tags>傢俱</tags>
+    <color>
+      <box>#b00d12</box>
+      <text>auto</text>
+      <reverse>#fde6b6</reverse>
+      <button>#999</button>
+      <scrollbar>#666</scrollbar>
+      <draggable>#999</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>e000331</id>
+    <name>Stadler Form</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags></tags>
+    <color>
+      <box>#7d732b</box>
+      <text>auto</text>
+      <reverse>#eeee00</reverse>
+      <button>#ccc</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>e000343</id>
+    <name>花果椿妝</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags></tags>
+    <color>
+      <box>#111</box>
+      <text>auto</text>
+      <reverse>#eeee00</reverse>
+      <button>#bbb</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>e000332</id>
+    <name>阿原肥皂</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags></tags>
+    <color>
+      <box>#3f7a17</box>
+      <text>auto</text>
+      <reverse>#eeee00</reverse>
+      <button>#ccc</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>e000320</id>
+    <name>TAS 踏實皮飾</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags>時尚</tags>
+    <color>
+      <box>#3a3e41</box>
+      <text>#eee</text>
+      <reverse>#ffff00</reverse>
+      <button>auto</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000131</id>
+    <name>雅喬生化科技</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <tags>化妝品</tags>
+    <color>
+      <box>#518b0d</box>
+      <text>auto</text>
+      <reverse>#ffff00</reverse>
+      <button>#aaa</button>
+      <scrollbar>#888</scrollbar>
+      <draggable>#aaa</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000046</id>
+    <name>環球化粧品廠</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags>化妝品</tags>
+    <color>
+      <box>#560224</box>
+      <text>auto</text>
+      <reverse>auto</reverse>
+      <button>#999</button>
+      <scrollbar>#666</scrollbar>
+      <draggable>#999</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000045</id>
+    <name>Cinema Secrets 鈞宜彩妝</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags>化妝品</tags>
+    <color>
+      <box>#3f3814</box>
+      <text>auto</text>
+      <reverse>#faa998</reverse>
+      <button>auto</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000129</id>
+    <name>夢時代購物中心</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags>百貨公司</tags>
+    <color>
+      <box>#513a29</box>
+      <text>auto</text>
+      <reverse>auto</reverse>
+      <button>auto</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000114</id>
+    <name>衣衫衣舞</name>
+    <category>WEB DESIGN</category>
+    <enabled>false</enabled>
+    <link></link>
+    <tags>購物, 時尚</tags>
+    <color>
+      <box>#111</box>
+      <text>#fff</text>
+      <reverse>#ff0000</reverse>
+      <button>auto</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000091</id>
+    <name>EZDIVE 易潛網精品潛水雜誌</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags>入口網站, 討論區</tags>
+    <color>
+      <box>#000000</box>
+      <text>#eee</text>
+      <reverse>#ff0000</reverse>
+      <button>#ccc</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000106</id>
+    <name>霖宏科技</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags>上市, 外銷</tags>
+    <color>
+      <box>#15376b</box>
+      <text>auto</text>
+      <reverse>#ff0000</reverse>
+      <button>auto</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000169</id>
+    <name>澄清醫院 - 柏忕健康管理中心</name>
+    <category>WEB DESIGN</category>
+    <enabled>false</enabled>
+    <link></link>
+    <tags></tags>
+    <color>
+      <box>#5f8721</box>
+      <text>auto</text>
+      <reverse>#eeee00</reverse>
+      <button>#aaa</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000100</id>
+    <name>錦豪工業</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <tags>外銷</tags>
+    <color>
+      <box>#268f2d</box>
+      <text>auto</text>
+      <reverse>#f1ff51</reverse>
+      <button>#ccc</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>e000314</id>
+    <name>國嘉製藥工業</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags>外銷, 知名企業</tags>
+    <color>
+      <box>#026322</box>
+      <text>auto</text>
+      <reverse>#ffd822</reverse>
+      <button>#ccc</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>e000370</id>
+    <name>守恆健康事業集團</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags></tags>
+    <color>
+      <box>#08458b</box>
+      <text>auto</text>
+      <reverse>#eeee00</reverse>
+      <button>#aaa</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000119</id>
+    <name>光流醫學整合中心</name>
+    <category>WEB DESIGN</category>
+    <enabled>false</enabled>
+    <tags>醫藥</tags>
+    <color>
+      <box>#779b20</box>
+      <text>#fff</text>
+      <reverse>#ff0000</reverse>
+      <button>#ccc</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>e000328</id>
+    <name>荷茂生醫科技</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags>外銷, 上市</tags>
+    <color>
+      <box>#0a195c</box>
+      <text>#eee</text>
+      <reverse>#ff0000</reverse>
+      <button>#ccc</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>e000318</id>
+    <name>倉佑實業</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags>外銷, 上市</tags>
+    <color>
+      <box>#0a195c</box>
+      <text>#eee</text>
+      <reverse>#ff0000</reverse>
+      <button>#ccc</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000093</id>
+    <name>協鴻工業</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <tags>外銷, 知名企業</tags>
+    <color>
+      <box>#680b51</box>
+      <text>auto</text>
+      <reverse>#eeee00</reverse>
+      <button>auto</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>e000310</id>
+    <name>安良電氣</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags>外銷, 知名企業</tags>
+    <color>
+      <box>#02122e</box>
+      <text>auto</text>
+      <reverse>#ff0000</reverse>
+      <button>auto</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000122</id>
+    <name>程岱有限公司</name>
+    <category>WEB DESIGN</category>
+    <enabled>false</enabled>
+    <link></link>
+    <tags>外銷</tags>
+    <color>
+      <box>#dd3428</box>
+      <text>#fff</text>
+      <reverse>#ffff00</reverse>
+      <button>#ccc</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000020</id>
+    <name>龍熒企業</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <tags>外銷</tags>
+    <color>
+      <box>#2e6306</box>
+      <text>auto</text>
+      <reverse>#ffff00</reverse>
+      <button>#ccc</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000092</id>
+    <name>信都電子科技</name>
+    <category>WEB DESIGN</category>
+    <enabled>false</enabled>
+    <link></link>
+    <tags>外銷</tags>
+    <color>
+      <box>#0a195c</box>
+      <text>#eee</text>
+      <reverse>#ff0000</reverse>
+      <button>#ccc</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000097</id>
+    <name>楹裕電子</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags>外銷</tags>
+    <color>
+      <box>#1969a0</box>
+      <text>#fff</text>
+      <reverse>#ffff00</reverse>
+      <button>#ccc</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000044</id>
+    <name>通永和企業</name>
+    <category>WEB DESIGN</category>
+    <enabled>false</enabled>
+    <link></link>
+    <tags>外銷, 製造業</tags>
+    <color>
+      <box>#1ab2bb</box>
+      <text>#fff</text>
+      <reverse>#ff0000</reverse>
+      <button>#bbb</button>
+      <scrollbar>#ccc</scrollbar>
+      <draggable>#999</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+  
+  <work>
+    <id>m000081</id>
+    <name>旭春股份有限公司</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <link></link>
+    <tags>外銷, 製造業</tags>
+    <color>
+      <box>#d94c00</box>
+      <text>auto</text>
+      <reverse>#ffff00</reverse>
+      <button>#aaa</button>
+      <scrollbar>#888</scrollbar>
+      <draggable>#aaa</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+
+  <work>
+    <id>m000035</id>
+    <name>良啟五金鐵網</name>
+    <category>WEB DESIGN</category>
+    <enabled>true</enabled>
+    <tags>外銷, 製造業</tags>
+    <link></link>
+    <color>
+      <box>#0d1b56</box>
+      <text>auto</text>
+      <reverse>#eeee00</reverse>
+      <button>auto</button>
+      <scrollbar>auto</scrollbar>
+      <draggable>auto</draggable>
+      <view>auto</view>
+      <shadow>auto</shadow>
+    </color>
+  </work>
+  
+</site>

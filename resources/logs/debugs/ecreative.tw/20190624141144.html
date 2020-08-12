@@ -1,0 +1,147 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="utf-8" />
+    <base href="https://ecreative.tw:443/library/Sewii/System/Debugger/template/" />
+    <link href="debugger.css" rel="stylesheet" />
+    <title>應用程式發生技術性問題</title>
+  </head>
+  <body>
+    <div id="layout">
+      <h1>應用程式發生技術性問題 (1)</h1>
+      <p id="serverInfo">Apache at ecreative.tw Port 443</p>
+      <div class="fieldsets">
+        <fieldset>
+          <legend>問題摘要</legend>
+          <p>Undefined index: HTTP_USER_AGENT</p>
+        </fieldset> 
+
+        <fieldset>
+          <legend>詳細資訊</legend>
+          <ul class="details">
+            <li><label>錯誤類型:</label>Notice</li>
+            <li><label>應用程式:</label>library/Sewii/System/Debugger/Debugger.php</li>
+            <li><label>中斷行數:</label>329</li>
+            <li><label>請求 URI:</label>/test/wp-includes/wlwmanifest.xml</li>
+            <li><label>請求方法:</label>GET HTTP/1.1</li>   
+          </ul>
+        </fieldset>
+
+        <fieldset>
+          <legend>附加資訊</legend>
+          <ul class="details">
+            <li><label>用戶端資訊:</label><span id="userAgent"></span></li>
+            <li><label>連線 IP:</label>91.134.248.253</li>
+            <li><label>發生時間:</label>2019-06-24 14:11:44</li> 
+          </ul>
+        </fieldset>   
+
+        <fieldset class="trace"> 
+          <legend>堆疊追蹤</legend>
+          <p>#0 {main}</p>
+        </fieldset>
+
+        <fieldset>
+          <legend>發生原因</legend>
+          <ul id="causes">
+            <li>系統維護中</li>
+            <li>伺服器忙錄中</li>
+            <li>網路連線異常</li>  
+            <li>未預期的錯誤</li>
+          </ul>
+        </fieldset>                                                                  
+
+        <fieldset>
+          <legend>解決方法</legend>
+          <ul id="solves">               
+            <li><a href="javascript:history.go(-1)">回到上一頁</a></li>
+            <li><a href="javascript:window.location.reload()">重新整理此頁面</a></li>
+            <li><a href="javascript:void(window.open('https://ecreative.tw:443/library/Sewii/System/Debugger/Debugger.php?report=%2Fhome%2Fyouweb%2Fpublic_html%2Fresources%2Flogs%2Fdebugs%2Fecreative.tw%2F20190624141144.html', '_blank'))">洽詢系統管理員</a></li>
+          </ul>
+        </fieldset>
+      </div>
+      <address id="copyright">Powered by &copy; 2019 <a href="mailto:report@sewii.com.tw">Sewii Soft</a> All rights reserved</address>
+    </div>
+  </body>
+</html>
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="utf-8" />
+    <base href="https://ecreative.tw:443/library/Sewii/System/Debugger/template/" />
+    <link href="debugger.css" rel="stylesheet" />
+    <title>應用程式發生技術性問題</title>
+  </head>
+  <body>
+    <div id="layout">
+      <h1>應用程式發生技術性問題 (2)</h1>
+      <p id="serverInfo">Apache at ecreative.tw Port 443</p>
+      <div class="fieldsets">
+        <fieldset>
+          <legend>問題摘要</legend>
+          <p>A field name was provided without a field value</p>
+        </fieldset> 
+
+        <fieldset>
+          <legend>詳細資訊</legend>
+          <ul class="details">
+            <li><label>錯誤類型:</label>Zend\Http\Exception\InvalidArgumentException (0)</li>
+            <li><label>應用程式:</label>library/Zend/Http/Headers.php</li>
+            <li><label>中斷行數:</label>192</li>
+            <li><label>請求 URI:</label>/test/wp-includes/wlwmanifest.xml</li>
+            <li><label>請求方法:</label>GET HTTP/1.1</li>   
+          </ul>
+        </fieldset>
+
+        <fieldset>
+          <legend>附加資訊</legend>
+          <ul class="details">
+            <li><label>用戶端資訊:</label><span id="userAgent"></span></li>
+            <li><label>連線 IP:</label>91.134.248.253</li>
+            <li><label>發生時間:</label>2019-06-24 14:11:44</li> 
+          </ul>
+        </fieldset>   
+
+        <fieldset class="trace"> 
+          <legend>堆疊追蹤</legend>
+          <p>#0 library/Zend/Http/Headers.php(155): Zend\Http\Headers-&gt;addHeaderLine('Mozilla/5.0 (Wi...')
+#1 library/Zend/Http/PhpEnvironment/Request.php(238): Zend\Http\Headers-&gt;addHeaders(Array)
+#2 library/Zend/Http/PhpEnvironment/Request.php(86): Zend\Http\PhpEnvironment\Request-&gt;setServer(Object(Zend\Stdlib\Parameters))
+#3 library/Sewii/Http/Request.php(40): Zend\Http\PhpEnvironment\Request-&gt;__construct()
+#4 modules/components/Router/Router.php(77): Sewii\Http\Request-&gt;__construct()
+#5 modules/components/Router/Router.php(64): Spanel\Module\Component\Router\Router-&gt;build()
+#6 [internal function]: Spanel\Module\Component\Router\Router-&gt;initialize()
+#7 library/Sewii/System/Singleton.php(96): call_user_func_array(Array, Array)
+#8 modules/components/Router/Router.php(53): Sewii\System\Singleton::getInstance()
+#9 modules/components/Bootstrap.php(235): Spanel\Module\Component\Router\Router::enter()
+#10 modules/components/Bootstrap.php(59): Spanel\Module\Component\Bootstrap-&gt;boot()
+#11 modules/components/Bootstrap.php(42): Spanel\Module\Component\Bootstrap-&gt;initialize()
+#12 index.php(54): Spanel\Module\Component\Bootstrap::run(Array)
+#13 index.php(31): Index-&gt;initialize()
+#14 index.php(68): Index::run()
+#15 {main}</p>
+        </fieldset>
+
+        <fieldset>
+          <legend>發生原因</legend>
+          <ul id="causes">
+            <li>系統維護中</li>
+            <li>伺服器忙錄中</li>
+            <li>網路連線異常</li>  
+            <li>未預期的錯誤</li>
+          </ul>
+        </fieldset>                                                                  
+
+        <fieldset>
+          <legend>解決方法</legend>
+          <ul id="solves">               
+            <li><a href="javascript:history.go(-1)">回到上一頁</a></li>
+            <li><a href="javascript:window.location.reload()">重新整理此頁面</a></li>
+            <li><a href="javascript:void(window.open('https://ecreative.tw:443/library/Sewii/System/Debugger/Debugger.php?report=%2Fhome%2Fyouweb%2Fpublic_html%2Fresources%2Flogs%2Fdebugs%2Fecreative.tw%2F20190624141144.html', '_blank'))">洽詢系統管理員</a></li>
+          </ul>
+        </fieldset>
+      </div>
+      <address id="copyright">Powered by &copy; 2019 <a href="mailto:report@sewii.com.tw">Sewii Soft</a> All rights reserved</address>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,95 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="utf-8" />
+    <base href="https://minmax.tw:443/library/Sewii/System/Debugger/template/" />
+    <link href="debugger.css" rel="stylesheet" />
+    <title>應用程式發生技術性問題</title>
+  </head>
+  <body>
+    <div id="layout">
+      <h1>應用程式發生技術性問題 (1)</h1>
+      <p id="serverInfo">Apache at minmax.tw Port 443</p>
+      <div class="fieldsets">
+        <fieldset>
+          <legend>問題摘要</legend>
+          <p>file_get_contents(resources/temporaries/cache/serializable/65c2fe51db2c/default-slideshow.dat): failed to open stream: No such file or directory</p>
+        </fieldset> 
+
+        <fieldset>
+          <legend>詳細資訊</legend>
+          <ul class="details">
+            <li><label>錯誤類型:</label>Warning</li>
+            <li><label>應用程式:</label>library/Sewii/Filesystem/File.php</li>
+            <li><label>中斷行數:</label>258</li>
+            <li><label>請求 URI:</label>/works/detail/m000138/%E5%A4%A7%E5%9C%B0%E5%A5%87%E5%B2%A9%E6%BA%AB%E6%B3%89%E9%85%92%E5%BA%97/%E7%BE%8E%E9%A3%9F%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/%E6%97%85%E9%81%8A%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88/environment/photo/799999%22%20union%20select%20unhex(hex(version()))%20--%20%22x%22=%22x</li>
+            <li><label>請求方法:</label>GET HTTP/1.1</li>   
+          </ul>
+        </fieldset>
+
+        <fieldset>
+          <legend>附加資訊</legend>
+          <ul class="details">
+            <li><label>用戶端資訊:</label><span id="userAgent">Mozilla/5.0 (Windows NT 6.0; rv:34.0) Gecko/20100101 Firefox/34.0</span></li>
+            <li><label>連線 IP:</label>42.190.173.161</li>
+            <li><label>發生時間:</label>2019-03-28 09:12:04</li> 
+          </ul>
+        </fieldset>   
+
+        <fieldset class="trace"> 
+          <legend>堆疊追蹤</legend>
+          <p>#0 library/Sewii/Filesystem/File.php(258): file_get_contents('resources/tempo...')
+#1 [internal function]: Sewii\Filesystem\File::_read('resources/tempo...')
+#2 library/Sewii/Filesystem/File.php(93): call_user_func_array(Array, Array)
+#3 library/Sewii/Filesystem/File.php(58): Sewii\Filesystem\File::__callInternal(Array, Array, 'read')
+#4 library/Sewii/Cache/Storage/Filesystem.php(110): Sewii\Filesystem\File-&gt;__call('read', Array)
+#5 modules/controllers/Site/User/Unit/Index.php(271): Sewii\Cache\Storage\Filesystem-&gt;get('default-slidesh...')
+#6 modules/controllers/Site/User/Unit/Index.php(197): Spanel\Module\Controller\Site\User\Unit\UnitIndex-&gt;renderPage()
+#7 modules/controllers/Site/User/Unit/Index.php(57): Spanel\Module\Controller\Site\User\Unit\UnitIndex-&gt;renders()
+#8 [internal function]: Spanel\Module\Controller\Site\User\Unit\UnitIndex-&gt;onLoadLayout()
+#9 modules/components/Controller/Site/Unit.php(96): call_user_func(Array)
+#10 modules/components/Controller/Site/Unit.php(81): Spanel\Module\Component\Controller\Site\Unit-&gt;toListen()
+#11 modules/components/Controller/Site/Site.php(620): Spanel\Module\Component\Controller\Site\Unit-&gt;__construct(Object(Spanel\Module\Controller\Site\User\User))
+#12 modules/components/Controller/Site/Site.php(633): Spanel\Module\Component\Controller\Site\Site-&gt;Spanel\Module\Component\Controller\Site\{closure}(Object(Sewii\Data\Hashtable))
+#13 modules/components/Controller/Site/Site.php(206): Spanel\Module\Component\Controller\Site\Site-&gt;loadUnit()
+#14 modules/components/Controller/Site/Site.php(195): Spanel\Module\Component\Controller\Site\Site-&gt;run()
+#15 modules/components/Router/Dispatcher.php(40): Spanel\Module\Component\Controller\Site\Site::executeIntent(Object(Spanel\Module\Component\Router\Intent))
+#16 modules/components/Router/Router.php(134): Spanel\Module\Component\Router\Dispatcher-&gt;dispatch(Object(Spanel\Module\Component\Router\Intent))
+#17 modules/components/Router/Router.php(122): Spanel\Module\Component\Router\Router-&gt;onDispatch(Object(Spanel\Module\Component\Router\Intent))
+#18 modules/components/Router/Router.php(105): Spanel\Module\Component\Router\Router-&gt;onMatch(Object(Spanel\Module\Component\Router\SiteRoute))
+#19 modules/components/Router/Router.php(65): Spanel\Module\Component\Router\Router-&gt;listen()
+#20 [internal function]: Spanel\Module\Component\Router\Router-&gt;initialize()
+#21 library/Sewii/System/Singleton.php(96): call_user_func_array(Array, Array)
+#22 modules/components/Router/Router.php(53): Sewii\System\Singleton::getInstance()
+#23 modules/components/Bootstrap.php(235): Spanel\Module\Component\Router\Router::enter()
+#24 modules/components/Bootstrap.php(59): Spanel\Module\Component\Bootstrap-&gt;boot()
+#25 modules/components/Bootstrap.php(42): Spanel\Module\Component\Bootstrap-&gt;initialize()
+#26 index.php(54): Spanel\Module\Component\Bootstrap::run(Array)
+#27 index.php(31): Index-&gt;initialize()
+#28 index.php(68): Index::run()
+#29 {main}</p>
+        </fieldset>
+
+        <fieldset>
+          <legend>發生原因</legend>
+          <ul id="causes">
+            <li>系統維護中</li>
+            <li>伺服器忙錄中</li>
+            <li>網路連線異常</li>  
+            <li>未預期的錯誤</li>
+          </ul>
+        </fieldset>                                                                  
+
+        <fieldset>
+          <legend>解決方法</legend>
+          <ul id="solves">               
+            <li><a href="javascript:history.go(-1)">回到上一頁</a></li>
+            <li><a href="javascript:window.location.reload()">重新整理此頁面</a></li>
+            <li><a href="javascript:void(window.open('https://minmax.tw:443/library/Sewii/System/Debugger/Debugger.php?report=%2Fhome%2Fyouweb%2Fpublic_html%2Fresources%2Flogs%2Fdebugs%2Fminmax.tw%2F20190328091204.html', '_blank'))">洽詢系統管理員</a></li>
+          </ul>
+        </fieldset>
+      </div>
+      <address id="copyright">Powered by &copy; 2019 <a href="mailto:report@sewii.com.tw">Sewii Soft</a> All rights reserved</address>
+    </div>
+  </body>
+</html>

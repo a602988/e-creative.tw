@@ -1,0 +1,3 @@
+(window._gsQueue||(window._gsQueue=[])).push(function(){"use strict";window._gsDefine.plugin({propName:"endArray",API:2,version:"0.1.1",init:function(target,value,tween){var i=value.length,a=this.a=[],start,end;this.target=target;this._round=false;if(!i){return false;}
+while(--i>-1){start=target[i];end=value[i];if(start!==end){a.push({i:i,s:start,c:end-start});}}
+return true;},round:function(lookup){if("endArray"in lookup){this._round=true;}},set:function(ratio){var target=this.target,a=this.a,i=a.length,e,val;if(this._round){while(--i>-1){e=a[i];target[e.i]=Math.round(e.s+e.c*ratio);}}else{while(--i>-1){e=a[i];val=e.s+e.c*ratio;target[e.i]=(val<0.000001&&val>-0.000001)?0:val;}}}});});if(window._gsDefine){window._gsQueue.pop()();}

@@ -1,0 +1,30 @@
+body{background-color:#111}#main{background-color:#888}.awwwards{background-image:url(images/common/awwwards.png)}#header{background-color:rgba(0, 0, 0, 0.96);border-color:#1f1f1f}#header .logo,
+html.msie #header
+.logo{top:21px;width:210px;height:33px;background-image:url(images/common/header/logo.png);background-image:url(images/common/header/logo.gif)}#header .navigation .items li:before{color:#666}#header .navigation .items li
+a{color:#ccc}#header .navigation .items li a:hover,
+#header .navigation .items li
+a.actived{color:#ee2e2e}#header .navigation .items li a
+.underline{background-color:#ee2e2e}#header.nano-size .navigation
+.collapse{background:url(images/common/header/menu.png) no-repeat}#header.nano-size .navigation
+.scrollable{background-color:rgba(188,0,36,0.90)}#footer{background-color:rgba(0, 0, 0, 0.96);border-color:#000;border-color:#1f1f1f}#footer .navigation>ul>li{border-color:#666}#footer .navigation > ul > li
+a{color:#ccc}#footer .navigation > ul > li a:hover,
+#footer .navigation > ul > li
+a.actived{color:#ee2e2e}#footer .navigation > ul > li a
+.underline{background-color:#ee2e2e}#footer
+.info{color:#777}#footer .info .contact>dt{border-color:#3f3f3f}#footer .info .author .name:before{background:url(images/common/footer/icons.png);top:-1px}#footer
+.facebook{background-image:url(images/common/footer/facebook.gif)}#footer > .links
+.ask{border-color:#3f3f3f;background-color:#000;box-shadow:1px 1px 1px rgba(255, 255, 255, 0.10);color:#ccc}#footer > .links .ask:hover{border-color:#3f3f3f;background-color:#1f1f1f}#footer > .links .ask:before{background-image:url(images/common/footer/icons.png)}#about{background:url(images/about/background.png) no-repeat #eee;background-image:url(images/about/background.jpg);background-size:cover}#about .brief span[data-id]{color:#000}#about .brief span[data-id="last"]>div:first-child{color:#bc0024}#about .brief .icon-logo{background-image:url(images/about/icon-logo.png)}#team{background-image:url(images/team/background.png);background-size:cover}#team
+.structure{background:url(images/team/layer.png) no-repeat;background-size:cover}#team
+.caption{-webkit-text-shadow:1px 1px 1px rgba(0, 0, 0, 0.05);color:#fff}#team .people .item
+.layer{background:none}#team .people .prev,
+#team .people .next,
+#team-person .prev,
+#team-person
+.next{background-image:url(images/team/buttons.png)}#team-person .item > .inner > .brief .title .chinese,
+#team-person .item > .inner > .brief .name b,
+#team-person .item > .inner > .brief .name:first-letter {color:#bc0024}#environment{background-color:rgba(85,85,85,1)}#works{background-image:url(images/works/background.jpg);background-size:cover}#works .list
+.scrollable{background-color:transparent}#works
+.progressbar{background-color:#bc0024}#contact .navigation a[data-id="mail"]{background-color:#666;background-color:#bc0024}#contact>.box.orange{background-color:rgba(137,137,137,0.85);background-color:rgba(188,0,36,0.85)}#contact>.map.mail{background:no-repeat center #210208}#contact>.map>.inner{background-color:#fff;background-color:#000}#contact .map>.inner>.canvas{opacity: .93}#contact>.map>.inner>.watermarker{color:#111;color:#fff}#contact > .map .marker-user{background-image:url(images/contact/markers/user.png)}#contact > .map .marker-orange{background-image:url(images/contact/markers/orange.png)}#contact > .map .marker-green{background-image:url(images/contact/markers/green.png)}#contact > .map .marker-blue{background-image:url(images/contact/markers/blue.png)}#contact > .map .circle-orange{background-image:url(images/contact/markers/circles/orange.png)}#contact > .map .circle-green{background-image:url(images/contact/markers/circles/green.png)}#contact > .map .circle-blue{background-image:url(images/contact/markers/circles/blue.png)}#loading{background-color:rgba(35, 35, 35, 1);background-color:rgba(20, 20, 20, 1);color:#ccc}#loading
+.initial{color:#aaa}#loading
+.logo{background-image:url(images/common/loading/logo/default.png)}#loading
+.logo.inside{background-image:url(images/common/loading/logo/inside.png)}#loading .progressed>i{color:#bc0024}#loading.inside{background-color:rgba(188,0,36,0.97);color:#fff}#loading.inside.opaque{background-color:rgba(188,0,36,0.99)}#loading.inside.non3d.opaque{background-color:rgba(188, 0, 36, 0.97)}

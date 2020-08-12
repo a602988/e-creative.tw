@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<cyotek.spriter.project version="1.0.0.0" generator="Cyotek Spriter 1.0.7.1" edition="" timestamp="2014-07-10 13:42:26Z">
+  <canvas w="232" h="44" />
+  <maximumSpriteSize w="45" h="44" />
+  <folders />
+  <export exportCss="true" cssFileName="" exportSpriteSheet="true" exportSprites="false" imageFileName="" imageFormat="Png" exportHtml="false" htmlFileName="" createBackups="false" backupHistorySize="0" />
+  <sprite packingMethod="1" orientation="1" maximumSize="1024" backgroundColor="Transparent" forcePowerOfTwo="false" sort="false">
+    <minimumSize w="0" h="0" />
+  </sprite>
+  <css overwriteMode="0" prefix="" suffix="" classPrefix="" classSuffix="" classQualifier="." invertPositions="true" />
+  <images>
+    <image id="89a2dba7c47c4ea49924dfee5fd32e0f" className="icon-form" fileName="files\icon-form.png" x="0" y="0" width="32" height="32" excluded="false" locked="false" excludeDerivedImages="false" />
+    <image id="62affeb6b4bc45a2b47bbe30ed2cb98b" className="icon-route" fileName="files\icon-route.png" x="32" y="0" width="32" height="32" excluded="false" locked="false" excludeDerivedImages="false" />
+    <image id="bbb9a967b55740cba1aee45edd7baa62" className="icon-street" fileName="files\icon-street.png" x="64" y="0" width="32" height="32" excluded="false" locked="false" excludeDerivedImages="false" />
+    <image id="5e083e99c49e4a62b2fd9bc471d8030f" className="icon-mail" fileName="files\icon-mail.png" x="96" y="0" width="16" height="16" excluded="false" locked="false" excludeDerivedImages="false" />
+    <image id="9da3c31711e14574aa32c4ed7e01a7cd" className="icon-phone" fileName="files\icon-phone.png" x="112" y="0" width="16" height="16" excluded="false" locked="false" excludeDerivedImages="false" />
+    <image id="cecf625eff3245bd860aabbdae3d7c03" className="icon-place" fileName="files\icon-place.png" x="128" y="0" width="16" height="16" excluded="false" locked="false" excludeDerivedImages="false" />
+    <image id="6176b6ef7a3b4b4d96c42d352e9f3a3e" className="icon-success" fileName="files\icon-success.png" x="144" y="0" width="43" height="43" excluded="false" locked="false" excludeDerivedImages="false" />
+    <image id="768221ef85a64c0ead5a5d16b5a12d74" className="icon-error" fileName="files\icon-error.png" x="187" y="0" width="45" height="44" excluded="false" locked="false" excludeDerivedImages="false" />
+  </images>
+  <effects />
+  <addinSettings>
+    <settings name="OptiPNG" />
+  </addinSettings>
+</cyotek.spriter.project>

@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="utf-8" />
+    <base href="{[baseUrl]}" />
+    <link href="debugger.css" rel="stylesheet" />
+    <title>應用程式發生技術性問題</title>
+  </head>
+  <body>
+    <div id="layout">
+      <h1>應用程式發生技術性問題 ({[debugNumber]})</h1>
+      <p id="serverInfo">{[serverSoftware]} at {[serverName]} Port {[serverPort]}</p>
+      <div class="fieldsets">
+        <fieldset>
+          <legend>問題摘要</legend>
+          <p>{[message]}</p>
+        </fieldset> 
+
+        <fieldset>
+          <legend>詳細資訊</legend>
+          <ul class="details">
+            <li><label>錯誤類型:</label>{[type]}</li>
+            <li><label>應用程式:</label>{[file]}</li>
+            <li><label>中斷行數:</label>{[line]}</li>
+            <li><label>請求 URI:</label>{[requestUri]}</li>
+            <li><label>請求方法:</label>{[requestMethod]} {[serverProtocol]}</li>   
+          </ul>
+        </fieldset>
+
+        <fieldset>
+          <legend>附加資訊</legend>
+          <ul class="details">
+            <li><label>用戶端資訊:</label><span id="userAgent">{[userAgent]}</span></li>
+            <li><label>連線 IP:</label>{[remoteAddress]}</li>
+            <li><label>發生時間:</label>{[dateTime]}</li> 
+          </ul>
+        </fieldset>   
+
+        <fieldset class="trace"> 
+          <legend>堆疊追蹤</legend>
+          <p>{[trace]}</p>
+        </fieldset>
+
+        <fieldset>
+          <legend>發生原因</legend>
+          <ul id="causes">
+            <li>系統維護中</li>
+            <li>伺服器忙錄中</li>
+            <li>網路連線異常</li>  
+            <li>未預期的錯誤</li>
+          </ul>
+        </fieldset>                                                                  
+
+        <fieldset>
+          <legend>解決方法</legend>
+          <ul id="solves">               
+            <li><a href="javascript:history.go(-1)">回到上一頁</a></li>
+            <li><a href="javascript:window.location.reload()">重新整理此頁面</a></li>
+            <li><a href="javascript:void(window.open('{[reportUrl]}', '_blank'))">洽詢系統管理員</a></li>
+          </ul>
+        </fieldset>
+      </div>
+      <address id="copyright">Powered by &copy; {[latestYear]} <a href="mailto:{[reportEmail]}">Sewii Soft</a> All rights reserved</address>
+    </div>
+  </body>
+</html>

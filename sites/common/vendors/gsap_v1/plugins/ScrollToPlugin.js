@@ -1,0 +1,11 @@
+(window._gsQueue||(window._gsQueue=[])).push(function(){"use strict";var _doc=document.documentElement,_window=window,_max=function(element,axis){var dim=(axis==="x")?"Width":"Height",scroll="scroll"+dim,client="client"+dim,body=document.body;return(element===_window||element===_doc||element===body)?Math.max(_doc[scroll],body[scroll])-(_window["inner"+dim]||Math.max(_doc[client],body[client])):element[scroll]-element["offset"+dim];},ScrollToPlugin=window._gsDefine.plugin({propName:"scrollTo",API:2,version:"1.7.3",init:function(target,value,tween){this._wdw=(target===_window);this._target=target;this._tween=tween;if(typeof(value)!=="object"){value={y:value};}
+this._autoKill=(value.autoKill!==false);this.x=this.xPrev=this.getX();this.y=this.yPrev=this.getY();if(value.x!=null){this._addTween(this,"x",this.x,(value.x==="max")?_max(target,"x"):value.x,"scrollTo_x",true);this._overwriteProps.push("scrollTo_x");}else{this.skipX=true;}
+if(value.y!=null){this._addTween(this,"y",this.y,(value.y==="max")?_max(target,"y"):value.y,"scrollTo_y",true);this._overwriteProps.push("scrollTo_y");}else{this.skipY=true;}
+return true;},set:function(v){this._super.setRatio.call(this,v);var x=(this._wdw||!this.skipX)?this.getX():this.xPrev,y=(this._wdw||!this.skipY)?this.getY():this.yPrev,yDif=y-this.yPrev,xDif=x-this.xPrev;if(this._autoKill){if(!this.skipX&&(xDif>7||xDif<-7)&&x<_max(this._target,"x")){this.skipX=true;}
+if(!this.skipY&&(yDif>7||yDif<-7)&&y<_max(this._target,"y")){this.skipY=true;}
+if(this.skipX&&this.skipY){this._tween.kill();}}
+if(this._wdw){_window.scrollTo((!this.skipX)?this.x:x,(!this.skipY)?this.y:y);}else{if(!this.skipY){this._target.scrollTop=this.y;}
+if(!this.skipX){this._target.scrollLeft=this.x;}}
+this.xPrev=this.x;this.yPrev=this.y;}}),p=ScrollToPlugin.prototype;ScrollToPlugin.max=_max;p.getX=function(){return(!this._wdw)?this._target.scrollLeft:(_window.pageXOffset!=null)?_window.pageXOffset:(_doc.scrollLeft!=null)?_doc.scrollLeft:document.body.scrollLeft;};p.getY=function(){return(!this._wdw)?this._target.scrollTop:(_window.pageYOffset!=null)?_window.pageYOffset:(_doc.scrollTop!=null)?_doc.scrollTop:document.body.scrollTop;};p._kill=function(lookup){if(lookup.scrollTo_x){this.skipX=true;}
+if(lookup.scrollTo_y){this.skipY=true;}
+return this._super._kill.call(this,lookup);};});if(window._gsDefine){window._gsQueue.pop()();}

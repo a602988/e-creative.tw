@@ -1,0 +1,54 @@
+Content-Type: text/html; charset="UTF-8"
+Subject: 已收到您的來信 ({name} / {serial})
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body style="background: #f0f0f0; font: 12px Arial, 微軟正黑體; color: #000; padding: 30px">
+  <table width="600" border="0" cellpadding="0" cellspacing="0" align="center" style="background: #fff; font: 12px Arial, 微軟正黑體; color: #000; border: 10px #e0e0e0 solid; border-radius: 20px">
+    <tr>
+      <td align="left" valign="top" style="padding: 20px">
+        <p style="color: #000; font-size: 16px; font-weight: bold; margin: 10px 0 20px">
+          親愛的 <span style="color: #125773">{name}</span> ，您好
+        </p>
+        <div style="border: 1px dashed #ccc; border-left: none; border-right: none; padding: 25px 0; ">
+          <p style="margin: 0 20px">
+            您的來信我們已經收到。請耐心等候一些時間，我們將會盡快回覆您的問題。<br />
+            本次信件單號為 <b style="color: #125773">{serial}</b>，如果您需要專人立即服務，請直接與我們的客服中心聯繫。
+          </p>
+          <p style="margin: 20px; "><b>以下為您的信件資料明細：</b></p>
+          <p style="margin: 20px">
+            尊姓大名：{name}<br />
+            聯絡電話：{phone}<br />
+            電子信箱：{email}<br />
+            訊息時間：{time}<br />
+            訊息位置：{ip}<br />
+            信件主旨：{subject}<br />
+            信件內容：{message}<br />
+          </p>
+          <p style="margin: 20px">
+            -----<br />
+            客服專線：04-2435-0749<br />
+            客服信箱：{websiteEmail}<br />
+            客服經理：0987-000-588 / Jean
+          </p>
+          <p style="margin: 0 20px;">
+            謝謝您對{websiteName}的支持<br />
+            敬祝 順利 平安 
+          </p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <div style="font-size: 14px; font-weight: bold; color: #125773; margin: 0;">本信件為系統自動發送，請勿直接回覆！</div>
+        <p style="font-family: Tahoma, Geneva, sans-serif; font-size: 12px; color: #666; margin: 5px 0 25px;">
+          Copyright &copy; <a href="{websiteUrl}" style="color: #0066cc">{websiteName}</a>,  All rights reserved.
+        </p>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>

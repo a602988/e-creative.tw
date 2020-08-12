@@ -1,0 +1,10 @@
+#Test the htaccess file is working
+RedirectMatch 301 ^(.*)(resources/documents/testing/)htaccess/?$ $1$2response.txt
+
+<IfModule rewrite_module>
+    RewriteEngine On
+
+    #Test the rewrite module is working
+    RewriteCond %{REQUEST_URI} ^(.*)(resources/documents/testing/)rewrite/?$
+    RewriteRule . %1%2response.txt [L]
+</IfModule>

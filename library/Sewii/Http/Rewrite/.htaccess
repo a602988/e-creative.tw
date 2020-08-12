@@ -1,0 +1,84 @@
+<IfModule rewrite_module>
+
+    RewriteEngine On
+    # /projects/working/spanel/v3/src
+    RewriteBase /
+
+    #############################################################################################################
+    # Resources
+    #############################################################################################################
+
+    RewriteCond %{REQUEST_URI} !^/resources(.*)$
+    RewriteRule crossdomain.xml resources/commonFiles/crossdomain.xml [L] 
+
+    RewriteCond %{REQUEST_URI} !^/resources(.*)$
+    RewriteRule sitemap.xml resources/commonFiles/sitemap.xml [L] 
+
+    RewriteCond %{REQUEST_URI} !^/resources(.*)$
+    RewriteRule sitemap.txt resources/commonFiles/sitemap.xml [L] 
+
+    RewriteCond %{REQUEST_URI} !^/resources(.*)$
+    RewriteRule robots.txt resources/commonFiles/robots.txt [L] 
+
+    #############################################################################################################
+    # Rules
+    #############################################################################################################
+
+    #
+    # Matches:
+    #
+    #  thumb/params..
+    #
+    RewriteCond %{REQUEST_URI} !\.(css|js|swf|flv|gif|jpe?g|png)$
+    RewriteCond %{QUERY_STRING} !(onRewrite=\w*|action=\w*|unit=\w*)
+    RewriteCond %{REQUEST_URI} /thumb/.+$
+    RewriteRule ^thumb/(\w.*)$ ?onRewrite=thumb&action=thumb&params=$1 [QSA,L]
+
+    #
+    # Matches:
+    #
+    #  manager/[unit]
+    #
+    RewriteCond %{REQUEST_URI} !\.(css|js|swf|flv|gif|jpe?g|png)$
+    RewriteCond %{QUERY_STRING} !(onRewrite=\w*|action=\w*|unit=\w*)
+    RewriteCond %{REQUEST_URI} /manager|admin.+$
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(manager|admin)(/(\w+))?/?$ ?action=manager&unit=$3&onRewrite=manager [QSA,R,L]
+
+    #
+    # Matches:
+    #
+    #  action/action
+    #
+    RewriteCond %{REQUEST_URI} !\.(css|js|swf|flv|gif|jpe?g|png)$
+    RewriteCond %{QUERY_STRING} !(onRewrite=\w*|action=\w*|unit=\w*)
+    RewriteCond %{REQUEST_URI} /action/.+$
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(action)/([\w\-]+)/?(.+)?$ ?onRewrite=action&action=$2&params=$3 [QSA,L]
+
+    #
+    # Matches:
+    #
+    #  unit/[params]...
+    #  intl/lang/[unit]/[params]...
+    #
+    RewriteCond %{REQUEST_URI} !\.(css|js|swf|flv|gif|jpe?g|png)$
+    RewriteCond %{QUERY_STRING} !(onRewrite=\w*|action=\w*|unit=\w*)
+    #for IE9¡BGoogle Chrome¡BFirefox
+    RewriteCond %{REQUEST_URI} !/intl/thumb/.+$
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(intl/([a-zA-Z]{2}(\-[a-zA-Z]{2})?)/?)?(([\w\-]+)/?)?(/\w+.*)?$ ?onRewrite=user&intl=$2&unit=$5&params=$6 [QSA,L]
+
+    #
+    # Matches:
+    #
+    #  (not set)
+    #
+    RewriteCond %{REQUEST_URI} /[^.]*$
+    RewriteCond %{QUERY_STRING} ^$
+    RewriteRule ^$ ?onRewrite=index [QSA,L]
+
+</IfModule>
